@@ -19,7 +19,7 @@ questions that are ultimately concerned with population dynamics - how individua
 species and communities (including humans) interact over both ecological and evolutionary time.
 
 <p align="center">
-<img src="/assets/img/Simon_weeds_quite_sml.jpg"/>
+<img src="/assets/figs/Simon_weeds_quite_sml.jpg" style="border:2px solid #333333;">
 </p>
 
 
