@@ -6,7 +6,7 @@ title: Publications
 
 ### peer-reviewed publications
 
-1. **Queenborough, S.A.**, Metz, M.R., Valencia, R. & Wright, S.J. 2013 Demographic consequences of chromatic leaf defence in tropical tree communities - do red young leaves increase growth and survival? Annals of Botany. Invited contribution to special issue on seedling herbivory. in press.
+1. **Queenborough, S.A.**, Metz, M.R., Valencia, R. & Wright, S.J. 2013 Demographic consequences of chromatic leaf defence in tropical tree communities - do red young leaves increase growth and survival? Annals of Botany. Invited contribution to special issue on seedling herbivory. in press. [doi](http://dx.doi.org/10.1093/aob/mct144): 10.1093/aob/mct144 PDF
 
 18. **Queenborough, S.A.**, Humphreys, A. & Valencia, R. 2013 Sex specific flowering patterns in the understorey rain forest tree Iryanthera hostmannii (Myristicaceae). Tropical Conservation Science in press. 
 
