@@ -18,15 +18,14 @@ statistical modelling, we address just such a variety of pure and applied
 questions that are ultimately concerned with population dynamics - how individuals, 
 species and communities (including humans) interact over both ecological and evolutionary time.
 
+
 <p align="center">
 <img src="/assets/figs/Simon_weeds_quite_sml.jpg" style="border:2px solid #333333;">
 </p>
 
 
-Department of Evolution, Ecology & Organismal Biology<br>The Ohio State University<br>
-318 W 12th Ave<br>
-Columbus, OH 43210<br>
-USA
+**Address:** Department of Evolution, Ecology and Organismal Biology, The Ohio State University, Columbus OH 43210, USA
 
-queenborough.1@osu.edu
+**Email:** <a href="mailto:queenborough.1@osu.edu">queenborough.1@osu.edu</a>
+
 
