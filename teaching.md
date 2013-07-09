@@ -4,6 +4,19 @@ title: Teaching
 
 ---
 
+
+### Introduction to R
+
+We teach an Introduction to R course, covering basic to advanced programming and statistics in [R](www.r-project.org). We have taught four courses so far:
+
+ - Quito, Ecuador. January 2010
+ - Bangalore, India. August 2010
+ - Beijing, China, October 2010
+ - Columbus, USA Spring Quarter 2012
+
+This will be taught this coming semester (AU13): [Announcement](intro-r.html)
+
+
 ### EEOB Graduate seminar: data to paper
 
 <p align="left">
@@ -31,18 +44,6 @@ Students are trained to think like scientists. Interpret data, design experiment
 Fifteen days, 15 students, four habitat types, one canal.
 
 Students learn practical scientific skills of experimental design, execution and presentation, basic identification and taxonomy, and experience a number of different cultures and ecosystems, as well as interacting with world-class scientists in the [Smithsonian Tropical Research Institute](http://www.stri.si.edu/).
-
-
-### Introduction to R
-
-We teach an [Introduction to R](intro-r.html) course, covering basic to advanced programming and statistics in R. We have taught four courses so far:
-
- - Quito, Ecuador. January 2010
- - Bangalore, India. August 2010
- - Beijing, China, October 2010
- - Columbus, USA Spring Quarter 2012
-
-Please contact me for more details.
 
 
 ### Dissemination
