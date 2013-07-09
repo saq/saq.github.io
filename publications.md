@@ -8,7 +8,7 @@ title: Publications
 
 1. **Queenborough, S.A.**, Metz, M.R., Valencia, R. & Wright, S.J. 2013 Demographic consequences of chromatic leaf defence in tropical tree communities - do red young leaves increase growth and survival? Annals of Botany. Invited contribution to special issue on seedling herbivory. in press. [doi](http://dx.doi.org/10.1093/aob/mct144): 10.1093/aob/mct144 PDF
 
-18. **Queenborough, S.A.**, Humphreys, A. & Valencia, R. 2013 Sex specific flowering patterns in the understorey rain forest tree Iryanthera hostmannii (Myristicaceae). Tropical Conservation Science in press. 
+18. **Queenborough, S.A.**, Humphreys, A. & Valencia, R. 2013 Sex specific flowering patterns in the understorey rain forest tree *Iryanthera hostmannii* (Myristicaceae). Tropical Conservation Science in press. 
 
 17. Callinger, K., Curtis, P.S. & **Queenborough, S.A.** 2013 Herbarium specimens reveal the footprint of climate change on flowering trends across north-central North America. Ecology Letters. in press. [doi](http://dx.doi.org/10.1111/ele.12135): 10.1111/ele.12135 [PDF](../assests/pubs/2013-Callinger-ELE.pdf)
 
