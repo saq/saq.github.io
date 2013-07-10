@@ -65,9 +65,9 @@ title: Publications
 
 5. **Queenborough, S.A.** & Cooke, I.R. 2011 The habits of successful ecologists, or Does Facebook count as outreach? Bulletin of the British Ecological Society 42 (1), 40-42. [PDF](../assets/pubs/bes-bulletin/2011-BESbulletin-productivity.pdf)
 
-4. Sutherland, W.J. et al. 2010 Is wildlife conservation compatible with arable farming? Evaluating the options for sustainable agriculture. RELU Policy and Practice Notes 23, December 2010. [PDF](..assets/pubs/policy-notes/2010-Sutherland_RELU_policynote23.pdf)
+4. Sutherland, W.J. et al. 2010 Is wildlife conservation compatible with arable farming? Evaluating the options for sustainable agriculture. RELU Policy and Practice Notes 23, December 2010. [PDF](../assets/pubs/policy-notes/2010-Sutherland_RELU_policynote23.pdf)
 
-4. **Queenborough, S.A.** & Comita, L.S. 2010 Should Ecological Science Be Ethical? Union Seminary Quarterly Review 63, 18-25. [PDF]((..assets/pubs/2010-Queenborough-USQR-ethics.pdf)
+4. **Queenborough, S.A.** & Comita, L.S. 2010 Should Ecological Science Be Ethical? Union Seminary Quarterly Review 63, 18-25. [PDF](../assets/pubs/2010-Queenborough-USQR-ethics.pdf)
 
 3. **Queenborough, S.A.**, Cooke, I.R. & Schildhauer, M.P. 2010 Do we need an Eco-Bank? The ecology of data-sharing. Bulletin of the British Ecological Society 41 (3), 32-35. [PDF](../assets/pubs/bes-bulletin/2010-BESbulletin-datasharing.pdf)
 
