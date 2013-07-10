@@ -10,11 +10,11 @@ title: Publications
 
 18. **Queenborough, S.A.**, Humphreys, A. & Valencia, R. 2013 Sex specific flowering patterns in the understorey rain forest tree *Iryanthera hostmannii* (Myristicaceae). Tropical Conservation Science in press. 
 
-17. Callinger, K., Curtis, P.S. & **Queenborough, S.A.** 2013 Herbarium specimens reveal the footprint of climate change on flowering trends across north-central North America. Ecology Letters. in press. [doi](http://dx.doi.org/10.1111/ele.12135): 10.1111/ele.12135 [PDF](../assests/pubs/2013-Callinger-ELE.pdf)
+17. Callinger, K., Curtis, P.S. & **Queenborough, S.A.** 2013 Herbarium specimens reveal the footprint of climate change on flowering trends across north-central North America. Ecology Letters. in press. [doi](http://dx.doi.org/10.1111/ele.12135): 10.1111/ele.12135 [PDF](../assets/pubs/2013-Callinger-ELE.pdf)
 
 16. Cooke, I.R., Mattison, E.H., Audsley, E., Bailey, A., Freckleton, R.P., Graves, A.R., Morris, J., **Queenborough, S.A.**, Sanders, D.L., Sirawarden, G., Trawick, P., Watkinson, A.R., & Sutherland, W.J. 2013 Empirical test of an agricultural landscape model: the importance of farmer preference for risk-aversion and crop complexity. SAGE Open. Vol. 3, no. 2 2158244013486491. [doi](http://dx.doi.org/10.1177/2158244013486491): 10.1177/2158244013486491 [PDF](../assets/pubs/2013-Cooke-SAGE.pdf)
 
-15. Jimenez, A.G., Harper, J.M., **Queenborough, S.A.** & Williams, J.B. 2013 Linkages between the life-history evolution of tropical and temperate birds and the resistance of the cells to oxidative and non-oxidative chemical injury. Journal of Experimental Biology 216, 1373-1380. [doi](http://dx.doi.org/10.1242/​jeb.079889): 10.1242/​jeb.079889. [PDF](../assets/pubs/2013-Jimenez-JEB.pdf)
+15. Jimenez, A.G., Harper, J.M., **Queenborough, S.A.** & Williams, J.B. 2013 Linkages between the life-history evolution of tropical and temperate birds and the resistance of the cells to oxidative and non-oxidative chemical injury. Journal of Experimental Biology 216, 1373-1380. [doi](http://dx.doi.org/10.1242/jeb.079889): 10.1242/​jeb.079889. [PDF](../assets/pubs/2013-Jimenez-JEB.pdf)
 
 14. **Queenborough, S.A.** & Porras, C.M. 2013 Expanding coverage of plant trait databases - a comparison of specific leaf area from fresh and dried leaves. Plant Ecology & Diversity, online early. [doi](http://dx.doi.org/10.1080/17550874.2013.777483): 10.1080/17550874.2013.777483. [PDF](../assets/pubs/2013-Queenborough-TPED.pdf)
 
