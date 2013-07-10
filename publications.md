@@ -38,7 +38,7 @@ title: Publications
 
 4. Cooke, I.R., **Queenborough, S.A.** et al. 2009 Integrating socio-economics and ecology: a review of applications and approaches. Journal of Applied Ecology 46, 269-277. [doi](http://dx.doi.org/10.1111/j.1365-2664.2009.01615.x): 10.1111/j.1365-2664.2009.01615.x [PDF](../assets/pubs/2009-Cooke-JAE.pdf)
 
-3. **Queenborough, S.A.**, Burslem, D.F.R.P., Garwood, N.C., Valencia, R. 2007 Neighborhood and community interactions determine the spatial pattern of tropical tree seedling survival. Ecology 88, 2248-2258. Appendices [doi](http://dx.doi.org/10.1890/06-0737.1): 10.1890/06-0737.1 [PDF](../assets/pubs/2007-Queenborough-Ecology.pdf)
+3. **Queenborough, S.A.**, Burslem, D.F.R.P., Garwood, N.C., Valencia, R. 2007 Neighborhood and community interactions determine the spatial pattern of tropical tree seedling survival. Ecology 88, 2248-2258. [doi](http://dx.doi.org/10.1890/06-0737.1): 10.1890/06-0737.1 [PDF](../assets/pubs/2007-Queenborough-Ecology.pdf) [Appendices](http://esapubs.org/archive/ecol/E088/135/)
 
 2. **Queenborough, S.A.**, Burslem, D.F.R.P., Garwood, N.C., Valencia, R. 2007 Determinants of biased sex ratios and differential costs of reproduction in dioecious tropical forest trees. American Journal of Botany 94, 67-78. [doi](http://dx.doi.org/10.3732/ajb.94.1.67): 10.3732/ajb.94.1.67 [PDF](../assets/pubs/2007-Queenborough-AmJBot.pdf)
 
