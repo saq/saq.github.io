@@ -7,7 +7,7 @@ title: Teaching
 
 ### Introduction to R
 
-We teach an Introduction to R course, covering basic to advanced programming and statistics in [R](www.r-project.org). We have taught four courses so far:
+We teach an [Introduction to R](R/index.html) course, covering basic to advanced programming and statistics in [R](www.r-project.org). We have taught four courses so far:
 
  - Quito, Ecuador. January 2010
  - Bangalore, India. August 2010
