@@ -7,12 +7,19 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+       
+
     <!-- Le styles -->
     <link href="../assets/css/bootstrap.css" rel="stylesheet">
     <style>
       body {
         padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
       }
+
+      div[class="tooltip-inner"]{
+          max-width: 600px;
+      }
+       
     </style>
     <link href="../assets/css/bootstrap-responsive.css" rel="stylesheet">
 
@@ -27,7 +34,7 @@
       <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
                     <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
                                    <link rel="shortcut icon" href="../assets/ico/favicon.png">
-  </head>
+    </head>
 
   <body>
 
@@ -77,5 +84,18 @@
     <script src="../assets/js/bootstrap-collapse.js"></script>
     <script src="../assets/js/bootstrap-carousel.js"></script>
     <script src="../assets/js/bootstrap-typeahead.js"></script>
+
+    <script> $(function()
+             {
+               $("[rel=popover]")
+                   .popover({
+                       html:true
+                    })
+                   .click(function(e) {
+                       e.preventDefault();
+                    });
+             }); </script>
+
   </body>
 </html>
+
