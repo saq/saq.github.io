@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Investigative evolutionary ecology
+title: Research
 
 ---
 
