@@ -27,7 +27,18 @@ species and communities (including humans) interact over both ecological and evo
 <img src="/assets/figs/Simon_weeds_quite_sml.jpg" style="border:2px solid #333333;">
 </p>-->
 
-**Address:** Department of Evolution, Ecology and Organismal Biology, The Ohio State University, Columbus OH 43210, USA
+<ul class="unstyled">
+<li><i class="icon-building"></i> Department of Evolution, Ecology and Organismal Biology, The Ohio State University, Columbus OH 43210, USA </li>
+<li><i class="icon-envelope"></i> <a href="mailto:queenborough.1@osu.edu">queenborough.1@osu.edu</a> </li>
+</ul>
 
-**Email:** <a href="mailto:queenborough.1@osu.edu">queenborough.1@osu.edu</a> &nbsp;&nbsp;&nbsp;  **Twitter:** <a href="https://twitter.com/saqueenborough" class="twitter-follow-button" data-show-count="false">@saqueenborough</a>
+<i class="icon-twitter"></i>  
+
+<a href="https://twitter.com/saqueenborough" class="twitter-follow-button" data-show-count="false">@saqueenborough</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+
+
+
+
