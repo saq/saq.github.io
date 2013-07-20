@@ -4,13 +4,27 @@ title: Research
 
 ---
 
-### Understanding diversity
+<div> 
+<p> <span class="showtooltip" title="funding source"><i class="icon-dollar"> </i></span> funding | <span class="showtooltip" title="collaborators"><i class="icon-user"> </i></span> collaborator </p>
+</div>
+
+
+### understanding diversity
 
 The mechanisms underlying the coexistence of hundreds of sympatric species are still much debated. Using spatially-explicit data on >3,500 seedlings and >3,000 trees in the Myristicaceae (nutmeg) family, we are investigating the influence of negative density-dependence, abiotic and biotic neighborhoods, and species traits on mechanisms of species coexistence at the individual and community levels in a hyper-diverse Neotropical forest (my main field site is located in Yasuni National Park, Ecuador, one of the most biodiverse areas yet discovered on the planet. The Park is a hotspot of diversity for all major taxa, and over 1,100 species of tree coexist in 25-ha of forest). Coexisting adult populations show evidence of niche partitioning of light and soil nutrients (Queenborough et al. 2007 Plant Ecology), but dynamics are most rapid in seedlings. I quantified the scale of spatial autocorrelation in mortality of tree seedlings for the first time (Queenborough et al. 2007 Ecology), critical to understanding the scale of density-dependence. I demonstrated a negative relationship between adult abundance and seedling survival that was not driven by species' traits, suggesting that negative density-dependence could promote species coexistence in this community, and found stronger inter-specific competition between more closely-related species (Queenborough et al. 2009 Proceedings of the Royal Society B).
 
 Comparative studies also offer insight into the diversity of ways that organisms 'make a living'. Understanding how the abiotic and biotic environments shape trait evolution and organismal function is vital to inform principles of biogeography and determine the limits of species distributions. I am investigating reproductive trait diversity for tree species of Yasuni as well as extra-floral nectaries (Boudouris & Queenborough, in review) and leaf size and shape of trees and shrubs in the cerrado savannas of Brazil.
 
-### Resource allocation
+  <div>
+    <ul class="icons-ul">
+        <li><i class="icon-li icon-usd"> </i><a href="http://www.leverhulme.ac.uk/">The Leverhulme Trust</a> | <a href="http://www.britishecologicalsociety.org/">The British Ecological Society</a> | <a href="http://www.ctfs.si.edu">Center for Tropical Forest Science</a></li>
+        <li><i class="icon-li icon-user"> </i><a href="http://www.abdn.ac.uk/biologicalsci/staff/details/d.burslem">David Burslem</a> | <a href="http://www.plantbiology.siu.edu/Adjunct/Garwood.index.html">Nancy Garwood</a> | <a href="http://www.biologia.puce.edu.ec/natura.php?c=164">Renato Valencia</a></li>
+    </ul>
+  </div>
+
+<hr>
+
+### resource allocation
 
 The resources available to an organism are finite and are usually allocated to one function: e.g. reproduction, growth, or defense. Trade-offs among these functions are central to life history theory, but the ease of quantifying allocation to each varies among taxa. For example, comparing males and females of dioecious species (Queenborough et al. 2007 American Journal of Botany) isolates the resource axis (I am currently exploring how the spatial relationship of dioecious trees influences pollination and fruit production over the last 12 years), whereas traits such as extra-floral nectaries have evolved independently many times and are strictly defensive.
 
@@ -18,15 +32,30 @@ One of the most "curious and obscure" problems (<a href="https://en.wikipedia.or
 
 I am also investigating factors that drive the incidence and abundance of dioecy in communities. Up an elevational gradient in Costa Rica, dioecy did not correlate with the likely decrease of pollinators, but instead with the mid-elevation peak in species diversity (Vamosi & Queenborough 2010 Journal of Biogeography).
 
-Since arriving at OSU, I have explored allocation to other life history functions, in particular defense. Many tropical tree species have red-colored juvenile leaves, thought to be cryptic to herbivores that cannot see this wavelength radation. In two tropical tree communities, I found lower mortality rates in seedlings and trees for species with red-colored leaves, supporting this theory (Queenborough et al. Annals of Botany, in review). Extra-floral nectaries in seedlings and trees also appear to have a positive demographic effect (Muehleisen & Queenborough, in prep).
+Since arriving at OSU, I have explored allocation to other life history functions, in particular defense. Many tropical tree species have red-colored juvenile leaves, thought to be cryptic to herbivores that cannot see this wavelength radation. In two tropical tree communities, I found lower mortality rates in seedlings and trees for species with red-colored leaves, supporting this theory (Queenborough et al. Annals of Botany, in press). Extra-floral nectaries in seedlings and trees also appear to have a positive demographic effect (Muehleisen & Queenborough, in prep).
 
 
+  <div>
+    <ul class="icons-ul">
+        <li><i class="icon-li icon-usd"> </i><a href="http://www.leverhulme.ac.uk/">The Leverhulme Trust</a> | <a href="http://www.britishecologicalsociety.org/">The British Ecological Society</a> | <a href="http://www.ctfs.si.edu">Center for Tropical Forest Science</a> | <a href="http://www.systass.org">Systematics Association</a></li>
+        <li><i class="icon-li icon-user"> </i><a href="http://www.abdn.ac.uk/biologicalsci/staff/details/d.burslem">David Burslem</a> | <a href="http://www.plantbiology.siu.edu/Adjunct/Garwood.index.html">Nancy Garwood</a> | <a href="http://www.biologia.puce.edu.ec/natura.php?c=164">Renato Valencia</a> | <a href="http://www.eemb.ucsb.edu/people/faculty/mazer">Susan Mazer</a> | <a href="http://people.ucalgary.ca/~smvamosi/">Steve Vamosi</a> | <a href="http://www.shef.ac.uk/aps/staff-and-students/acadstaff/freckleton">Rob Freckleton</a> | <a href="http://www.margaretmetz.com/file/Home.html">Margaret Metz</a> </li>
+    </ul>
+  </div>
 
-### Quantitative methods in population dynamics
+<hr>
+
+### quantitative methods in population dynamics
 
 I am applying my expertise in quantitative field ecology to examine the population dynamics of annual plants at multiple temporal and spatial scales (part of a large inter-disciplinary [project](http://www.relu.ac.uk/research/projects/SecondCall/Sutherland.htm) looking at sustainable options for biodiverse farming). Studies of annuals are usually conducted at very small spatial scales (0.1-10 m2) and involve counting every individual. With [Rob Freckleton](http://www.shef.ac.uk/aps/staff-and-students/acadstaff/freckleton), I am modifying existing well-known matrix models to use plant density as the state variable rather than life history stage or size. We have shown that using only a few categorical density states, rather than individual counts, accurately captures the population dynamics (Freckleton 2011 Am. Nat.), enabling us to carry out field surveys very rapidly over large areas. We are using these methods to model the hierarchical dynamics of arable weed species for several hectares in each of 500 fields, over 50 farms and three UK counties, to determine how ecological, socio-economic and spatial factors influence distribution, abundance and dynamics (Queenborough et al. 2011 Methods in Ecology & Evolution). An extremely novel element of this work is that we can account for both inter- and intra-observer error, something that is rarely done in ecology.
 
 Through this project, I am collaborating with sociologists and economists to develop models for integrating ecological and socio-economic data. We published a review of the interface between ecological and socio-economic models (Cooke et al. 2009 J. Applied Ecology), and also discussed the issue in a more informal context (Queenborough & Cooke 2010 Bulletin of the British Ecological Society). We have since developed a socio-economic model for farm management and farmer behavior (Cooke et al SAGE Open, in review) and plan to integrate it with models of weed and bird populations.
 
 I am also contributing phylogenetic analyses to various studies examining how climate change is shifting plant phenology.
+
+  <div>
+    <ul class="icons-ul">
+        <li><i class="icon-li icon-usd"> </i> <a href="http://www.relu.ac.uk/">Rural Economy and Land Use Programme</a> | <a href="http://www.leverhulme.ac.uk/">The Leverhulme Trust</a> </li>
+        <li><i class="icon-li icon-user"> </i><a href="http://www.shef.ac.uk/aps/staff-and-students/acadstaff/freckleton">Rob Freckleton</a> | <a href="http://www.zoo.cam.ac.uk/zoostaff/csg/sutherland.html">Bill Sutherland</a> | <a href="http://www.latrobe.edu.au/scitecheng/about/staff/profile?uname=ICooke">Ira Cooke</a></li>
+    </ul>
+  </div>
 
