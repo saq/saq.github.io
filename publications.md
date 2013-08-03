@@ -74,7 +74,7 @@ the evolution and ecology of dioecious species in many forest ecosystems
 
 1. Boudouris, J.<sup><span class="icon-glass"></span></sup> & **Queenborough, S.A.** Diversity and distribution of extra-floral nectaries in the cerrado savanna vegetation of Brazil. PeerJ.
 
-2. Andrew Muehleisen<sup><span class="icon-glass"></span></sup>, Simon A. Queenborough, Renato Valencia & Brigitte Fiala. Incidence of extra-floral nectaries and their relationship to growth and survival of lowland tropical rain forest trees. Journal of Ecology.
+2. Muehleisen, M.<sup><span class="icon-glass"></span></sup>, **Queenborough, S.A.**, Valencia, R & Fiala, B. Incidence of extra-floral nectaries and their relationship to growth and survival of lowland tropical rain forest trees. Journal of Ecology.
 
 3. Amano, T., Freckleton, R.F.P, **Queenborough, S.A.**, Doxford, S.W.<sup><span class="icon-bug"></span></sup>, Smithers, R.J., Sparks, T.H. & Sutherland, W.J. Phenological responses to warming determine changes in niche over space and time. Proceedings of the Royal Society, B.
 
