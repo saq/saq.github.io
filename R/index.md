@@ -26,7 +26,7 @@ Then, watch these online videos: [here](http://www.youtube.com/watch?v=W2GZFeYGU
 
 Next...
 
- - Install [R](www.r-project.org) on to your laptop.
+ - Install [R](http://www.r-project.org) on to your laptop.
  - Install [Rstudio](http://www.rstudio.com/) on your laptop.
 
  ... And get ready for some gRRRReat fun!
