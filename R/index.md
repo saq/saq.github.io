@@ -32,5 +32,57 @@ Next...
  ... And get ready for some gRRRReat fun!
 
 
+## Teaching and Learning Style
+
+This graduate seminar will provide an overview and introduction to the statistical software R. Class time will primarily be used for working through examples and problems as a class or individually. The only way to improve and feel comfortable in R is to use it frequently and regularly.
+
+We will move through topics in the following sequence over the next seven weeks. How long we spend on each section depends how comfortable everyone is. Reading and problems will be assigned in class, on the course website, and via email each week.
+
+
+### Week 1: 16 Oct 2013 | basic
+
+#### Intro to R, overview, guided session, example problems.
+
+
+
+
+
+
+## Schedule
+
+1. Why R? Introduction and overview of R; Guided introduction to R and basic ideas
+    - entering data
+    - data management
+    - useful functions
+
+
+2. Exploring and Visualising Data
+    - basic graphics: plotting, variety of graphs
+    - advanced graphics: modifying plots, advanced graphs, ggplot2
+
+
+3. Statistical Analysis of Data 
+    - classical tests
+    - linear regression
+    - ANOVA
+    - glms
+
+
+4. Advanced Statistics & Programming in R
+    - writing functions
+    - if, for, while, repeat
+    - random sampling
+
+
+5. Specialised Topics in R (by request, e.g.):
+    - mixed effec models
+    - phylogenetic methods
+    - community ordination
+    - spatial point patterns
+    - bayesian analysis
+
+    
+
+
 
 
