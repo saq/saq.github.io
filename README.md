@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: About the site
