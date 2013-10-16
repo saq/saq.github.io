@@ -7,6 +7,10 @@ title: Introduction to R
 Resources
 =========
 
+### analyses
+
+[http://ecology.msu.montana.edu/labdsv/R/](http://ecology.msu.montana.edu/labdsv/R/)
+
 ### programming
 [Code Academy](http://www.codecademy.com/) - "Learn to code. Codecademy is the easiest way to learn how to code. It's interactive, fun, and you can do it with your friends"
 

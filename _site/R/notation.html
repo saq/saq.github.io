@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title> Introduction to R </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="../assets/css/bootswatch.css" rel="stylesheet">
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+
+    div[class="tooltip-inner"]{
+        max-width: 400px;
+       ]
+
+    </style>
+    <link href="../assets/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="../assets/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="../assets/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="/index.html">Queenborough Lab</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="index.html">R</a></li>
+              <li><a href="basic.html">basic</a></li>
+              <li><a href="explore.html">explore</a></li>
+              <li><a href="stats-basic.html">basic stats</a></li>
+              <li><a href="stats-advanced.html">advanced stats</a></li>
+              <li><a href="resources.html">resources</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+    <h1 id='notes_on_scientific_notation_and_standard_notation'>Notes on Scientific Notation and Standard Notation</h1>
+
+<p>Source: <a href='http://zoonek2.free.fr/UNIX/48_R/02_Programming.txt'>http://zoonek2.free.fr/UNIX/48_R/02_Programming.txt</a></p>
+
+<p>Sometimes, the numbers get printed in scientific notation, while you would prefer a more classical notation.</p>
+
+<p>&gt; x &lt;- as.data.frame(t(t(rcauchy(10)^2))) &gt; x V1 1 1.869630e+00 2 5.909726e-01 3 6.114153e-01 4 5.320118e-01 5 5.699883e+00 6 2.616534e+04 7 2.019110e-02 8 1.910365e-01 9 2.384527e-03 10 7.097835e-02</p>
+
+<p>The computer tries to choose between the standard notation and the scientific one by comparing the length of the various numbers. In this example, we want at least 7 significant digits (the &#8220;digits&#8221; option): for this, because one value is around 2e-3, we need 10 decimal places. But as we also 2e+4, we end up using as much as 16 characters to display some of the numbers. On the contrary, in scientific notation, we only use 12 characters: by parsimony, the computer chooses the scientific notation.</p>
+
+<p>But we can alter this by adding a penalty to the scientific notation, with the &#8220;scipen&#8221; option: here, we add a 5-character penalty to the scientific notation; as 16 &lt;= 12 + 5, we keep the standard notation.</p>
+
+<p>&gt; options(scipen=5) &gt; x V1 1 1.869630292 2 0.590972584 3 0.611415260 4 0.532011822 5 5.699882601 6 26165.335966629 7 0.020191104 8 0.191036531 9 0.002384527 10 0.070978346</p>
+
+<p>Sometimes, when we want a greater control on the way the numbers are printed (typically when you are writing the &#8220;print&#8221; method of an object you have just defined), you can resort to the lower-level &#8220;formatC&#8221; function, that transforms numbers into strings, allows you to choose between integer, standard or scientific notation, that allows you to add marks between thousands, millions, etc., that allows you to change the symbol used as decimal point, that allows you to align the numbers on the left or on the right.</p>
+
+<p>&gt; formatC(pi, digits=2, width=8, format=&#8221;f&#8221;) <span>1</span> &#8221; 3.14&#8221;</p>
+
+<p>&gt; formatC(pi, digits=4, width=8, format=&#8221;f&#8221;) <span>1</span> &#8221; 3.1416&#8221;</p>
+
+<p>&gt; formatC(pi, digits=4, width=8, format=&#8221;f&#8221;, flag=&#8221;-&#8220;) # Flush left <span>1</span> &#8220;3.1416 &#8221;</p>
+
+<p>&gt; formatC(1e6, digits=4, width=20, format=&#8221;f&#8221;, big.mark=&#8221;,&#8221;) <span>1</span> &#8221; 1,000,000.0000&#8221;</p>
+
+<p>&gt; formatC(1e6, digits=0, width=20, format=&#8221;f&#8221;, big.mark=&#8221;,&#8221;) <span>1</span> &#8221; 1,000,000&#8221;</p>
+
+<p>&gt; formatC(pi * 1e6, digits=9, width=20, format=&#8221;f&#8221;, big.mark=&#8221;,&#8221;, small.mark=&#8221; &#8220;) <span>1</span> &#8221; 3,141,592.65358 9793&#8221;</p>
+
+<p>&gt; formatC(pi * 1e6, digits=9, width=20, format=&#8221;f&#8221;, big.mark=&#8221; &#8220;, + small.mark=&#8221; &#8220;, small.interval=3, decimal.mark=&#8221;,&#8221;) # in France&#8230; <span>1</span> &#8221; 3 141 592,653 589 793 &#8221;</p>
+
+<p>There is also a &#8220;format&#8221; function (slightly less powerful), a &#8220;prettyNum&#8221; function (a variant of &#8220;format&#8221;), a &#8220;format.pval&#8221; function (for p-values).</p>
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="../assets/js/jquery.js"></script>
+    <script src="../assets/js/bootstrap-transition.js"></script>
+    <script src="../assets/js/bootstrap-alert.js"></script>
+    <script src="../assets/js/bootstrap-modal.js"></script>
+    <script src="../assets/js/bootstrap-dropdown.js"></script>
+    <script src="../assets/js/bootstrap-scrollspy.js"></script>
+    <script src="../assets/js/bootstrap-tab.js"></script>
+    <script src="../assets/js/bootstrap-tooltip.js"></script>
+    <script src="../assets/js/bootstrap-popover.js"></script>
+    <script src="../assets/js/bootstrap-button.js"></script>
+    <script src="../assets/js/bootstrap-collapse.js"></script>
+    <script src="../assets/js/bootstrap-carousel.js"></script>
+    <script src="../assets/js/bootstrap-typeahead.js"></script>
+
+    <script>$('a').tooltip();</script>
+  </body>
+</html>

@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title> Introduction to R </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="../assets/css/bootswatch.css" rel="stylesheet">
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+
+    div[class="tooltip-inner"]{
+        max-width: 400px;
+       ]
+
+    </style>
+    <link href="../assets/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="../assets/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="../assets/ico/favicon.png">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="/index.html">Queenborough Lab</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="index.html">R</a></li>
+              <li><a href="basic.html">basic</a></li>
+              <li><a href="explore.html">explore</a></li>
+              <li><a href="stats-basic.html">basic stats</a></li>
+              <li><a href="stats-advanced.html">advanced stats</a></li>
+              <li><a href="resources.html">resources</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+    <h1 id='introduction_to_r'>Introduction to R</h1>
+
+<h2 id='objectives'>Objectives</h2>
+
+<ol>
+<li>Become familiar with R, importing and exporting data and the various forms of data.</li>
+
+<li>Become confident using R for the management, description, analysis and visualisation of ecological data.</li>
+
+<li>Learn best practices of data exploration, analysis and visualisation.</li>
+
+<li>Become confident to keep learning R and where to get help.</li>
+</ol>
+
+<h2 id='what_is_r'>What is R?</h2>
+
+<p>First, read this New York Times <a href='http://www.nytimes.com/2009/01/07/technology/business-computing/07program.html?_r=1&amp;pagewanted=all'>article</a>.</p>
+
+<p>Then, watch these online videos: <a href='http://www.youtube.com/watch?v=W2GZFeYGU3s'>here</a>, and Parts</p>
+
+<ul>
+<li><a href='http://www.youtube.com/watch?v=M2u7kbcXI_k&amp;feature=related'>1</a>,</li>
+
+<li><a href='http://www.youtube.com/watch?v=6srdi62YdxM&amp;feature=channel'>2</a>,</li>
+
+<li><a href='http://www.youtube.com/watch?v=NoV7VrE90LA&amp;feature=relmfu'>3</a>, and</li>
+
+<li><a href='http://www.youtube.com/watch?v=_MBwNWANSb4&amp;feature=relmfu'>4</a>.</li>
+</ul>
+
+<p>Next&#8230;</p>
+
+<ul>
+<li>Install <a href='http://www.r-project.org'>R</a> on to your laptop.</li>
+
+<li>Install <a href='http://www.rstudio.com/'>Rstudio</a> on your laptop.</li>
+</ul>
+
+<p>&#8230; And get ready for some gRRRReat fun!</p>
+
+<h2 id='teaching_and_learning_style'>Teaching and Learning Style</h2>
+
+<p>This graduate seminar will provide an overview and introduction to the statistical software R. Class time will primarily be used for working through examples and problems as a class or individually. The only way to improve and feel comfortable in R is to use it frequently and regularly.</p>
+
+<p>We will move through topics in the following sequence over the next seven weeks. How long we spend on each section depends how comfortable everyone is. Reading and problems will be assigned in class, on the course website, and via email each week.</p>
+
+<h3 id='week_1_16_oct_2013__basic'>Week 1: 16 Oct 2013 | basic</h3>
+
+<h4 id='intro_to_r_overview_guided_session_example_problems'>Intro to R, overview, guided session, example problems.</h4>
+
+<h2 id='schedule'>Schedule</h2>
+
+<ol>
+<li>
+<p>Why R? Introduction and overview of R; Guided introduction to R and basic ideas</p>
+
+<ul>
+<li>entering data</li>
+
+<li>data management</li>
+
+<li>useful functions</li>
+</ul>
+</li>
+
+<li>
+<p>Exploring and Visualising Data</p>
+
+<ul>
+<li>basic graphics: plotting, variety of graphs</li>
+
+<li>advanced graphics: modifying plots, advanced graphs, ggplot2</li>
+</ul>
+</li>
+
+<li>
+<p>Statistical Analysis of Data</p>
+
+<ul>
+<li>classical tests</li>
+
+<li>linear regression</li>
+
+<li>ANOVA</li>
+
+<li>glms</li>
+</ul>
+</li>
+
+<li>
+<p>Advanced Statistics &amp; Programming in R</p>
+
+<ul>
+<li>writing functions</li>
+
+<li>if, for, while, repeat</li>
+
+<li>random sampling</li>
+</ul>
+</li>
+
+<li>
+<p>Specialised Topics in R (by request, e.g.):</p>
+
+<ul>
+<li>mixed effec models</li>
+
+<li>phylogenetic methods</li>
+
+<li>community ordination</li>
+
+<li>spatial point patterns</li>
+
+<li>bayesian analysis</li>
+</ul>
+</li>
+</ol>
+
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="../assets/js/jquery.js"></script>
+    <script src="../assets/js/bootstrap-transition.js"></script>
+    <script src="../assets/js/bootstrap-alert.js"></script>
+    <script src="../assets/js/bootstrap-modal.js"></script>
+    <script src="../assets/js/bootstrap-dropdown.js"></script>
+    <script src="../assets/js/bootstrap-scrollspy.js"></script>
+    <script src="../assets/js/bootstrap-tab.js"></script>
+    <script src="../assets/js/bootstrap-tooltip.js"></script>
+    <script src="../assets/js/bootstrap-popover.js"></script>
+    <script src="../assets/js/bootstrap-button.js"></script>
+    <script src="../assets/js/bootstrap-collapse.js"></script>
+    <script src="../assets/js/bootstrap-carousel.js"></script>
+    <script src="../assets/js/bootstrap-typeahead.js"></script>
+
+    <script>$('a').tooltip();</script>
+  </body>
+</html>
