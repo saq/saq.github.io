@@ -72,6 +72,7 @@ the evolution and ecology of dioecious species in many forest ecosystems
 
 1. **Queenborough, S.A.**, Burslem, D.F.R.P., Garwood, N.C., Valencia, R. 2007 Habitat niche partitioning by 16 species of Myristicaceae in Amazonian Ecuador. Plant Ecology 192, 193-207. [doi](http://dx.doi.org/10.1007/s11258-007-9328-3): 10.1007/s11258-007-9328-3 | <a class="btn btn-mini" href="#" rel="popover" data-placement="bottom" data-original-title="Abstract" data-content="The distribution and spatial pattern of plants in tropical forests have important implications for how species interact with each other and their environments. In this article we use a large-scale permanent census plot to address if the coexistence of 16 co-occurring species of Myristicaceae is aided by topographic and light gradient niche partitioning. We used a second order spatial pattern analysis based on Ripley’s K function to describe species’ distributions and associations among species, and a torus translation procedure to test for associations with three topographically defined habitats. A majority of species displayed spatial aggregation and over half had one or more significant habitat associations. Four species were associated with the ridge habitat, four species with slope habitat, and two with valley habitat. Seven other species showed no habitat association. Within each habitat group, species exhibited a variety of distributions in relation to light availability. However, habitat associations were largely unexplained by differential rates of mortality, growth or recruitment over a 5-year interval. We conclude that although in principle partitioning of the topographic and light environments may double or treble the number of species able to coexist, there is no evidence that partitioning of physical habitats can explain the coexistence of all 16 of these closely related species.">abstract</a> |   <a href="../assets/pubs/2007-Queenborough-PlEcol.pdf"><span class="icon-download-alt"></span></a>
 
+<hr>
 
 ### in review
 
@@ -85,6 +86,7 @@ the evolution and ecology of dioecious species in many forest ecosystems
 
 4. Hellmann, J.K.<sup><span class="icon-bug"></span></sup>, Erikson, J.S. & **Queenborough, S.A.** Evaluating macroinvertebrate community shifts in the nexus of freestone and limestone streams. Ecological Complexity.
 
+<hr>
 
 
 ### non peer-reviewed publications

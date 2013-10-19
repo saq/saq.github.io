@@ -17,6 +17,7 @@ We teach an [Introduction to R](R/index.html) course, covering basic to advanced
 
 This will be taught this coming semester (AU13): [Announcement](intro-r.html)
 
+<hr>
 
 ### EEOB Graduate seminar: data to paper
 
@@ -25,6 +26,8 @@ This will be taught this coming semester (AU13): [Announcement](intro-r.html)
 </p>
 
 In this seminar, [Dr. Comita](http://lizacomita.weebly.com/) and I are using existing data from the [Powdermill Nature Reserve](http://www.carnegiemnh.org/powdermill/index.html) in PA (directed by EEOB alumnus Dr. John Wenzel) to generate hypotheses, data analyses and manuscripts for publication. Sub-groups are investigating functional traits, phylogeny, beta-diversity and ecosystem services.
+
+<hr>
 
 ### Biology 1114: Form, Function & Ecology
 <p align="left">
@@ -37,6 +40,9 @@ Students are trained to think like scientists. Interpret data, design experiment
 **Skills:** Critical Thinking, Developing and Testing Hypotheses, Learning How to Learn, Active Learning.
 
 
+<hr>
+
+
 ### Tropical Ecology Field Course, Panama
 <p align="left">
 <img src="/assets/figs/panama2.jpeg" style="border:2px solid #333333;">
@@ -45,6 +51,8 @@ Students are trained to think like scientists. Interpret data, design experiment
 Fifteen days, 15 students, four habitat types, one canal.
 
 Students learn practical scientific skills of experimental design, execution and presentation, basic identification and taxonomy, and experience a number of different cultures and ecosystems, as well as interacting with world-class scientists in the [Smithsonian Tropical Research Institute](http://www.stri.si.edu/).
+
+<hr>
 
 
 ### Dissemination
