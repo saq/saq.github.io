@@ -4,6 +4,7 @@ title: Teaching
 
 ---
 
+# Teaching
 
 ### Introduction to R
 

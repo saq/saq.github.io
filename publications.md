@@ -4,6 +4,8 @@ title: Publications
 
 ---
 
+# Publications
+
 ### peer-reviewed publications
 
 <div> 

@@ -4,6 +4,13 @@ title: Lab Openings
 
 ---
 
+# Lab Openings
+
+### Current Situation (Fall 2013)
+
+I am **not** currently looking for graduate students.
+
+
 ### Post-docs
 I currently have no funding to support post-doctoral researchers. If you are interested in developing a grant proposal, or applying to the OSU Mathematical Biosciences Institute with me as a potential advisor, please get in touch.
 

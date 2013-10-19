@@ -4,6 +4,8 @@ title: Data
 
 ---
 
+# Data
+
 ### our data
 
 We are slowly working to make the data we collect ourselves available. These will be described here, and also linked to from each paper on the [publications](publications.html) page.

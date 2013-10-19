@@ -2952,7 +2952,8 @@ table th[class*="span"],
   clear: both;
   font-weight: normal;
   line-height: 21px;
-  color: #666666;
+  color: #ced9bc
+/* color: #666666; */
   white-space: nowrap;
 }
 
@@ -4375,13 +4376,13 @@ input[type="submit"].btn.btn-mini {
   min-height: 40px;
   padding-right: 20px;
   padding-left: 20px;
-  background-color: #e9e9e9;
-  background-image: -moz-linear-gradient(top, #eeeeee, #e1e1e1);
+  background-color: #3c5b45;
+/*  background-image: -moz-linear-gradient(top, #eeeeee, #e1e1e1);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#eeeeee), to(#e1e1e1));
   background-image: -webkit-linear-gradient(top, #eeeeee, #e1e1e1);
   background-image: -o-linear-gradient(top, #eeeeee, #e1e1e1);
-  background-image: linear-gradient(to bottom, #eeeeee, #e1e1e1);
-  background-repeat: repeat-x;
+  background-image: linear-gradient(to bottom, #eeeeee, #e1e1e1); */
+  background-repeat: repeat-x; 
   border: 1px solid #cccccc;
   -webkit-border-radius: 4px;
      -moz-border-radius: 4px;
@@ -4420,8 +4421,10 @@ input[type="submit"].btn.btn-mini {
   margin-left: -20px;
   font-size: 20px;
   font-weight: 200;
-  color: #666666;
-  text-shadow: 0 1px 0 #eeeeee;
+/*  color: #666666; 
+  text-shadow: 0 1px 0 #eeeeee;  */
+  color: #ced9bc; 
+  text-shadow: none;
 }
 
 .navbar .brand:hover,
@@ -4432,16 +4435,22 @@ input[type="submit"].btn.btn-mini {
 .navbar-text {
   margin-bottom: 0;
   line-height: 40px;
-  color: #666666;
+  color: #ced9bc; 
+  text-shadow: none;
+/*  color: #666666; */
 }
 
 .navbar-link {
-  color: #666666;
+  color: #ced9bc;
+/*  color: #666666; */
 }
 
+.navbar-text:hover,
+.navbar-text:focus,
 .navbar-link:hover,
 .navbar-link:focus {
-  color: #0099dd;
+  color: #ffffff;
+/*  color: #0099dd; */
 }
 
 .navbar .divider-vertical {
@@ -4615,9 +4624,11 @@ input[type="submit"].btn.btn-mini {
 .navbar .nav > li > a {
   float: none;
   padding: 9.5px 15px 9.5px;
-  color: #666666;
+  color: #ced9bc; 
+/*  color: #666666; */
   text-decoration: none;
-  text-shadow: 0 1px 0 #eeeeee;
+  text-shadow: none;
+/*  text-shadow: 0 1px 0 #eeeeee; */
 }
 
 .navbar .nav .dropdown-toggle .caret {
@@ -4626,7 +4637,8 @@ input[type="submit"].btn.btn-mini {
 
 .navbar .nav > li > a:focus,
 .navbar .nav > li > a:hover {
-  color: #0099dd;
+  color: #ffffff;
+/*  color: #0099dd; */
   text-decoration: none;
   background-color: transparent;
 }
@@ -4634,9 +4646,10 @@ input[type="submit"].btn.btn-mini {
 .navbar .nav > .active > a,
 .navbar .nav > .active > a:hover,
 .navbar .nav > .active > a:focus {
-  color: #0099dd;
+  color: #ffffff;
+/*  color: #0099dd; */
   text-decoration: none;
-  background-color: transparent;
+  background-color: transparent; 
   -webkit-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
      -moz-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
           box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
@@ -4649,7 +4662,8 @@ input[type="submit"].btn.btn-mini {
   margin-right: 5px;
   margin-left: 5px;
   color: #ffffff;
-  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  text-shadow: none;
+/*  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);  */
   background-color: #dcdcdc;
   *background-color: #d4d4d4;
   background-image: -moz-linear-gradient(top, #e1e1e1, #d4d4d4);
@@ -6126,23 +6140,33 @@ a.badge:focus {
   font-weight: 200;
   line-height: 31.5px;
   color: inherit;
-  background-color: #eeeeee;
+  background-color: #eeeeee; 
   -webkit-border-radius: 6px;
      -moz-border-radius: 6px;
-          border-radius: 6px;
+          border-radius: 6px; 
 }
 
 .hero-unit h1 {
   margin-bottom: 0;
-  font-size: 60px;
+  font-size: 70px;
   line-height: 1;
   letter-spacing: -1px;
-  color: #2d2d2d;
+  color: #666666;
 }
 
 .hero-unit li {
   line-height: 31.5px;
 }
+
+.hero-unit-m {
+  background-image: url('../figs/IMG_1859.JPG');
+  background-size: cover;
+}
+
+.hero-unit-m h1 {
+  color: #ffffff;
+}
+
 
 .pull-right {
   float: right;
@@ -6205,7 +6229,7 @@ a.text-success:focus {
 }
 
 .navbar .brand {
-  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+/*  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3); */
   -webkit-transition: color ease-in-out 0.2s;
      -moz-transition: color ease-in-out 0.2s;
        -o-transition: color ease-in-out 0.2s;
@@ -6213,7 +6237,8 @@ a.text-success:focus {
 }
 
 .navbar .brand:hover {
-  color: #0099dd;
+  color: #ffffff;
+/*  color: #0099dd; */
   -webkit-transition: color ease-in-out 0.2s;
      -moz-transition: color ease-in-out 0.2s;
        -o-transition: color ease-in-out 0.2s;
@@ -6222,7 +6247,8 @@ a.text-success:focus {
 
 .navbar .nav > li > a {
   padding: 11px 10px 8px;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+  text-shadow: none;
+/*  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3); */
   -webkit-transition: color ease-in-out 0.2s;
      -moz-transition: color ease-in-out 0.2s;
        -o-transition: color ease-in-out 0.2s;
