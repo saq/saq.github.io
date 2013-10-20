@@ -78,13 +78,15 @@ the evolution and ecology of dioecious species in many forest ecosystems
 
 1. Liza S. Comita, **Queenborough, S.A.**, Eck, J.L.<sup><span class="icon-bug"></span></sup>, Murphy, S.<sup><span class="icon-bug"></span></sup>, Xu, K.<sup><span class="icon-glass"></span></sup>, Krishnadas, M.<sup><span class="icon-bug"></span></sup>, Beckman, N. and Zhu, Y. Testing predictions of the Janzen-Connell hypothesis: A meta-analysis of experimental evidence for distance- and density-dependent seed and seedling survival. Journal of Ecology.
 
-1. Boudouris, J.<sup><span class="icon-glass"></span></sup> & **Queenborough, S.A.** Diversity and distribution of extra-floral nectaries in the cerrado savanna vegetation of Brazil. PeerJ.
+2. **Queenborough, S.A.** & Kulesza, A.E. How the Giraffe got its Neck. National Center for Case Study Teaching in Science.
 
-2. Muehleisen, M.<sup><span class="icon-glass"></span></sup>, **Queenborough, S.A.**, Alvia Zambano, L.P., Valencia, R. & Fiala, B. Incidence of extra-floral nectaries and their relationship to growth and survival of lowland tropical rain forest trees. Journal of Ecology.
+3. Boudouris, J.<sup><span class="icon-glass"></span></sup> & **Queenborough, S.A.** Diversity and distribution of extra-floral nectaries in the cerrado savanna vegetation of Brazil. PeerJ.
 
-3. Amano, T., Freckleton, R.F.P, **Queenborough, S.A.**, Doxford, S.W.<sup><span class="icon-bug"></span></sup>, Smithers, R.J., Sparks, T.H. & Sutherland, W.J. Phenological responses to warming determine changes in niche over space and time. Proceedings of the Royal Society, B.
+4. Muehleisen, M.<sup><span class="icon-glass"></span></sup>, **Queenborough, S.A.**, Alvia Zambano, L.P., Valencia, R. & Fiala, B. Incidence of extra-floral nectaries and their relationship to growth and survival of lowland tropical rain forest trees. Journal of Ecology.
 
-4. Hellmann, J.K.<sup><span class="icon-bug"></span></sup>, Erikson, J.S. & **Queenborough, S.A.** Evaluating macroinvertebrate community shifts in the nexus of freestone and limestone streams. Ecological Complexity.
+5. Amano, T., Freckleton, R.F.P, **Queenborough, S.A.**, Doxford, S.W.<sup><span class="icon-bug"></span></sup>, Smithers, R.J., Sparks, T.H. & Sutherland, W.J. Phenological responses to warming determine changes in niche over space and time. Proceedings of the Royal Society, B.
+
+6. Hellmann, J.K.<sup><span class="icon-bug"></span></sup>, Erikson, J.S. & **Queenborough, S.A.** Evaluating macroinvertebrate community shifts in the nexus of freestone and limestone streams. Ecological Complexity.
 
 <hr>
 

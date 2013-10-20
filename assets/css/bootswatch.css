@@ -6161,6 +6161,7 @@ a.badge:focus {
 .hero-unit-m {
   background-image: url('../figs/IMG_1859.JPG');
   background-size: cover;
+  background-repeat: none;
 }
 
 .hero-unit-m h1 {
