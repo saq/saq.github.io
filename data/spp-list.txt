@@ -1400,11 +1400,11 @@ Fabaceae/Elizabetha/Elizabetha_speciosa
 Ochnaceae/Elvasia/Elvasia_calophyllea
 Ochnaceae/Elvasia/Elvasia_elvasioides
 Ochnaceae/Elvasia/Elvasia_macrostipularis
-Emmotaceae/Emmotum/Emmotum_acuminatum
-Emmotaceae/Emmotum/Emmotum_fagifolium
-Emmotaceae/Emmotum/Emmotum_floribundum
-Emmotaceae/Emmotum/Emmotum_nitens
-Emmotaceae/Emmotum/Emmotum_orbiculatum
+Icacinaceae/Emmotum/Emmotum_acuminatum
+Icacinaceae/Emmotum/Emmotum_fagifolium
+Icacinaceae/Emmotum/Emmotum_floribundum
+Icacinaceae/Emmotum/Emmotum_nitens
+Icacinaceae/Emmotum/Emmotum_orbiculatum
 Lauraceae/Endlicheria/Endlicheria_anomala
 Lauraceae/Endlicheria/Endlicheria_arunciflora
 Lauraceae/Endlicheria/Endlicheria_aurea
