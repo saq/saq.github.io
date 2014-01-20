@@ -13,18 +13,21 @@ Lab Meetings Spring 2014
 
 ## Schedule
 
-**date** | **leader** | **activity**
--------- | ---------- | ------------
-Jan 16   | Simon      | grant proposal
-Jan 23   | Andrew     | paper - [pdf](../assets/pubs/lab-meeting/swenson2012.pdf)
-Jan 30   |    ?       |      ?          
-Feb 06   |    ?        |      ?          
-Feb 13   |     ?       |      ?         
-Feb 20   |      ?      |      ?     
-Feb 27   |       ?     |      ?           
-Mar 06   |        ?    |      ?        
-Mar 13   |         ?   |       ?           
-Mar 20   |          ?  |        ?         
-Mar 27   |          ?  |        ?          
+**date** | **leader** | **snacks** | **activity**
+-------- | ---------- | ---------- | -----------
+Jan 16   | Simon      | Simon/Laura| grant proposal
+Jan 23   | Andrew     | Simon      | paper - [pdf](../assets/pubs/lab-meeting/swenson2012.pdf)
+Jan 30   |    ?       |      ?     |     ?          
+Feb 06   |    ?       |      ?     |     ?          
+Feb 13   |    ?       |      ?     |     ?         
+Feb 20   |    ?       |      ?     |     ?     
+Feb 27   |    ?       |      ?     |     ?           
+Mar 06   |    ?       |      ?     |     ?        
+Mar 13   |    ?       |      ?     |     ?           
+Mar 20   |    ?       |      ?     |     ?         
+Mar 27   |    ?       |      ?     |     ?          
 
+## What do to?
+
+Here is a nice list of [suggestions](https://dynamicecology.wordpress.com/2014/01/15/what-to-do-at-lab-meetings/)
 
