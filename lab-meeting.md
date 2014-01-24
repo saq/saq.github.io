@@ -17,7 +17,7 @@ Lab Meetings Spring 2014
 -------- | ---------- | ---------- | -----------
 Jan 16   | Simon      | Simon/Laura| grant proposal
 Jan 23   | Andrew     | Simon      | paper - [pdf](../assets/pubs/lab-meeting/swenson2012.pdf)
-Jan 30   | Raleigh    | Hangover Easy  | paper - [pdf]()          
+Jan 30   | Raleigh    | Hangover Easy  | paper - [pdf](../assets/pubs/lab-meeting/saldana2006ferns.pdf)          
 Feb 06   | Steve H.   |      ?     | practice talk          
 Feb 13   | Shannon    |      ?     |  paper - [pdf]()         
 Feb 20   |    ?       |      ?     |     ?     
