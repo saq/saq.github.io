@@ -4,8 +4,14 @@ categories: R, ctfs
 
 ---
 
+# Scrape CTFS data
 
+{% highlight html %}
 
-library( XML )
+library(XML)
 
-dat <- readHTMLTable( "http://www.ctfs.si.edu/site/Yasuni/abundance/?size=100", header=T, which=3 )
+dat <- readHTMLTable("http://www.ctfs.si.edu/site/Yasuni/abundance/?size=100", 
+                     header = TRUE, which = 3)
+
+{% endhighlight html %}
+

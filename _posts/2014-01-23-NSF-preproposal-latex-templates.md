@@ -14,7 +14,7 @@ As of Jan 2014, these were not rejected for formatting issues!
  - **biographical sketch:** [pdf]() | [tex]()
  - **pre-proposal:** [pdf]() | [tex]() 
 
-The pre-proposal cn be split apart with [pdftk](https://en.wikipedia.org/wiki/Pdftk) or similar, or copied to separate .tex files initially).
+The pre-proposal can be split apart with [pdftk](https://en.wikipedia.org/wiki/Pdftk) or similar, or copied to separate .tex files initially).
 
 ## Current online resources for NSF LaTeX templates
 
