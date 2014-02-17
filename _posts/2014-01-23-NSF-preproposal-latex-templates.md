@@ -1,6 +1,6 @@
 ---
 layout: default
-categories: NSF, GPG, preproposal, latex
+categories: tools, NSF, GPG, preproposal, latex
 
 ---
 
@@ -9,10 +9,10 @@ NSF preproposal latex templates
 
 ## My version 
 
-As of Jan 2014, these were not rejected for formatting issues!
+As of Feb 2014, these were not rejected for formatting issues!
 
- - **biographical sketch:** [pdf]() | [tex]()
- - **pre-proposal:** [pdf]() | [tex]() 
+ - **biographical sketch:** [pdf](/assets/docs/Biosketch-2014-02-17.pdf) | [tex](/assets/docs/Biosketch-2014-02-17.tex)
+ - **pre-proposal:** [pdf](/assets/docs/Preproposal-2014-02-17.pdf) | [tex](/assets/docs/Preproposal-2014-02-17.tex) 
 
 The pre-proposal can be split apart with [pdftk](https://en.wikipedia.org/wiki/Pdftk) or similar, or copied to separate .tex files initially).
 
