@@ -80,7 +80,7 @@ the evolution and ecology of dioecious species in many forest ecosystems
 
 ### in review
 
-1. **Queenborough, S.A.** & Sam G.M. Bridgewater. Two methods of tree plot inventory from tropical limestone deciduous forest, Belize *PeerJ*.
+1. **Queenborough, S.A.** & Sam G.M. Bridgewater. Two methods of tree plot inventory from tropical limestone deciduous forest, Belize. *PeerJ*.
 
 2. **Queenborough, S.A.** & Kulesza, A.E. How the Giraffe got its Neck. *National Center for Case Study Teaching in Science*.
 
