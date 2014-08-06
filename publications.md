@@ -17,7 +17,7 @@ title: Publications
 
 ### peer-reviewed publications
 
-1. Stephen J. Murphy<sup><span class="icon-bug"></span></sup>, Lívia D. Audino<sup><span class="icon-bug"></span></sup>, James Whitacre, Jenalle L. Eck<sup><span class="icon-bug"></span></sup>, John W. Wenzel, **Simon Queenborough**, Liza S. Comita. 2014. Species associations structured by environment and land-use history promote beta-diversity in a temperate forest. *Ecology*. in press.
+1. Stephen J. Murphy<sup><span class="icon-bug"></span></sup>, Lívia D. Audino<sup><span class="icon-bug"></span></sup>, James Whitacre, Jenalle L. Eck<sup><span class="icon-bug"></span></sup>, John W. Wenzel, **Simon A. Queenborough**, Liza S. Comita. 2014. Species associations structured by environment and land-use history promote beta-diversity in a temperate forest. *Ecology*. in press.
 
 2. Hellmann, J.K.<sup><span class="icon-bug"></span></sup>, Erikson, J.S. & **Queenborough, S.A.** 2014. Evaluating macroinvertebrate community shifts in the nexus of freestone and limestone streams. *Journal of Limnology*. in press. <span class="icon-unlock"> </span> 
 
