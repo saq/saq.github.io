@@ -100,6 +100,8 @@ the evolution and ecology of dioecious species in many forest ecosystems
 
 5. Jennifer Balch, Stacy Rebich-Hespinha, Jarrett Byrnes, Elizabeth Borer, Kathryn Cottingham, Allen Hurlbert, Carrie Kappel, **Simon A. Queenborough**, Helen Regan, John Sabo, Eric Seabloom, Stephanie Hampton, Mark Schildauer & Frank Davis. Synthesis in ecology: A retrospective and prospective. *BioScience*.
 
+6. Kellen M. Calinger<sup><span class="icon-bug"></span></sup>, Elisabeth A. Calhoon<sup><span class="icon-bug"></span></sup>, Hsiaochi Chang<sup><span class="icon-bug"></span></sup>, James Whitacre, John Wenzel, Liza S. Comita & **Simon A. Queenborough**. Historic Mining and Agriculture as Indicators of Occurrence and Abundance of Two Widespread Invasive Plant Species. *PLoS One*.
+
 
 <hr>
 
