@@ -13,13 +13,13 @@ title: Publications
 <p> <span class="showtooltip" title="graduate student co-author"><i class="icon-bug"> </i></span> graduate | <span class="showtooltip" title="undergraduate student co-author"><i class="icon-glass"> </i></span> undergraduate student co-authors </p>
 </div>
 
-updated: 2014-08-06
+updated: 2014-08-29
 
 <hr>
 
 ### peer-reviewed publications
 
-1. Stephen J. Murphy<sup><span class="icon-bug"></span></sup>, Lívia D. Audino<sup><span class="icon-bug"></span></sup>, James Whitacre, Jenalle L. Eck<sup><span class="icon-bug"></span></sup>, John W. Wenzel, **Simon A. Queenborough**, Liza S. Comita. 2014. Species associations structured by environment and land-use history promote beta-diversity in a temperate forest. *Ecology*. in press.
+1. Stephen J. Murphy<sup><span class="icon-bug"></span></sup>, Lívia D. Audino<sup><span class="icon-bug"></span></sup>, James Whitacre, Jenalle L. Eck<sup><span class="icon-bug"></span></sup>, John W. Wenzel, **Simon A. Queenborough**, Liza S. Comita. 2014. Species associations structured by environment and land-use history promote beta-diversity in a temperate forest. *Ecology*. in press. [doi](http://dx.doi.org/10.1890/14-0695.1): 10.1890/14-0695.1
 
 2. Hellmann, J.K.<sup><span class="icon-bug"></span></sup>, Erikson, J.S. & **Queenborough, S.A.** 2014. Evaluating macroinvertebrate community shifts in the nexus of freestone and limestone streams. *Journal of Limnology*. in press. <span class="icon-unlock"> </span> 
 
