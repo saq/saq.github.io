@@ -92,22 +92,22 @@ updated: 2014-08-29
 
 ### non peer-reviewed publications
 
-1. **Queenborough, S.A.** 2012. The habits of successful ecologists: How to write right, right!? Bulletin of the British Ecological Society 44 (2), 36-38.  <a href="../assets/pubs/bes-bulletin/2012-BESbulletin-writing.pdf"><span class="icon-download-alt"></span></a> 
+1. **Queenborough, S.A.** 2012. The habits of successful ecologists: How to write right, right!? *Bulletin of the British Ecological Society* 44 (2), 36-38.  <a href="../assets/pubs/bes-bulletin/2012-BESbulletin-writing.pdf"><span class="icon-download-alt"></span></a> 
 
-7. **Queenborough, S.A.** 2011. The habits of successful ecologists: time management. Bulletin of the British Ecological Society 42 (3) 34-37.  <a href="../assets/pubs/bes-bulletin/2011-BESbulletin-time.pdf"><span class="icon-download-alt"></span></a> 
+7. **Queenborough, S.A.** 2011. The habits of successful ecologists: time management. *Bulletin of the British Ecological Society* 42 (3) 34-37.  <a href="../assets/pubs/bes-bulletin/2011-BESbulletin-time.pdf"><span class="icon-download-alt"></span></a> 
 
-6. **Queenborough, S.A.** & Parker, J.N. 2011. The habits of successful ecologists: learning from the best. Bulletin of the British Ecological Society 43, 31-34.  <a href="../assets/pubs/bes-bulletin/2011-BESbulletin-highlycited.pdf"><span class="icon-download-alt"></span></a> 
+6. **Queenborough, S.A.** & Parker, J.N. 2011. The habits of successful ecologists: learning from the best. *Bulletin of the British Ecological Society* 43, 31-34.  <a href="../assets/pubs/bes-bulletin/2011-BESbulletin-highlycited.pdf"><span class="icon-download-alt"></span></a> 
 
-5. **Queenborough, S.A.** & Cooke, I.R. 2011. The habits of successful ecologists, or Does Facebook count as outreach? Bulletin of the British Ecological Society 42 (1), 40-42. <a href="../assets/pubs/bes-bulletin/2011-BESbulletin-productivity.pdf"><span class="icon-download-alt"></span></a>
+5. **Queenborough, S.A.** & Cooke, I.R. 2011. The habits of successful ecologists, or Does Facebook count as outreach? *Bulletin of the British Ecological Society* 42 (1), 40-42. <a href="../assets/pubs/bes-bulletin/2011-BESbulletin-productivity.pdf"><span class="icon-download-alt"></span></a>
 
-4. Sutherland, W.J. et al. 2010. Is wildlife conservation compatible with arable farming? Evaluating the options for sustainable agriculture. RELU Policy and Practice Notes 23, December 2010.  <a href="../assets/pubs/policy-notes/2010-Sutherland_RELU_policynote23.pdf"><span class="icon-download-alt"></span></a>
+4. Sutherland, W.J. et al. 2010. Is wildlife conservation compatible with arable farming? Evaluating the options for sustainable agriculture. *RELU Policy and Practice Notes* 23, December 2010.  <a href="../assets/pubs/policy-notes/2010-Sutherland_RELU_policynote23.pdf"><span class="icon-download-alt"></span></a>
 
-4. **Queenborough, S.A.** & Comita, L.S. 2010. Should Ecological Science Be Ethical? Union Seminary Quarterly Review 63, 18-25. <span class="icon-unlock"></span>  <a href="../assets/pubs/2010-Queenborough-USQR-ethics.pdf"><span class="icon-download-alt"></span></a>
+4. **Queenborough, S.A.** & Comita, L.S. 2010. Should Ecological Science Be Ethical? *Union Seminary Quarterly Review* 63, 18-25. <span class="icon-unlock"></span>  <a href="../assets/pubs/2010-Queenborough-USQR-ethics.pdf"><span class="icon-download-alt"></span></a>
 
-3. **Queenborough, S.A.**, Cooke, I.R. & Schildhauer, M.P. 2010. Do we need an Eco-Bank? The ecology of data-sharing. Bulletin of the British Ecological Society 41 (3), 32-35. <a href="../assets/pubs/bes-bulletin/2010-BESbulletin-datasharing.pdf"><span class="icon-download-alt"></span></a>
+3. **Queenborough, S.A.**, Cooke, I.R. & Schildhauer, M.P. 2010. Do we need an Eco-Bank? The ecology of data-sharing. *Bulletin of the British Ecological Society* 41 (3), 32-35. <a href="../assets/pubs/bes-bulletin/2010-BESbulletin-datasharing.pdf"><span class="icon-download-alt"></span></a>
 
-2. **Queenborough, S.A.** & Cooke, I.R. 2010. Do humans count in ecology? Quantitative methods can link socio-economics and ecology. Bulletin of the British Ecological Society 41 (1), 57-58. <a href="../assets/pubs/bes-bulletin/2010-BESbulletin-socioecology.pdf"><span class="icon-download-alt"></span></a> 
+2. **Queenborough, S.A.** & Cooke, I.R. 2010. Do humans count in ecology? Quantitative methods can link socio-economics and ecology. *Bulletin of the British Ecological Society* 41 (1), 57-58. <a href="../assets/pubs/bes-bulletin/2010-BESbulletin-socioecology.pdf"><span class="icon-download-alt"></span></a> 
 
-1. **Queenborough, S.A.** 2007. Book review of Forest Ecology and Conservation. A handbook of techniques. Newton, A.C. (2007) OUP. In Environmental Conservation 34, 2-3.
+1. **Queenborough, S.A.** 2007. Book review of Forest Ecology and Conservation. A handbook of techniques. Newton, A.C. (2007) OUP. In *Environmental Conservation* 34, 2-3.
 
 
