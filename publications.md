@@ -8,9 +8,9 @@ title: Publications
 
 
 <div> 
-<p> <span class="showtooltip" title="article is openly available"><i class="icon-unlock"> </i></span> open access \| <span class="showtooltip" title="extra appendices or data available"><i class="icon-archive"> </i></span> appendices/data \| <span class="showtooltip" title="click to download"><i class="icon-download-alt"> </i></span> download pdf  </p>
+<p> <span class="showtooltip" title="article is openly available"><i class="icon-unlock"> </i></span> open access | <span class="showtooltip" title="extra appendices or data available"><i class="icon-archive"> </i></span> appendices/data | <span class="showtooltip" title="click to download"><i class="icon-download-alt"> </i></span> download pdf  </p>
 
-<p> <span class="showtooltip" title="graduate student co-author"><i class="icon-bug"> </i></span> graduate \| <span class="showtooltip" title="undergraduate student co-author"><i class="icon-glass"> </i></span> undergraduate student co-authors </p>
+<p> <span class="showtooltip" title="graduate student co-author"><i class="icon-bug"> </i></span> graduate | <span class="showtooltip" title="undergraduate student co-author"><i class="icon-glass"> </i></span> undergraduate student co-authors </p>
 </div>
 
 updated: 2014-08-29
