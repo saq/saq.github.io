@@ -18,14 +18,14 @@ Lab Meetings Fall 2015
 Oct 6    |  Simon     | Andrew     | How to Give a Talk and Time Management Tools
 Oct 13   |  Simon     | Jenalle    | Practice talk: Breeding systems and forests
 Oct 20   |  Andrew    | Bart       | GFRP
-Oct 27   |  ?         | Elizabeth  | ?
+Oct 27   |  Juan      | Elizabeth  | 
 Nov 3    |  Bart      | Du         | Talk on FES research proposal
 Nov 10   |  Du        | Zhuyan     | Talk: Phenology
 Nov 17   |  Jenalle   | Simon      | Talk:
 Nov 24   |  NA        | Turkey     |
 Dec 1    | Elizabeth  | Liza       | Talk: Habitat specialization in *Heliconia*
 Dec 8    | Zhuyan     | Juan       | Talk:
-Dec 15   | ?          | ?          |
+Dec 15   | Stephen    | ?          | 
 
 
 ## What do to?
