@@ -4,28 +4,28 @@ title: Lab Meeting
 
 ---
 
-Lab Meetings Spring 2014
+Lab Meetings Fall 2015
 ========================
 
-**Time:** Thursdays, 09:30-11:00 AM
+**Time:** Tuesday, 15:00-16:00 
 
-**Location:** AL422
+**Location:** Sage 41C
 
 ## Schedule
 
 **date** | **leader** | **snacks** | **activity**
 -------- | ---------- | ---------- | -----------
-Jan 16   | Simon      | Simon/Laura| grant proposal
-Jan 23   | Andrew     | Simon      | paper - [pdf](../assets/pubs/lab-meeting/swenson2012.pdf)
-Jan 30   | Raleigh    | Hangover Easy  | paper - [pdf](../assets/pubs/lab-meeting/saldana2006ferns.pdf)          
-Feb 06   | Steve H.   |      ?     | practice talk          
-Feb 13   | CANCELLED  |      -     |     -
-Feb 20   | Shannon    |      ?     |  paper - [pdf](../assets/pubs/lab-meeting/guimaraes2008seed.pdf)         
-Feb 27   |    ?       |      ?     |     ?           
-Mar 06   |    ?       |      ?     |     ?        
-Mar 13   |    ?       |      ?     |     ?           
-Mar 20   |    ?       |      ?     |     ?         
-Mar 27   |    ?       |      ?     |     ?          
+Oct 6    |  Simon     | Andrew     | How to Give a Talk and Time Management Tools
+Oct 13   |  Simon     | Jenalle    | Practice talk: Breeding systems and forests
+Oct 20   |  Andrew    | Bart       | GFRP
+Oct 27   |  ?         | Elizabeth  | ?
+Nov 3    |  Bart      | Du         | Talk on FES research proposal
+Nov 10   |  Du        | Zhuyan     | Talk: Phenology
+Nov 17   |  Jenalle   | Simon      | Talk:
+Nov 24   |  NA        | Turkey     |
+Dec 1    | Elizabeth  | Liza       | Talk: Habitat specialization in *Heliconia*
+Dec 8    | Zhuyan     | Juan       | Talk:
+
 
 ## What do to?
 
