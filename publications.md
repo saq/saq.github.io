@@ -98,6 +98,8 @@ updated: 2014-08-29
 
 1. Kerri M. Crawford, Jonathan T. Bauer, Liza S. Comita, Maarten B. Eppinga, Daniel J. Johnson, Scott A. Mangan, **Simon A. Queenborough**, Allan E. Strand, Katie N. Suding, James Umbanhowar, James D. Bever. YYYY. Evolutionary history determines plant coexistence via pathogen-mediated plant-soil feedback. *Nature Ecology & Evolution* in review.
 
+2. Camille S. Delavaux<sup><span class="icon-bug"></span></sup>, Tessa Camenzind, Jürgen Homeier, Rosa Jiménez-Paz, Mark Ashton, **Simon A. Queenborough**. YYYY. Nutrient enrichment effects on mycorrhizal fungi and plant diversity in an Andean tropical montane forest. *Mycorrhiza* in review.
+
 2. Alexander T. Fotis<sup><span class="icon-bug"></span></sup>, Raleigh D. Ricart<sup><span class="icon-bug"></span></sup>, Stephen J. Murphy<sup><span class="icon-bug"></span></sup>, Meghna Krishnadas<sup><span class="icon-bug"></span></sup>, James Whitacre, John W. Wenzel, **Simon A. Queenborough** and Liza S. Comita. YYYY. Aboveground biomass is driven by selection effects and stand structural attributes in a temperate deciduous forest. *Ecology* in review.
 
 3. **Queenborough, S.A.** & Sam G.M. Bridgewater. YYYY. Two methods of tree plot inventory from tropical limestone deciduous forest, Belize. *PeerJ*.
