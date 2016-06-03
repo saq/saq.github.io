@@ -95,11 +95,16 @@ updated: 2014-08-29
 
 ### in review
 
-1. **Queenborough, S.A.** & Sam G.M. Bridgewater. Two methods of tree plot inventory from tropical limestone deciduous forest, Belize. *PeerJ*.
 
-2. **Queenborough, S.A.** & Kulesza, A.E. How the Giraffe got its Neck. *National Center for Case Study Teaching in Science*.
+1. Kerri M. Crawford, Jonathan T. Bauer, Liza S. Comita, Maarten B. Eppinga, Daniel J. Johnson, Scott A. Mangan, **Simon A. Queenborough**, Allan E. Strand, Katie N. Suding, James Umbanhowar, James D. Bever. YYYY. Evolutionary history determines plant coexistence via pathogen-mediated plant-soil feedback. *Nature Ecology & Evolution* in review.
 
-5. Jennifer Balch, Stacy Rebich-Hespinha, Jarrett Byrnes, Elizabeth Borer, Kathryn Cottingham, Allen Hurlbert, Carrie Kappel, **Simon A. Queenborough**, Helen Regan, John Sabo, Eric Seabloom, Stephanie Hampton, Mark Schildauer & Frank Davis. Synthesis in ecology: A retrospective and prospective. *Oikos*.
+2. Alexander T. Fotis<sup><span class="icon-bug"></span></sup>, Raleigh D. Ricart<sup><span class="icon-bug"></span></sup>, Stephen J. Murphy<sup><span class="icon-bug"></span></sup>, Meghna Krishnadas<sup><span class="icon-bug"></span></sup>, James Whitacre, John W. Wenzel, **Simon A. Queenborough** and Liza S. Comita. YYYY. Aboveground biomass is driven by selection effects and stand structural attributes in a temperate deciduous forest. *Ecology* in review.
+
+3. **Queenborough, S.A.** & Sam G.M. Bridgewater. YYYY. Two methods of tree plot inventory from tropical limestone deciduous forest, Belize. *PeerJ*.
+
+4. **Queenborough, S.A.** & Kulesza, A.E. YYYY. How the Giraffe got its Neck. *National Center for Case Study Teaching in Science*.
+
+5. Jennifer Balch, Stacy Rebich-Hespinha, Jarrett Byrnes, Elizabeth Borer, Kathryn Cottingham, Allen Hurlbert, Carrie Kappel, **Simon A. Queenborough**, Helen Regan, John Sabo, Eric Seabloom, Stephanie Hampton, Mark Schildauer & Frank Davis. YYYY. Synthesis in ecology: A retrospective and prospective. *Oikos*.
 
 
 
