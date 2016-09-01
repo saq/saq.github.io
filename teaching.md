@@ -10,7 +10,7 @@ title: Teaching
 
 Fall Semester |  3 credits | [F&ES page](http://environment.yale.edu/courses/2016-2017/detail/720/)
 
-I teach an [Introduction to R](R/intro/index.html) course, covering basic to advanced programming and statistics in [R](www.r-project.org). This has previously been taught in Ecuador, India, China, and now here...
+I teach an [Introduction to R](R/intro/index.html) course, covering basic to advanced programming and statistics in [R](http://www.r-project.org). This has previously been taught in Ecuador, India, China, and now here...
 
 The course provides an overview and introduction to the statistical software R for the analysis and graphical presentation of natural and social science data.
 
