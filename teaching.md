@@ -6,24 +6,30 @@ title: Teaching
 
 # Teaching
 
-### Introduction to R
+### F&ES 720a Introduction to R
 
-We teach an [Introduction to R](R/index.html) course, covering basic to advanced programming and statistics in [R](www.r-project.org). This has previously been taught in Ecudaor, India, China and the USA.
+Fall Semester |  3 credits | [F&ES page](http://environment.yale.edu/courses/2016-2017/detail/720/)
 
-This will be taught in Fall 2015: [Announcement](intro-r.html)
+I teach an [Introduction to R](R/intro/index.html) course, covering basic to advanced programming and statistics in [R](www.r-project.org). This has previously been taught in Ecuador, India, China, and now here...
 
+The course provides an overview and introduction to the statistical software R for the analysis and graphical presentation of natural and social science data.
 
 <hr>
 
 
-### Tropical Ecology Field Course, Panama
+### F&ES 717 Tropical Field Ecology
+
+Spring Semester | 3 credits | [F&ES page](http://environment.yale.edu/courses/2016-2017/detail/717/)
+
 <p align="left">
 <img src="/assets/figs/panama2.jpeg" style="border:2px solid #333333;">
 </p>
 
-Fifteen days, 15 students, four habitat types, one canal.
+Fifteen days, 15 students, four forests.
 
-Students learn practical scientific skills of experimental design, execution and presentation, basic identification and taxonomy, and experience a number of different cultures and ecosystems, as well as interacting with world-class scientists in the [Smithsonian Tropical Research Institute](http://www.stri.si.edu/).
+Students learn practical scientific skills of experimental design, execution and presentation, basic identification and taxonomy, and experience a number of different cultures and ecosystems, as well as interacting with world-class scientists.
+
+The course is usually co-taught with [Dr. Comita](http://environment.yale.edu/profile/comita) and alternates between Panama and Ecuador.
 
 <hr>
 
