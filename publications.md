@@ -19,6 +19,8 @@ updated: 2016-06-01
 
 ### peer-reviewed publications
 
+1. Camille S. Delavaux, Tessa Camenzind, Jurgen Homeier, Rosa Jimenez-Paz, Mark S. Ashton, **Simon A. Queenborough**. in press. Nutrient enrichment effects on mycorrhizal fungi in an Andean tropical montane forest. *Mycorrhiza*.
+
 1. Selene Báez, David A. Donoso, **Simon A. Queenborough**, Liliana Jaramillo, Renato Valencia, and Olivier Dangles. in press. Ant mutualism increases long-term growth and survival of a common Amazonian tree. *American Naturalist*. in press.
 
 1. Smith, JR<sup><span class="icon-bug"></span></sup>, **Queenborough, SA**, Alvia, P, Romero-Saltos, H, & Valencia, R. in press. Testing the Liana Dominance Hypothesis: No strong evidence for increasing liana abundance in the Myristicaceae of a Neotropical aseasonal rain forest. *Ecology*.
