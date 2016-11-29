@@ -32,6 +32,10 @@ Students learn practical scientific skills of experimental design, execution and
 
 The course is usually co-taught with [Dr. Comita](http://environment.yale.edu/profile/comita) and alternates between Panama and Ecuador.
 
+In 2017, it will be taught with Dr. [Walter Jetz](http://jetzlab.yale.edu/) (EEB).
+
+The syllabus is [here](../syllabus-717.html) 
+
 <hr>
 
 
