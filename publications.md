@@ -13,22 +13,23 @@ title: Publications
 <p> <span class="showtooltip" title="graduate student co-author"><i class="icon-bug"> </i></span> graduate | <span class="showtooltip" title="undergraduate student co-author"><i class="icon-glass"> </i></span> undergraduate student co-authors </p>
 </div>
 
-updated: 2016-06-01
+updated: 2017-01-30
 
 <hr>
 
 ### peer-reviewed publications
 
-1. Camille S. Delavaux, Tessa Camenzind, Jurgen Homeier, Rosa Jimenez-Paz, Mark S. Ashton, **Simon A. Queenborough**. in press. Nutrient enrichment effects on mycorrhizal fungi in an Andean tropical montane forest. *Mycorrhiza*.
+1. Yanjun Du, **Simon A. Queenborough**, Lei Chen, Yunquan Wang, Xiangcheng Mi, Keping Ma, Liza S. Comita. 2017. Intraspecific and phylogenetic density-dependent seedling recruitment in a subtropical evergreen forest. *Oecologia* in press.
 
-1. Selene Báez, David A. Donoso, **Simon A. Queenborough**, Liliana Jaramillo, Renato Valencia, and Olivier Dangles. in press. Ant mutualism increases long-term growth and survival of a common Amazonian tree. *American Naturalist*. in press.
+2. Camille S. Delavaux<sup><span class="icon-bug"></span></sup>, Tessa Camenzind, Jurgen Homeier, Rosa Jimenez-Paz, Mark S. Ashton, **Simon A. Queenborough**. 2017. Nutrient enrichment effects on mycorrhizal fungi in an Andean tropical montane forest. *Mycorrhiza*. Online. [doi](http://dx.doi.org/10.1007/s00572-016-0749-5): 10.1007/s00572-016-0749-5
 
-1. Smith, JR<sup><span class="icon-bug"></span></sup>, **Queenborough, SA**, Alvia, P, Romero-Saltos, H, & Valencia, R. in press. Testing the Liana Dominance Hypothesis: No strong evidence for increasing liana abundance in the Myristicaceae of a Neotropical aseasonal rain forest. *Ecology*.
+3. **Queenborough, SA**. in press. Collections-based studies of plant functional traits. *Scientia Danica. Series B, Biologica*. Proceedings of the meeting: Tropical Plant Collections: Legacies from the past? Essential tools for the future? *In press*.
 
-2. Ninazunta, M, **Queenborough, SA**, Hernández, C & Valencia, R. in press. Growth strategies of the arborescent palm *Iriartea deltoidea*, in a western Amazonian forest. *Botanical Journal of the Linnean Society*. 
+2. Smith, JR<sup><span class="icon-bug"></span></sup>, **Queenborough, SA**, Alvia, P, Romero-Saltos, H, & Valencia, R. 2017. Testing the Liana Dominance Hypothesis: No strong evidence for increasing liana abundance in the Myristicaceae of a Neotropical aseasonal rain forest. *Ecology*. Online early. [doi](http://dx.doi.org/10.1002/ecy.1657): 10.1002/ecy.1657
 
-3. **Queenborough, SA**. in press. Collections-based studies of plant functional traits. *Scientia Danica. Series B, Biologica*. Proceedings of the meeting: Tropical Plant Collections: Legacies from the past? Essential tools for the future?
+3. Selene Báez, David A. Donoso, **Simon A. Queenborough**, Liliana Jaramillo, Renato Valencia, and Olivier Dangles. in press. Ant mutualism increases long-term growth and survival of a common Amazonian tree. *American Naturalist* **188*, 567--575. [doi](http://www.journals.uchicago.edu/doi/abs/10.1086/688401): 10.1086/688401
 
+2. Ninazunta, M, **Queenborough, SA**, Hernández, C & Valencia, R. in press. Growth strategies of the arborescent palm *Iriartea deltoidea*, in a western Amazonian forest. *Botanical Journal of the Linnean Society* **182**, 411--424. [doi](http://onlinelibrary.wiley.com/doi/10.1111/boj.12448/full): 10.1111/boj.12448
 
 4. Gutiérrez-Santiago, J., Jasso-Mata, J., **Queenborough, S.A.**, Soto-Hernández, M., Rzedowski, J., Jiménez-Casas, M., & Castillo-Martínez, C.R. 2016. Sexual classification of linaloe (*Bursera linanoe*, Burseraceae) and productive implications for the essential oil, in three natural populations in the state of Guerrero, Mexico. *Agroproductividad* **9**, 66--72.
 
@@ -100,15 +101,13 @@ updated: 2016-06-01
 
 1. Kerri M. Crawford, Jonathan T. Bauer, Liza S. Comita, Maarten B. Eppinga, Daniel J. Johnson, Scott A. Mangan, **Simon A. Queenborough**, Allan E. Strand, Katie N. Suding, James Umbanhowar, James D. Bever. YYYY. Evolutionary history determines plant coexistence via pathogen-mediated plant-soil feedback. *Nature Ecology & Evolution* in review.
 
-2. Camille S. Delavaux<sup><span class="icon-bug"></span></sup>, Tessa Camenzind, Jürgen Homeier, Rosa Jiménez-Paz, Mark Ashton, **Simon A. Queenborough**. YYYY. Nutrient enrichment effects on mycorrhizal fungi and plant diversity in an Andean tropical montane forest. *Mycorrhiza* in review.
-
 2. Alexander T. Fotis<sup><span class="icon-bug"></span></sup>, Raleigh D. Ricart<sup><span class="icon-bug"></span></sup>, Stephen J. Murphy<sup><span class="icon-bug"></span></sup>, Meghna Krishnadas<sup><span class="icon-bug"></span></sup>, James Whitacre, John W. Wenzel, **Simon A. Queenborough** and Liza S. Comita. YYYY. Aboveground biomass is driven by selection effects and stand structural attributes in a temperate deciduous forest. *Ecology* in review.
 
-3. **Queenborough, S.A.** & Sam G.M. Bridgewater. YYYY. Two methods of tree plot inventory from tropical limestone deciduous forest, Belize. *PeerJ*.
+4. **Queenborough, S.A.** & Sam G.M. Bridgewater. YYYY. Two methods of tree plot inventory from tropical limestone deciduous forest, Belize. *PeerJ*.
 
-4. **Queenborough, S.A.** & Kulesza, A.E. YYYY. How the Giraffe got its Neck. *National Center for Case Study Teaching in Science*.
+5. **Queenborough, S.A.** & Kulesza, A.E. YYYY. How the Giraffe got its Neck. *National Center for Case Study Teaching in Science*.
 
-5. Jennifer Balch, Stacy Rebich-Hespinha, Jarrett Byrnes, Elizabeth Borer, Kathryn Cottingham, Allen Hurlbert, Carrie Kappel, **Simon A. Queenborough**, Helen Regan, John Sabo, Eric Seabloom, Stephanie Hampton, Mark Schildauer & Frank Davis. YYYY. Synthesis in ecology: A retrospective and prospective. *Oikos*.
+6. Jennifer Balch, Stacy Rebich-Hespinha, Jarrett Byrnes, Elizabeth Borer, Kathryn Cottingham, Allen Hurlbert, Carrie Kappel, **Simon A. Queenborough**, Helen Regan, John Sabo, Eric Seabloom, Stephanie Hampton, Mark Schildauer & Frank Davis. YYYY. Synthesis in ecology: A retrospective and prospective. *Oikos*.
 
 
 
