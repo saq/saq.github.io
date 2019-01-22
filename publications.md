@@ -13,6 +13,8 @@ title: Publications
 <p> <span class="showtooltip" title="graduate student co-author"><i class="icon-bug"> </i></span> graduate | <span class="showtooltip" title="undergraduate student co-author"><i class="icon-glass"> </i></span> undergraduate student co-authors </p>
 </div>
 
+Please contact me for PDFs.
+
 updated: 2019-01-20
 
 <hr>
@@ -30,11 +32,11 @@ Tokarz, E.<sup><span class="icon-glass"></span></sup>, Alvia, P., Valencia, R. &
 
 Krishnadas, M.<sup><span class="icon-bug"></span></sup>, Beckman, N., Penagos-Zuluaga, J.C.<sup><span class="icon-bug"></span></sup>, Zhu, Y., Whitacre, J., Wenzel, J., **Queenborough, S.A.** & Comita, L.S. 2018. Environment and land-use legacies together predict functional diversity in a temperate forest. *Ecological Applications*, 28, 2142--2152.  [doi](https://dx.doi.org/10.1002/eap.1802): 10.1002/eap.1802
 
-Bemmels, J.<sup><span class="icon-bug"></span></sup>, S.J. Wright, N.C. Garwood, **S.A. Queenborough**, R. Valencia \& C.W. Dick. 2018. Filter-dispersal assembly of lowland Neotropical rainforests across the Andes. *Ecography*, 41, 1763--1775. [doi](http://dx.doi.org/10.1111/ecog.03473): 10.1111/ecog.03473
+Bemmels, J.<sup><span class="icon-bug"></span></sup>, S.J. Wright, N.C. Garwood, **S.A. Queenborough**, R. Valencia & C.W. Dick. 2018. Filter-dispersal assembly of lowland Neotropical rainforests across the Andes. *Ecography*, 41, 1763--1775. [doi](http://dx.doi.org/10.1111/ecog.03473): 10.1111/ecog.03473
 
 Zhu, Y., **Queenborough, S.A.**, Condit, R., Hubbell, S.P., Ma, K.P. & Comita, L.S. 2018. Density-dependent survival varies with species life-history strategy in a tropical forest. *Ecology Letters*, 21, 506--515. [doi](http://dx.doi.org/10.1111/ele.12915): 10.1111/ele.12915
 
-Fotis, A.T.<sup><span class="icon-bug"></span></sup>, Raleigh D. Ricart<sup><span class="icon-bug"></span></sup>, Stephen J. Murphy<sup><span class="icon-bug"></span></sup>, Meghna Krishnadas<sup><span class="icon-bug"></span></sup>, James Whitacre, John W. Wenzel, **Simon A. Queenborough** and Liza S. Comita. YYYY. Aboveground biomass is driven by selection effects and stand structural attributes in a temperate deciduous forest. *Journal of Ecology*, 106, 561--570. [doi](http://dx.doi.org/10.1111/1365-2745.12847): 10.1111/1365-2745.12847
+Fotis, A.T.<sup><span class="icon-bug"></span></sup>, Raleigh D. Ricart<sup><span class="icon-bug"></span></sup>, Stephen J. Murphy<sup><span class="icon-bug"></span></sup>, Meghna Krishnadas<sup><span class="icon-bug"></span></sup>, James Whitacre, John W. Wenzel, **Simon A. Queenborough** and Liza S. Comita. 2018. Aboveground biomass is driven by selection effects and stand structural attributes in a temperate deciduous forest. *Journal of Ecology*, 106, 561--570. [doi](http://dx.doi.org/10.1111/1365-2745.12847): 10.1111/1365-2745.12847
 
 
 #### 2017
@@ -50,7 +52,7 @@ Smith, J.R.<sup><span class="icon-bug"></span></sup>, **Queenborough, SA**, Alvi
 
 #### 2016
 
-Báez, S., David A. Donoso, **Simon A. Queenborough**, Liliana Jaramillo, Renato Valencia, and Olivier Dangles. 2016. Ant mutualism increases long-term growth and survival of a common Amazonian tree. *American Naturalist* **188*, 567--575. [doi](http://www.journals.uchicago.edu/doi/abs/10.1086/688401): 10.1086/688401
+Báez, S., David A. Donoso, **Simon A. Queenborough**, Liliana Jaramillo, Renato Valencia, and Olivier Dangles. 2016. Ant mutualism increases long-term growth and survival of a common Amazonian tree. *American Naturalist* **188**, 567--575. [doi](http://www.journals.uchicago.edu/doi/abs/10.1086/688401): 10.1086/688401
 
 Ninazunta, M, **Queenborough, SA**, Hernández, C & Valencia, R. 2016. Growth strategies of the arborescent palm *Iriartea deltoidea*, in a western Amazonian forest. *Botanical Journal of the Linnean Society* **182**, 411--424. [doi](http://onlinelibrary.wiley.com/doi/10.1111/boj.12448/full): 10.1111/boj.12448
 
