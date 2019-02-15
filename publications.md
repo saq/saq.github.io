@@ -13,6 +13,8 @@ title: Publications
 <p> <span class="showtooltip" title="graduate student co-author"><i class="icon-bug"> </i></span> graduate | <span class="showtooltip" title="undergraduate student co-author"><i class="icon-glass"> </i></span> undergraduate student co-authors </p>
 </div>
 
+[Google scholar page](https://scholar.google.com/citations?hl=en&user=5JontLgAAAAJ&view_op=list_works&sortby=pubdate)
+
 Please contact me for PDFs.
 
 updated: 2019-01-20
