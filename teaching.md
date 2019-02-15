@@ -40,6 +40,8 @@ The course is usually co-taught with [Dr. Liza Comita](http://environment.yale.e
 
 ### F&ES 603 Environmental Data Visualization & Communication
 
+[F&ES  page](http://environment.yale.edu/courses/detail/603/)
+
 Spring, 3 credits
 
 In this course, you will learn how to effectively explore, identify, and communicate key insights from environmental data to diverse audiences through visualization and presentation. Classes consist of short lectures on key principles of effective communication, data management, and visual design, coupled with discussions, peer critiques, and hands-on visualization activities. Throughout the term, we will introduce a variety of tools (including R, Tableau, Excel) and use these tools to develop and experimentally test alternative visualizations. 
