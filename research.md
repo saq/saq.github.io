@@ -16,10 +16,6 @@ predicting how anthropogenic impacts, such as climate change and land-use, will 
 forests in the future, and how we can better manage, conserve, and restore forests to
 mitigate these impacts.
 
-<div> 
-<p> <span class="showtooltip" title="funding source"><i class="icon-dollar"> </i></span> funding | <span class="showtooltip" title="collaborators"><i class="icon-user"> </i></span> collaborator </p>
-</div>
-
 
 ### How do environmental conditions shape community structure and function?
 
@@ -54,14 +50,6 @@ With collaborators, I am also analysing patterns of phenology in various regiona
 floras, such as the UK and China, and asking how climate change will likely impact
 species distributions and phenology (Amano et al., 2014; Du et al., 2015, in review).
 
-  <div>
-    <ul class="icons-ul">
-        <li><i class="icon-li icon-usd"> </i><a href="http://www.leverhulme.ac.uk/">The Leverhulme Trust</a> | <a href="http://www.britishecologicalsociety.org/">The British Ecological Society</a> | <a href="http://www.ctfs.si.edu">Center for Tropical Forest Science</a></li>
-        <li><i class="icon-li icon-user"> </i><a href="http://www.abdn.ac.uk/biologicalsci/staff/details/d.burslem">David Burslem</a> | <a href="http://www.plantbiology.siu.edu/Adjunct/Garwood.index.html">Nancy Garwood</a> | <a href="http://www.biologia.puce.edu.ec/natura.php?c=164">Renato Valencia</a></li>
-    </ul>
-  </div>
-
-<hr>
 
 ### How do local biotic and abiotic conditions enable the coexistence of sympatric populations?
 
@@ -89,14 +77,7 @@ structure and function in a local temperate forest (Krishnadas et al., 2018; Fot
 2018; Murphy et al., 2016).
 
 
-  <div>
-    <ul class="icons-ul">
-        <li><i class="icon-li icon-usd"> </i><a href="http://www.leverhulme.ac.uk/">The Leverhulme Trust</a> | <a href="http://www.britishecologicalsociety.org/">The British Ecological Society</a> | <a href="http://www.ctfs.si.edu">Center for Tropical Forest Science</a> | <a href="http://www.systass.org">Systematics Association</a></li>
-        <li><i class="icon-li icon-user"> </i><a href="http://www.abdn.ac.uk/biologicalsci/staff/details/d.burslem">David Burslem</a> | <a href="http://www.plantbiology.siu.edu/Adjunct/Garwood.index.html">Nancy Garwood</a> | <a href="http://www.biologia.puce.edu.ec/natura.php?c=164">Renato Valencia</a> | <a href="http://www.eemb.ucsb.edu/people/faculty/mazer">Susan Mazer</a> | <a href="http://people.ucalgary.ca/~smvamosi/">Steve Vamosi</a> | <a href="http://www.shef.ac.uk/aps/staff-and-students/acadstaff/freckleton">Rob Freckleton</a> | <a href="http://www.margaretmetz.com/file/Home.html">Margaret Metz</a> </li>
-    </ul>
-  </div>
 
-<hr>
 
 ### How does resource allocation within individuals drive life history strategy?
 
@@ -162,10 +143,4 @@ amining how climate change is shifting plant phenology (Callinger et al., 2013; 
 et al., 2014), and a recent meta-analysis of plant-soil feedback (Crawford et al., in press),
 as well as the analyses for a recent highly-cited meta-analysis (Comita et al., 2014).
 
-  <div>
-    <ul class="icons-ul">
-        <li><i class="icon-li icon-usd"> </i> <a href="http://www.relu.ac.uk/">Rural Economy and Land Use Programme</a> | <a href="http://www.leverhulme.ac.uk/">The Leverhulme Trust</a> </li>
-        <li><i class="icon-li icon-user"> </i><a href="http://www.shef.ac.uk/aps/staff-and-students/acadstaff/freckleton">Rob Freckleton</a> | <a href="http://www.zoo.cam.ac.uk/zoostaff/csg/sutherland.html">Bill Sutherland</a> | <a href="http://www.latrobe.edu.au/scitecheng/about/staff/profile?uname=ICooke">Ira Cooke</a></li>
-    </ul>
-  </div>
 
