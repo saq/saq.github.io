@@ -35,19 +35,19 @@ this pattern comes from early comparative studies that identified high frequenci
 drip-tips in tropical lowland rain forest and montane cloud forest sites, whereas temperate rain forest and drier forest sites lacked drip-tips. The increasing availability of
 digitized herbarium specimens and online floras and taxonomic information allowed
 us to categorize species leaf tips and quantitativly test whether the macroecological patterns in leaf form found in wet forests such as Amazonia are also found in the drier
-forests of the cerrado savannas of Brazil(Sullivan and Queenborough, in review), across
-the strong rainfall gradient in the isthmus of Panama(Almonte, 2019), and in Brazilian
-Atlantic forest(Caglioni and Queenborough, in prep).
+forests of the cerrado savannas of Brazil (Sullivan and Queenborough, in review), across
+the strong rainfall gradient in the isthmus of Panama (Almonte, 2019), and in Brazilian
+Atlantic forest (Caglioni and Queenborough, in prep).
 
 Leaves vary not only in size and shape, but also in many other traits. For example,
 many tropical tree species have specialized glands that secrete nectar in order to attract
 ants that defend the leaf from herbivores. Tree and seedling communities vary in the
-incidence and abundance of these extra-floral nectaries(Boudouris and Queenborough,
+incidence and abundance of these extra-floral nectaries (Boudouris and Queenborough,
 2013; Muehleisen et al., 2016). Similarly, many tropical tree species delay the greening
 of their new leaves, to avoid the loss of expensive N-rich chlorophyll to herbivores.
 Some species even add red anthocyanins to their leaves so that they appear brown and
 dead to herbivorous insects and mammals. I have documented that leaf color can also
-significantly affect seedling and tree growth and survival(Queenborough et al., 2013;
+significantly affect seedling and tree growth and survival (Queenborough et al., 2013;
 Anderson et al., in review).
 
 With collaborators, I am also analysing patterns of phenology in various regional
@@ -132,7 +132,7 @@ diversity (Vamosi and Queenborough, 2010). These investigations of the ecologica
 evolutionary significance of dioecy will be expanded in the near future.
 
 
-### quantitative methods in population dynamics
+### Quantitative methods in population dynamics
 
 I am applying my expertise in quantitative field ecology to examine the population dy-
 namics of herbaceous annual plants at multiple temporal and spatial scales. Studies of
