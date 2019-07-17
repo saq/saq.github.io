@@ -25,7 +25,14 @@ updated: 2019-01-20
 
 #### in press
 
-Tokarz, E.<sup><span class="icon-glass"></span></sup>, Alvia, P., Valencia, R. & **Queenborough, S.A.** Habitat niche partitioning by seven *Heliconia* species in a lowland tropical rain forest in Amazonian Ecuador. *Journal of Tropical Ecology*.
+DiFiore, B.P., **Simon A. Queenborough**, Elizabeth M. P. Madin, Valerie J. Paul, Mary Beth Decker, Adrian C. Stier. 0000. Herbivore density, more than predation risk, drives variation in grazing patterns visible from space. *Marine Ecology Progress Series*. In press.
+
+
+#### 2019
+
+Kerri M. Crawford, Jonathan T. Bauer, Liza S. Comita, Maarten B. Eppinga, Daniel J. Johnson, Scott A. Mangan, **Simon A. Queenborough**, Allan E. Strand, Katie N. Suding, James Umbanhowar, James D. Bever. 2019. Evolutionary history determines plant coexistence via pathogen-mediated plant-soil feedback. *Ecology Letters*, 22, 1274--1284.
+
+Tokarz, E.<sup><span class="icon-glass"></span></sup>, Alvia, P., Valencia, R. & **Queenborough, S.A.** 2019. Habitat niche partitioning by seven *Heliconia* species in a lowland tropical rain forest in Amazonian Ecuador. *Journal of Tropical Ecology*, 35, 91--94. [doi](https://doi.org/10.1017/S0266467419000026): 10.1017/S0266467419000026
 
 
 #### 2018
@@ -149,9 +156,6 @@ Cooke, I.R., **Queenborough, S.A.**, Mattison, E.H.A., Bailey, A.P., Sandars, D.
 
 Sullivan, M.K.* & **Queenborough, S.A.** Incidence and abundance of drip-tips increases in wetter sites of the cerrado savannas of Brazil. *Biotropica*.
 
-DiFiore, B.P., **Simon A. Queenborough**, Elizabeth M. P. Madin, Valerie J. Paul, Mary Beth Decker, Adrian C. Stier. Herbivore density, more than predation risk, drives variation in grazing patterns visible from space. *Ecology*.
-
-Kerri M. Crawford, Jonathan T. Bauer, Liza S. Comita, Maarten B. Eppinga, Daniel J. Johnson, Scott A. Mangan, **Simon A. Queenborough**, Allan E. Strand, Katie N. Suding, James Umbanhowar, James D. Bever. YYYY. Evolutionary history determines plant coexistence via pathogen-mediated plant-soil feedback. *Ecology Letters* in review.
 
 **Queenborough, S.A.** & Sam G.M. Bridgewater. YYYY. Two methods of tree plot inventory from tropical limestone deciduous forest, Belize. *PeerJ*.
 
