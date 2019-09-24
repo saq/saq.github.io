@@ -61,7 +61,7 @@ If you are interested in gaining practical experience in ecology and evolution a
 The [Yale Tropical Resources Institute](http://environment.yale.edu/tri/fellowships/) has some funding available for senior thesis work.
 
 
-### NSF Graduate Rsearch Fellowships
+### NSF Graduate Research Fellowships
 
 Phd and research Masters students are eligible to apply for NSF graduate fellowships. Students can apply in the year before they start a graduate program (October 21st deadline this year), and then again in their 1st year. 
 
