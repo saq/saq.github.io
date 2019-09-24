@@ -34,7 +34,23 @@ Facilities in the School and other Departments are good for conducting lab, gree
 
 If you are interested in pursuing graduate work in my lab, please email a statement of your research interests and a CV/Resume that gives your educational background (GPA, relevant biology, math and statistics classes), related work/field/lab experience, publications if any, and GRE scores if available. I will get back to you as soon as I can.
 
-Please read [these](https://conservationbytes.com/2015/04/01/how-to-contact-a-potential-phd-supervisor/) [blog](http://www.biodiverseperspectives.com/2015/02/12/advice-to-prospective-graduate-students/) [posts](https://contemplativemammoth.com/2013/04/08/so-you-want-to-go-to-grad-school-nail-the-inquiry-email/) first.
+**Before you write to me (or any potential advisor!)** please read and think about the ideas suggested in the following links:
+
+[https://conservationbytes.com/2015/04/01/how-to-contact-a-potential-phd-supervisor/](https://conservationbytes.com/2015/04/01/how-to-contact-a-potential-phd-supervisor/) 
+
+[http://www.biodiverseperspectives.com/2015/02/12/advice-to-prospective-graduate-students/](http://www.biodiverseperspectives.com/2015/02/12/advice-to-prospective-graduate-students/)
+
+[https://contemplativemammoth.com/2013/04/08/so-you-want-to-go-to-grad-school-nail-the-inquiry-email/](https://contemplativemammoth.com/2013/04/08/so-you-want-to-go-to-grad-school-nail-the-inquiry-email/)
+
+[https://dynamicecology.wordpress.com/2019/08/05/ask-us-anything-finding-ecology-phd-positions/](https://dynamicecology.wordpress.com/2019/08/05/ask-us-anything-finding-ecology-phd-positions/)
+
+[https://theprofessorisin.com/2011/07/25/how-to-write-an-email-to-a-potential-ph-d-advisor/](https://theprofessorisin.com/2011/07/25/how-to-write-an-email-to-a-potential-ph-d-advisor/)
+
+[https://dynamicecology.wordpress.com/2012/02/12/advice-how-to-choose-a-phd-program/](https://dynamicecology.wordpress.com/2012/02/12/advice-how-to-choose-a-phd-program/)
+
+[https://dynamicecology.wordpress.com/2013/02/05/thoughts-on-applying-to-grad-school-for-prospective-students-and-their-mentors/](https://dynamicecology.wordpress.com/2013/02/05/thoughts-on-applying-to-grad-school-for-prospective-students-and-their-mentors/)
+
+[https://stearnslab.yale.edu/some-modest-advice-graduate-students](https://stearnslab.yale.edu/some-modest-advice-graduate-students)
 
 
 ### Undergraduate students
