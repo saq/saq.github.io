@@ -25,19 +25,21 @@ updated: 2019-01-20
 
 #### in press
 
-DiFiore, B.P., **Simon A. Queenborough**, Elizabeth M. P. Madin, Valerie J. Paul, Mary Beth Decker, Adrian C. Stier. 0000. Herbivore density, more than predation risk, drives variation in grazing patterns visible from space. *Marine Ecology Progress Series*. In press.
+Woodbury, D.J.<sup><span class="icon-bug"></span></sup>, Yassir, I., Arbainsyah, Doroski, D.A.<sup><span class="icon-bug"></span></sup>, **Queenborough, S.A.**, & Ashton, M.A. YYYY. Filling a void: Analysis of early tropical soil and vegetative recovery under leguminous, post-coal mine reforestation plantations in East Kalimantan, Indonesia. *Land Degradation & Development*. In press.
+
+DiFiore, B.P.<sup><span class="icon-bug"></span></sup>, **Queenborough, S.A.**, Madin, E.M.P, Paul, V.J., Decker M.B., Stier, A.C. YYYY. Herbivore density, more than predation risk, drives variation in grazing patterns visible from space. *Marine Ecology Progress Series*. In press.
 
 
 #### 2019
 
-Kerri M. Crawford, Jonathan T. Bauer, Liza S. Comita, Maarten B. Eppinga, Daniel J. Johnson, Scott A. Mangan, **Simon A. Queenborough**, Allan E. Strand, Katie N. Suding, James Umbanhowar, James D. Bever. 2019. Evolutionary history determines plant coexistence via pathogen-mediated plant-soil feedback. *Ecology Letters*, 22, 1274--1284.
+Crawford, K.E., Bauer, J.T., Comita, L.S., Eppinga, M.B., Johnson, D.J., Mangan, S.A., **Queenborough, S.A.**, Strand, A.E., Suding, K.N., Umbanhowar, J., Bever, J.D. 2019. Evolutionary history determines plant coexistence via pathogen-mediated plant-soil feedback. *Ecology Letters*, 22, 1274--1284.
 
 Tokarz, E.<sup><span class="icon-glass"></span></sup>, Alvia, P., Valencia, R. & **Queenborough, S.A.** 2019. Habitat niche partitioning by seven *Heliconia* species in a lowland tropical rain forest in Amazonian Ecuador. *Journal of Tropical Ecology*, 35, 91--94. [doi](https://doi.org/10.1017/S0266467419000026): 10.1017/S0266467419000026
 
 
 #### 2018
 
-**Simon A. Queenborough**. 2018. Tropical Humid Forest Biome. *Oxford Bibliographies in Ecology*. [doi](http://dx.doi.org/10.1093/obo/9780199830060-0203): 10.1093/obo/9780199830060-0203 
+**Queenborough, S.A.**. 2018. Tropical Humid Forest Biome. *Oxford Bibliographies in Ecology*. [doi](http://dx.doi.org/10.1093/obo/9780199830060-0203): 10.1093/obo/9780199830060-0203 
 
 Krishnadas, M.<sup><span class="icon-bug"></span></sup>, Beckman, N., Penagos-Zuluaga, J.C.<sup><span class="icon-bug"></span></sup>, Zhu, Y., Whitacre, J., Wenzel, J., **Queenborough, S.A.** & Comita, L.S. 2018. Environment and land-use legacies together predict functional diversity in a temperate forest. *Ecological Applications*, 28, 2142--2152.  [doi](https://dx.doi.org/10.1002/eap.1802): 10.1002/eap.1802
 
@@ -45,14 +47,14 @@ Bemmels, J.<sup><span class="icon-bug"></span></sup>, S.J. Wright, N.C. Garwood,
 
 Zhu, Y., **Queenborough, S.A.**, Condit, R., Hubbell, S.P., Ma, K.P. & Comita, L.S. 2018. Density-dependent survival varies with species life-history strategy in a tropical forest. *Ecology Letters*, 21, 506--515. [doi](http://dx.doi.org/10.1111/ele.12915): 10.1111/ele.12915
 
-Fotis, A.T.<sup><span class="icon-bug"></span></sup>, Raleigh D. Ricart<sup><span class="icon-bug"></span></sup>, Stephen J. Murphy<sup><span class="icon-bug"></span></sup>, Meghna Krishnadas<sup><span class="icon-bug"></span></sup>, James Whitacre, John W. Wenzel, **Simon A. Queenborough** and Liza S. Comita. 2018. Aboveground biomass is driven by selection effects and stand structural attributes in a temperate deciduous forest. *Journal of Ecology*, 106, 561--570. [doi](http://dx.doi.org/10.1111/1365-2745.12847): 10.1111/1365-2745.12847
+Fotis, A.T.<sup><span class="icon-bug"></span></sup>, Ricart, R.D.<sup><span class="icon-bug"></span></sup>, Murphy, S.J.<sup><span class="icon-bug"></span></sup>, Krishnadas, M.<sup><span class="icon-bug"></span></sup>, Whitacre, J.,  Wenzel, J.W., **Queenborough, S.A.** and Comita, L.S. 2018. Aboveground biomass is driven by selection effects and stand structural attributes in a temperate deciduous forest. *Journal of Ecology*, 106, 561--570. [doi](http://dx.doi.org/10.1111/1365-2745.12847): 10.1111/1365-2745.12847
 
 
 #### 2017
 
-Du, Y., **Simon A. Queenborough**, Lei Chen, Yunquan Wang, Xiangcheng Mi, Keping Ma, Liza S. Comita. 2017. Intraspecific and phylogenetic density-dependent seedling recruitment in a subtropical evergreen forest. *Oecologia* 184, 193--203. [doi](http://dx.doi.org/10.1007/s00442-017-3842-3): 10.1007/s00442-017-3842-3
+Du, Y., **Queenborough, S.A.**, Chen, L., Wang, Y., Mi, X., Ma, K., Comita, L.S. 2017. Intraspecific and phylogenetic density-dependent seedling recruitment in a subtropical evergreen forest. *Oecologia* 184, 193--203. [doi](http://dx.doi.org/10.1007/s00442-017-3842-3): 10.1007/s00442-017-3842-3
 
-Delavaux, C.S.<sup><span class="icon-bug"></span></sup>, Tessa Camenzind, Jurgen Homeier, Rosa Jimenez-Paz, Mark S. Ashton, **Simon A. Queenborough**. 2017. Nutrient enrichment effects on mycorrhizal fungi in an Andean tropical montane forest. *Mycorrhiza*. Online. [doi](http://dx.doi.org/10.1007/s00572-016-0749-5): 10.1007/s00572-016-0749-5
+Delavaux, C.S.<sup><span class="icon-bug"></span></sup>, Camenzind, T.,  Homeier, J., Jimenez-Paz, R., Ashton, M.S., **Queenborough, S.A.**. 2017. Nutrient enrichment effects on mycorrhizal fungi in an Andean tropical montane forest. *Mycorrhiza*. Online. [doi](http://dx.doi.org/10.1007/s00572-016-0749-5): 10.1007/s00572-016-0749-5
 
 **Queenborough, SA**. 2017. Collections-based studies of plant functional traits. *Scientia Danica. Series B, Biologica*, 6, 223--236. Proceedings of the meeting: Tropical Plant Collections: Legacies from the past? Essential tools for the future? 
 
@@ -61,7 +63,7 @@ Smith, J.R.<sup><span class="icon-bug"></span></sup>, **Queenborough, SA**, Alvi
 
 #### 2016
 
-Báez, S., David A. Donoso, **Simon A. Queenborough**, Liliana Jaramillo, Renato Valencia, and Olivier Dangles. 2016. Ant mutualism increases long-term growth and survival of a common Amazonian tree. *American Naturalist* **188**, 567--575. [doi](http://www.journals.uchicago.edu/doi/abs/10.1086/688401): 10.1086/688401
+Báez, S., Donoso, D.S., **Queenborough, S.A.**, Jaramillo, L., Valencia, R., and Dangles, O. 2016. Ant mutualism increases long-term growth and survival of a common Amazonian tree. *American Naturalist* **188**, 567--575. [doi](http://www.journals.uchicago.edu/doi/abs/10.1086/688401): 10.1086/688401
 
 Ninazunta, M, **Queenborough, SA**, Hernández, C & Valencia, R. 2016. Growth strategies of the arborescent palm *Iriartea deltoidea*, in a western Amazonian forest. *Botanical Journal of the Linnean Society* **182**, 411--424. [doi](http://onlinelibrary.wiley.com/doi/10.1111/boj.12448/full): 10.1111/boj.12448
 
@@ -72,18 +74,18 @@ Muehleisen, M.<sup><span class="icon-glass"></span></sup>, **Queenborough, S.A.*
 
 #### 2015
 
-Calinger, K.M.<sup><span class="icon-bug"></span></sup>, Elisabeth A. Calhoon<sup><span class="icon-bug"></span></sup>, Hsiaochi Chang<sup><span class="icon-bug"></span></sup>, James Whitacre, John Wenzel, Liza S. Comita & **Simon A. Queenborough**. 2015. Historic mining and agriculture as indicators of occurrence and abundance of two widespread invasive plant species. *PLoS ONE* **10(6)**,  e0128161. [doi](http://dx.doi.org/10.1371/journal.pone.0128161): 10.1371/journal.pone.0128161
+Calinger, K.M.<sup><span class="icon-bug"></span></sup>, Calhoon, E.A.<sup><span class="icon-bug"></span></sup>, Chang, H.<sup><span class="icon-bug"></span></sup>, Whitacre, J., Wenzel, J., Comita, L.S. & **Queenborough, S.A.**. 2015. Historic mining and agriculture as indicators of occurrence and abundance of two widespread invasive plant species. *PLoS ONE* **10(6)**,  e0128161. [doi](http://dx.doi.org/10.1371/journal.pone.0128161): 10.1371/journal.pone.0128161
 
-Du, Y., Lingfeng Mao, **Simon A. Queenborough**, Robert P. Freckleton, Bin Chen, Keping Ma. 2015. Phylogenetic constraints and trait correlates of flowering phenology in the angiosperm flora of China. *Global Ecology & Biogeography* **24**, 928--938. [doi](http://dx.doi.org/10.1111/geb.12303): 10.1111/geb.12303
+Du, Y., Mao, L., **Queenborough, S.A.**, Freckleton, R.P., Chen, B., Ma, K. 2015. Phylogenetic constraints and trait correlates of flowering phenology in the angiosperm flora of China. *Global Ecology & Biogeography* **24**, 928--938. [doi](http://dx.doi.org/10.1111/geb.12303): 10.1111/geb.12303
 
-Murphy, S.J.<sup><span class="icon-bug"></span></sup>, Lívia D. Audino<sup><span class="icon-bug"></span></sup>, James Whitacre, Jenalle L. Eck<sup><span class="icon-bug"></span></sup>, John W. Wenzel, **Simon A. Queenborough**, Liza S. Comita. 2015. Species associations structured by environment and land-use history promote beta-diversity in a temperate forest. *Ecology*, **96**, 705--715. [doi](http://dx.doi.org/10.1890/14-0695.1): 10.1890/14-0695.1
+Murphy, S.J.<sup><span class="icon-bug"></span></sup>, Audino, L.D.<sup><span class="icon-bug"></span></sup>, Whitacre, J., Eck, J.L.<sup><span class="icon-bug"></span></sup>, Wenzel, J.W., **Queenborough, S.A.**, Comita, L.S.. 2015. Species associations structured by environment and land-use history promote beta-diversity in a temperate forest. *Ecology*, **96**, 705--715. [doi](http://dx.doi.org/10.1890/14-0695.1): 10.1890/14-0695.1
 
 Hellmann, J.K.<sup><span class="icon-bug"></span></sup>, Erikson, J.S. & **Queenborough, S.A.** 2015. Evaluating macroinvertebrate community shifts in the nexus of freestone and limestone streams. *Journal of Limnology*, **74**, 64--74. [doi](http://dx.doi.org/10.4081/jlimnol.2014.935): 10.4081/jlimnol.2014.935 <span class="icon-unlock"> </span>
 
 
 #### 2014
 
-Ward, S.M., Roger D. Cousens, Muthukumar V. Bagavathiannan, Jacob N. Barney, Hugh J. Beckie, Roberto Busi, Adam S. Davis, Jeffrey S. Dukes, Frank Forcella, Robert P. Freckleton, Eric R. Gallandt, Linda M. Hall, Marie Jasieniuk, Amy Lawton-Rauh, Erik A. Lehnhoff, Matt Liebman, Bruce D. Maxwell, Mohsen B. Mesgaran, Justine V. Murray, Paul Neve, Martin A. Nuñez, Anibal Pauchard, **Simon A. Queenborough**, and Bruce L. Webber. 2014. Agricultural weed research: A critique and two proposals. *Weed Science* 62, 672-678. [doi](http://dx.doi.org/10.1614/WS-D-13-00161.1): 10.1614/WS-D-13-00161.1
+Ward, S.M., Cousens, R.D., Bagavathiannan, M.V., Barney, J.N., Beckie, H.J., Busi, R., Davis, A.S., Dukes, J.S., Forcella, F., Freckleton, R.P., Gallandt, E.R., Hall, L.M., Jasieniuk, M., Lawton-Rauh, A., Lehnhoff, E.A., Liebman, M., Maxwell, B.D., Mesgaran, M.B., Murray, J.V., Neve, P., Nuñez, M.A., Pauchard, A., **Queenborough, S.A.**, and Webber, B.L. 2014. Agricultural weed research: A critique and two proposals. *Weed Science* 62, 672-678. [doi](http://dx.doi.org/10.1614/WS-D-13-00161.1): 10.1614/WS-D-13-00161.1
  
 Comita, L.S., **Queenborough, S.A.**, Eck, J.L.<sup><span class="icon-bug"></span></sup>, Murphy, S.<sup><span class="icon-bug"></span></sup>, Xu, K.<sup><span class="icon-glass"></span></sup>, Krishnadas, M.<sup><span class="icon-bug"></span></sup>, Beckman, N. and Zhu, Y. 2014. Testing predictions of the Janzen-Connell hypothesis: A meta-analysis of experimental evidence for distance- and density-dependent seed and seedling survival. *Journal of Ecology* **102**, 845--865.  <span class="icon-unlock"> </span> \| <a href="http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12232/abstract"><span class="icon-download-alt"> </span></a>
 
