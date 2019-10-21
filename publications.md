@@ -27,10 +27,9 @@ updated: 2019-01-20
 
 Woodbury, D.J.<sup><span class="icon-bug"></span></sup>, Yassir, I., Arbainsyah, Doroski, D.A.<sup><span class="icon-bug"></span></sup>, **Queenborough, S.A.**, & Ashton, M.A. YYYY. Filling a void: Analysis of early tropical soil and vegetative recovery under leguminous, post-coal mine reforestation plantations in East Kalimantan, Indonesia. *Land Degradation & Development*. In press.
 
-DiFiore, B.P.<sup><span class="icon-bug"></span></sup>, **Queenborough, S.A.**, Madin, E.M.P, Paul, V.J., Decker M.B., Stier, A.C. YYYY. Herbivore density, more than predation risk, drives variation in grazing patterns visible from space. *Marine Ecology Progress Series*. In press.
-
-
 #### 2019
+
+DiFiore, B.P.<sup><span class="icon-bug"></span></sup>, **Queenborough, S.A.**, Madin, E.M.P, Paul, V.J., Decker M.B., Stier, A.C. 2019. Herbivore density, more than predation risk, drives variation in grazing patterns visible from space. *Marine Ecology Progress Series*, 627, 71--81. \href{https://doi.org/10.3354/meps13074}{doi}: 10.3354/meps13074 
 
 Crawford, K.E., Bauer, J.T., Comita, L.S., Eppinga, M.B., Johnson, D.J., Mangan, S.A., **Queenborough, S.A.**, Strand, A.E., Suding, K.N., Umbanhowar, J., Bever, J.D. 2019. Evolutionary history determines plant coexistence via pathogen-mediated plant-soil feedback. *Ecology Letters*, 22, 1274--1284.
 
