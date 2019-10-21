@@ -29,9 +29,9 @@ Woodbury, D.J.<sup><span class="icon-bug"></span></sup>, Yassir, I., Arbainsyah,
 
 #### 2019
 
-DiFiore, B.P.<sup><span class="icon-bug"></span></sup>, **Queenborough, S.A.**, Madin, E.M.P, Paul, V.J., Decker M.B., Stier, A.C. 2019. Herbivore density, more than predation risk, drives variation in grazing patterns visible from space. *Marine Ecology Progress Series*, 627, 71--81. \href{https://doi.org/10.3354/meps13074}{doi}: 10.3354/meps13074 
+DiFiore, B.P.<sup><span class="icon-bug"></span></sup>, **Queenborough, S.A.**, Madin, E.M.P, Paul, V.J., Decker M.B., Stier, A.C. 2019. Herbivore density, more than predation risk, drives variation in grazing patterns visible from space. *Marine Ecology Progress Series*, 627, 71--81. [doi](https://doi.org/10.3354/meps13074): 10.3354/meps13074 
 
-Crawford, K.E., Bauer, J.T., Comita, L.S., Eppinga, M.B., Johnson, D.J., Mangan, S.A., **Queenborough, S.A.**, Strand, A.E., Suding, K.N., Umbanhowar, J., Bever, J.D. 2019. Evolutionary history determines plant coexistence via pathogen-mediated plant-soil feedback. *Ecology Letters*, 22, 1274--1284.
+Crawford, K.E., Bauer, J.T., Comita, L.S., Eppinga, M.B., Johnson, D.J., Mangan, S.A., **Queenborough, S.A.**, Strand, A.E., Suding, K.N., Umbanhowar, J., Bever, J.D. 2019. Evolutionary history determines plant coexistence via pathogen-mediated plant-soil feedback. *Ecology Letters*, 22, 1274--1284. [doi](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13278): 10.1111/ele.13278
 
 Tokarz, E.<sup><span class="icon-glass"></span></sup>, Alvia, P., Valencia, R. & **Queenborough, S.A.** 2019. Habitat niche partitioning by seven *Heliconia* species in a lowland tropical rain forest in Amazonian Ecuador. *Journal of Tropical Ecology*, 35, 91--94. [doi](https://doi.org/10.1017/S0266467419000026): 10.1017/S0266467419000026
 
