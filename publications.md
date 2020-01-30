@@ -25,14 +25,14 @@ updated: 2019-01-20
 
 #### in review
 
-Sullivan, M.K.\* & **Queenborough, S.A.** 0000. INSIGHTS: Precipitation gradients, plant biogeography, and the incidence of drip-tips in Cerrado plant species.. *Biotropica*.
-
 Du, Y., Mao, L., **Queenborough, S.A.**, Primack, R., Comita, L.S., Hampe, A., & Ma, K. 0000. Macro-scale variation and environmental predictors of angiosperm reproductive phenology in the Chinese flora. *Ecography*.
 
 Goodsell, R.M.\*,  Spencer, M., Vergnon, R.,  Coutts, S., **Queenborough, S.A.**, Swinfield, T., Childs, D.Z., & Freckleton, R.P. 0000. Developing hierarchical density-structured models to study the national-scale dynamics of an arable weed. *Ecological Monographs*.
 
 
 #### in press
+
+Sullivan, M.K.\* & **Queenborough, S.A.** 0000. INSIGHTS: Precipitation gradients, plant biogeography, and the incidence of drip-tips in Cerrado plant species.. *Biotropica*.
 
 
 #### 2019
