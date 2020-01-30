@@ -10,7 +10,7 @@ title: Publications
 <div> 
 <p> <span class="showtooltip" title="article is openly available"><i class="icon-unlock"> </i></span> open access | <span class="showtooltip" title="extra appendices or data available"><i class="icon-archive"> </i></span> appendices/data | <span class="showtooltip" title="click to download"><i class="icon-download-alt"> </i></span> download pdf  </p>
 
-<p> \*graduate | \*\*undergraduate student co-authors </p>
+<p> *graduate | **undergraduate student co-authors </p>
 </div>
 
 [Google scholar page](https://scholar.google.com/citations?hl=en&user=5JontLgAAAAJ&view_op=list_works&sortby=pubdate)
