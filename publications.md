@@ -23,6 +23,15 @@ updated: 2019-01-20
 
 ### peer-reviewed publications
 
+#### in review
+
+Sullivan, M.K.\* & **Queenborough, S.A.** 0000. INSIGHTS: Precipitation gradients, plant biogeography, and the incidence of drip-tips in Cerrado plant species.. *Biotropica*.
+
+Du, Y., Mao, L., **Queenborough, S.A.**, Primack, R., Comita, L.S., Hampe, A., & Ma, K. 0000. Macro-scale variation and environmental predictors of angiosperm reproductive phenology in the Chinese flora. *Ecography*.
+
+Goodsell, R.M.\*,  Spencer, M., Vergnon, R.,  Coutts, S., **Queenborough, S.A.**, Swinfield, T., Childs, D.Z., Freckleton, R.P. 0000. Developing hierarchical density-structured models to study the national-scale dynamics of an arable weed. *Ecological Monographs*.
+
+
 #### in press
 
 Woodbury, D.J.<sup><span class="icon-bug"></span></sup>, Yassir, I., Arbainsyah, Doroski, D.A.<sup><span class="icon-bug"></span></sup>, **Queenborough, S.A.**, & Ashton, M.A. YYYY. Filling a void: Analysis of early tropical soil and vegetative recovery under leguminous, post-coal mine reforestation plantations in East Kalimantan, Indonesia. *Land Degradation & Development*. In press.
@@ -150,18 +159,6 @@ Cooke, I.R., **Queenborough, S.A.**, Mattison, E.H.A., Bailey, A.P., Sandars, D.
 **Queenborough, S.A.**, Burslem, D.F.R.P., Garwood, N.C., Valencia, R. 2007. Determinants of biased sex ratios and differential costs of reproduction in dioecious tropical forest trees. *American Journal of Botany* **94**, 67--78. [doi](http://dx.doi.org/10.3732/ajb.94.1.67): 10.3732/ajb.94.1.67 \| <a href="../assets/pubs/2007-Queenborough-AmJBot.pdf"><span class="icon-download-alt"></span></a>
 
 **Queenborough, S.A.**, Burslem, D.F.R.P., Garwood, N.C., Valencia, R. 2007. Habitat niche partitioning by 16 species of Myristicaceae in Amazonian Ecuador. *Plant Ecology* **192**, 193--207. [doi](http://dx.doi.org/10.1007/s11258-007-9328-3): 10.1007/s11258-007-9328-3 \| <a href="../assets/pubs/2007-Queenborough-PlEcol.pdf"><span class="icon-download-alt"></span></a>
-
-<hr>
-
-### in review
-
-Sullivan, M.K.* & **Queenborough, S.A.** Incidence and abundance of drip-tips increases in wetter sites of the cerrado savannas of Brazil. *Biotropica*.
-
-
-**Queenborough, S.A.** & Sam G.M. Bridgewater. YYYY. Two methods of tree plot inventory from tropical limestone deciduous forest, Belize. *PeerJ*.
-
-**Queenborough, S.A.** & Kulesza, A.E. YYYY. How the Giraffe got its Neck. *National Center for Case Study Teaching in Science*.
-
 
 
 
