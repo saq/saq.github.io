@@ -17,7 +17,7 @@ title: Publications
 
 Please contact me for PDFs.
 
-updated: 2019-01-20
+updated: 2020-05-13
 
 <hr>
 
@@ -25,19 +25,20 @@ updated: 2019-01-20
 
 #### in review
 
+Penagos Zuluaga, J.C.\*, **Queenborough, S.A.**, & Comita, L.S. 0000. Flowering sex ratios and costs of reproduction in gynodioecious *Ocotea oblonga* (Lauraceae). *Biological Journal of the Linnean Society*.
+
 Du, Y., Mao, L., **Queenborough, S.A.**, Primack, R., Comita, L.S., Hampe, A., & Ma, K. 0000. Macro-scale variation and environmental predictors of angiosperm reproductive phenology in the Chinese flora. *Ecography*.
 
 Goodsell, R.M.\*,  Spencer, M., Vergnon, R.,  Coutts, S., **Queenborough, S.A.**, Swinfield, T., Childs, D.Z., & Freckleton, R.P. 0000. Developing hierarchical density-structured models to study the national-scale dynamics of an arable weed. *Ecological Monographs*.
 
 
-#### in press
+#### 2020
 
-Sullivan, M.K.\* & **Queenborough, S.A.** 0000. INSIGHTS: Precipitation gradients, plant biogeography, and the incidence of drip-tips in Cerrado plant species.. *Biotropica*.
-
+Sullivan, M.K.\* & **Queenborough, S.A.** 2020. INSIGHTS: Precipitation gradients, plant biogeography, and the incidence of drip-tips in Cerrado plant species.. *Biotropica* 00, 1--7. [doi](http://dx.doi.org/10.1111/btp.12797): 10.1111/btp.12797
 
 #### 2019
 
-Woodbury, D.J.\*, Yassir, I., Arbainsyah, Doroski, D.A.\*, **Queenborough, S.A.**, & Ashton, M.A. 2019. Filling a void: Analysis of early tropical soil and vegetative recovery under leguminous, post-coal mine reforestation plantations in East Kalimantan, Indonesia. *Land Degradation & Development*. Early view. [doi](https://onlinelibrary.wiley.com/doi/full/10.1002/ldr.3464): 10.1002/ldr.3464
+Woodbury, D.J.\*, Yassir, I., Arbainsyah, Doroski, D.A.\*, **Queenborough, S.A.**, & Ashton, M.A. 2019. Filling a void: Analysis of early tropical soil and vegetative recovery under leguminous, post-coal mine reforestation plantations in East Kalimantan, Indonesia. *Land Degradation & Development*, 31, 473--487.  [doi](https://onlinelibrary.wiley.com/doi/full/10.1002/ldr.3464): 10.1002/ldr.3464
 
 DiFiore, B.P.\*, **Queenborough, S.A.**, Madin, E.M.P, Paul, V.J., Decker M.B., & Stier, A.C. 2019. Herbivore density, more than predation risk, drives variation in grazing patterns visible from space. *Marine Ecology Progress Series*, 627, 71--81. [doi](https://doi.org/10.3354/meps13074): 10.3354/meps13074 
 
