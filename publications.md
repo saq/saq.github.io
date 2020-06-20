@@ -29,12 +29,12 @@ Penagos Zuluaga, J.C.\*, van der Werff,H., Park, B.\*, Eaton, D.A.R., Comita, L.
 
 Penagos Zuluaga, J.C.\*, **Queenborough, S.A.**, & Comita, L.S. 0000. Flowering sex ratios and costs of reproduction in gynodioecious *Ocotea oblonga* (Lauraceae). *Biological Journal of the Linnean Society*.
 
-Du, Y., Mao, L., **Queenborough, S.A.**, Primack, R., Comita, L.S., Hampe, A., & Ma, K. 0000. Macro-scale variation and environmental predictors of angiosperm reproductive phenology in the Chinese flora. *Ecography*.
-
 Goodsell, R.M.\*,  Spencer, M., Vergnon, R.,  Coutts, S., **Queenborough, S.A.**, Swinfield, T., Childs, D.Z., & Freckleton, R.P. 0000. Developing hierarchical density-structured models to study the national-scale dynamics of an arable weed. *Ecological Monographs*.
 
 
 #### 2020
+
+Du, Y., Mao, L., **Queenborough, S.A.**, Primack, R., Comita, L.S., Hampe, A., & Ma, K. 0000. Macro-scale variation and environmental predictors of angiosperm reproductive phenology in the Chinese flora. *Journal of Biogeography*. Accepted.
 
 Sullivan, M.K.\* & **Queenborough, S.A.** 2020. INSIGHTS: Precipitation gradients, plant biogeography, and the incidence of drip-tips in Cerrado plant species.. *Biotropica* 00, 1--7. [doi](http://dx.doi.org/10.1111/btp.12797): 10.1111/btp.12797
 
