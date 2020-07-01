@@ -27,12 +27,12 @@ updated: 2020-05-13
 
 Penagos Zuluaga, J.C.\*, van der Werff,H., Park, B.\*, Eaton, D.A.R., Comita, L.S., **Queenborough, S.A.**, Donoghue, M.J. 0000. Restriction-site-associated DNA sequencing resolves phylogenetic relationships in the *Ocotea* complex (Lauraceae): Phylogenetic classification and character evolution. *American Journal of Botany*.
 
-Penagos Zuluaga, J.C.\*, **Queenborough, S.A.**, & Comita, L.S. 0000. Flowering sex ratios and costs of reproduction in gynodioecious *Ocotea oblonga* (Lauraceae). *Biological Journal of the Linnean Society*.
-
 Goodsell, R.M.\*,  Spencer, M., Vergnon, R.,  Coutts, S., **Queenborough, S.A.**, Swinfield, T., Childs, D.Z., & Freckleton, R.P. 0000. Developing hierarchical density-structured models to study the national-scale dynamics of an arable weed. *Ecological Monographs*.
 
 
 #### 2020
+
+Penagos Zuluaga, J.C.\*, **Queenborough, S.A.**, & Comita, L.S. 0000. Flowering sex ratios and costs of reproduction in gynodioecious *Ocotea oblonga* (Lauraceae). *Biological Journal of the Linnean Society*. Accepted.
 
 Du, Y., Mao, L., **Queenborough, S.A.**, Primack, R., Comita, L.S., Hampe, A., & Ma, K. 0000. Macro-scale variation and environmental predictors of angiosperm reproductive phenology in the Chinese flora. *Journal of Biogeography*. Accepted.
 
