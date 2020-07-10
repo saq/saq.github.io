@@ -54,11 +54,11 @@ If you are interested in pursuing graduate work in my lab, please email a statem
 
 
 ### Undergraduate students
-I encourage sincere, hardworking and motivated undergraduate students to actively participate in research projects or to conduct their own independent research. Please see [here](http://www.simonqueenborough.com/people.html) for undergraduates who have worked in the lab.
+I encourage sincere, hardworking and motivated undergraduate students to actively participate in research projects or to conduct their own independent research. Please see [here](http://www.simonqueenborough.info/people.html) for undergraduates who have worked in the lab.
 
 If you are interested in gaining practical experience in ecology and evolution and you are interested in the research described on this website, please contact me to discuss possibilities. Please include details of the courses you have taken/are taking, current GPA, etc.
 
-The [Yale Tropical Resources Institute](http://environment.yale.edu/tri/fellowships/) has some funding available for senior thesis work.
+The [Yale Tropical Resources Institute](http://tri.yale.edu/fellowships/) has some funding available for senior thesis work.
 
 
 ### NSF Graduate Research Fellowships
