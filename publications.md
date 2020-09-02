@@ -17,7 +17,7 @@ title: Publications
 
 Please contact me for PDFs.
 
-updated: 2020-05-13
+updated: 2020-09-02
 
 <hr>
 
