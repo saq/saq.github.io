@@ -64,13 +64,13 @@ Fotis, A.T.\*, Ricart, R.D.\*, Murphy, S.J.\*, Krishnadas, M.\*, Whitacre, J.,  
 
 #### 2017
 
-Du, Y., **Queenborough, S.A.**, Chen, L., Wang, Y., Mi, X., Ma, K., & Comita, L.S. 2017. Intraspecific and phylogenetic density-dependent seedling recruitment in a subtropical evergreen forest. *Oecologia* 184, 193--203. [doi](http://dx.doi.org/10.1007/s00442-017-3842-3): 10.1007/s00442-017-3842-3
+Du, Y., **Queenborough, S.A.**, Chen, L., Wang, Y., Mi, X., Ma, K., & Comita, L.S. 2017. Intraspecific and phylogenetic density-dependent seedling recruitment in a subtropical evergreen forest. *Oecologia* **184**, 193--203. [doi](http://dx.doi.org/10.1007/s00442-017-3842-3): 10.1007/s00442-017-3842-3
 
 Delavaux, C.S.\*, Camenzind, T.,  Homeier, J., Jimenez-Paz, R., Ashton, M.S., & **Queenborough, S.A.**. 2017. Nutrient enrichment effects on mycorrhizal fungi in an Andean tropical montane forest. *Mycorrhiza*. Online. [doi](http://dx.doi.org/10.1007/s00572-016-0749-5): 10.1007/s00572-016-0749-5
 
-**Queenborough, SA**. 2017. Collections-based studies of plant functional traits. *Scientia Danica. Series B, Biologica*, 6, 223--236. Proceedings of the meeting: Tropical Plant Collections: Legacies from the past? Essential tools for the future? 
+**Queenborough, SA**. 2017. Collections-based studies of plant functional traits. *Scientia Danica. Series B, Biologica*, **6**, 223--236. Proceedings of the meeting: Tropical Plant Collections: Legacies from the past? Essential tools for the future? 
 
-Smith, J.R.\*, **Queenborough, SA**, Alvia, P, Romero-Saltos, H, & Valencia, R. 2017. Testing the Liana Dominance Hypothesis: No strong evidence for increasing liana abundance in the Myristicaceae of a Neotropical aseasonal rain forest. *Ecology*, 98, 456--466. [doi](http://dx.doi.org/10.1002/ecy.1657): 10.1002/ecy.1657
+Smith, J.R.\*, **Queenborough, SA**, Alvia, P, Romero-Saltos, H, & Valencia, R. 2017. Testing the Liana Dominance Hypothesis: No strong evidence for increasing liana abundance in the Myristicaceae of a Neotropical aseasonal rain forest. *Ecology*, **98**, 456--466. [doi](http://dx.doi.org/10.1002/ecy.1657): 10.1002/ecy.1657
 
 
 #### 2016
@@ -97,7 +97,7 @@ Hellmann, J.K.\*, Erikson, J.S., & **Queenborough, S.A.** 2015. Evaluating macro
 
 #### 2014
 
-Ward, S.M., Cousens, R.D., Bagavathiannan, M.V., Barney, J.N., Beckie, H.J., Busi, R., Davis, A.S., Dukes, J.S., Forcella, F., Freckleton, R.P., Gallandt, E.R., Hall, L.M., Jasieniuk, M., Lawton-Rauh, A., Lehnhoff, E.A., Liebman, M., Maxwell, B.D., Mesgaran, M.B., Murray, J.V., Neve, P., Nuñez, M.A., Pauchard, A., **Queenborough, S.A.**, and Webber, B.L. 2014. Agricultural weed research: A critique and two proposals. *Weed Science* 62, 672-678. [doi](http://dx.doi.org/10.1614/WS-D-13-00161.1): 10.1614/WS-D-13-00161.1
+Ward, S.M., Cousens, R.D., Bagavathiannan, M.V., Barney, J.N., Beckie, H.J., Busi, R., Davis, A.S., Dukes, J.S., Forcella, F., Freckleton, R.P., Gallandt, E.R., Hall, L.M., Jasieniuk, M., Lawton-Rauh, A., Lehnhoff, E.A., Liebman, M., Maxwell, B.D., Mesgaran, M.B., Murray, J.V., Neve, P., Nuñez, M.A., Pauchard, A., **Queenborough, S.A.**, and Webber, B.L. 2014. Agricultural weed research: A critique and two proposals. *Weed Science* **62**, 672--678. [doi](http://dx.doi.org/10.1614/WS-D-13-00161.1): 10.1614/WS-D-13-00161.1
  
 Comita, L.S., **Queenborough, S.A.**, Eck, J.L.\*, Murphy, S.\*, Xu, K.\*\*, Krishnadas, M.\*, Beckman, N., and Zhu, Y. 2014. Testing predictions of the Janzen-Connell hypothesis: A meta-analysis of experimental evidence for distance- and density-dependent seed and seedling survival. *Journal of Ecology* **102**, 845--865.  <span class="icon-unlock"> </span> \| <a href="http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12232/abstract"><span class="icon-download-alt"> </span></a>
 
