@@ -119,7 +119,7 @@ Callinger, K.M.\*, Curtis, P.S., & **Queenborough, S.A.** 2013. Herbarium specim
 
 Cooke, I.R., Mattison, E.H., Audsley, E., Bailey, A., Freckleton, R.P., Graves, A.R., Morris, J., **Queenborough, S.A.**, Sanders, D.L., Sirawarden, G., Trawick, P., Watkinson, A.R., & Sutherland, W.J. 2013. Empirical test of an agricultural landscape model: the importance of farmer preference for risk-aversion and crop complexity. *SAGE Open* **3**, 2158244013486491. [doi](http://dx.doi.org/10.1177/2158244013486491): 10.1177/2158244013486491  <span class="icon-unlock"> </span> \| <a href="../assets/pubs/2013-Cooke-SAGE.pdf"><span class="icon-download-alt"></span></a>
 
-Jimenez, A.G., Harper, J.M., **Queenborough, S.A.**, & Williams, J.B. 2013. Linkages between the life-history evolution of tropical and temperate birds and the resistance of the cells to oxidative and non-oxidative chemical injury. *Journal of Experimental Biology* **216**, 1373--1380. [doi](http://dx.doi.org/10.1242/jeb.079889): 10.1242/​jeb.079889. \| <a href="../assets/pubs/2013-Jimenez-JEB.pdf"><span class="icon-download-alt"></span></a> 
+Jimenez, A.G., Harper, J.M., **Queenborough, S.A.**, & Williams, J.B. 2013. Linkages between the life-history evolution of tropical and temperate birds and the resistance of cultured skin fibroblasts to oxidative and non-oxidative chemical injury. *Journal of Experimental Biology* **216**, 1373--1380. [doi](http://dx.doi.org/10.1242/jeb.079889): 10.1242/​jeb.079889. \| <a href="../assets/pubs/2013-Jimenez-JEB.pdf"><span class="icon-download-alt"></span></a> 
 
 
 
