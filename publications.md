@@ -103,6 +103,7 @@ Comita, L.S., **Queenborough, S.A.**, Eck, J.L.\*, Murphy, S.\*, Xu, K.\*\*, Kri
 
 Amano, T., Freckleton, R.F.P, **Queenborough, S.A.**, Doxford, S.W.\*, Smithers, R.J., Sparks, T.H. & Sutherland, W.J. 2014. Links between plant species' spatial and temporal responses to a warming climate. *Proceedings of the Royal Society, B*. **281**. [doi](http://rspb.royalsocietypublishing.org/content/281/1779/20133017.abstract): 10.1098/rspb.2013.3017 \| <a href="../assets/pubs/2014-Amano-PRSB.pdf"><span class="icon-download-alt"> </span></a> 
 
+**Queenborough, S.A.** & Porras, C.M.\*\* 2014. Expanding coverage of plant trait databases - a comparison of specific leaf area from fresh and dried leaves. *Plant Ecology & Diversity* **7**, 383--388. [doi](http://dx.doi.org/10.1080/17550874.2013.777483): 10.1080/17550874.2013.777483. \| <a href="../assets/pubs/2013-Queenborough-TPED.pdf"><span class="icon-download-alt"></span></a>
 
 #### 2013
 
@@ -120,7 +121,7 @@ Cooke, I.R., Mattison, E.H., Audsley, E., Bailey, A., Freckleton, R.P., Graves, 
 
 Jimenez, A.G., Harper, J.M., **Queenborough, S.A.**, & Williams, J.B. 2013. Linkages between the life-history evolution of tropical and temperate birds and the resistance of the cells to oxidative and non-oxidative chemical injury. *Journal of Experimental Biology* **216**, 1373--1380. [doi](http://dx.doi.org/10.1242/jeb.079889): 10.1242/​jeb.079889. \| <a href="../assets/pubs/2013-Jimenez-JEB.pdf"><span class="icon-download-alt"></span></a> 
 
-**Queenborough, S.A.** & Porras, C.M.\*\* 2013. Expanding coverage of plant trait databases - a comparison of specific leaf area from fresh and dried leaves. *Plant Ecology & Diversity* **7**, 383--388. [doi](http://dx.doi.org/10.1080/17550874.2013.777483): 10.1080/17550874.2013.777483. \| <a href="../assets/pubs/2013-Queenborough-TPED.pdf"><span class="icon-download-alt"></span></a>
+
 
 
 #### 2012
