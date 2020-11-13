@@ -27,6 +27,11 @@ updated: 2020-09-02
 
 Penagos Zuluaga, J.C.\*, van der Werff,H., Park, B.\*, Eaton, D.A.R., Comita, L.S., **Queenborough, S.A.**, Donoghue, M.J. 0000. Restriction-site-associated DNA sequencing resolves phylogenetic relationships in the *Ocotea* complex (Lauraceae): Phylogenetic classification and character evolution. *American Journal of Botany*.
 
+Liu, J.\*\*, Anderson, L.\* & **Queenborough, S.A.** 0000. Distribution and abundance of trees with extrafloral nectaries across a tropical forest rainfall gradient. *Journal of Biogeography*.
+
+
+#### in press
+
 Goodsell, R.M.\*,  Spencer, M., Vergnon, R.,  Coutts, S., **Queenborough, S.A.**, Swinfield, T., Childs, D.Z., & Freckleton, R.P. 0000. Developing hierarchical density-structured models to study the national-scale dynamics of an arable weed. *Ecological Monographs*.
 
 
