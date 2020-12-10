@@ -23,21 +23,14 @@ updated: 2020-09-02
 
 ### peer-reviewed publications
 
-<! -- 
+<!--
 #### in prep
-
 Benitez, L.\* & **Queenborough. S.A.** 0000. Fruit trees drive small-scale movement of elephants in forests of Kibale National Park, Uganda. *Biotropica*.
-
-ALmonte, H.N.\*\* & **Queenborough, S.A.** 0000. Climate drives tree leaf traits across a precipitation gradient in Panama.
-
+Almonte, H.N.\*\* & **Queenborough, S.A.** 0000. Climate drives tree leaf traits across a precipitation gradient in Panama.
 **Queenborough, S.A.** & Sullivan, M.K.\* Climate drives tree leaf traits across a precipitation gradient in the Cerrado.
-
 Anderson, L.\*\*, Liu, J.\*\*, Metz, R.M., Garwood, N.C., Wright, S.J., Alvia, P., Valencia, R. & **Queenborough, S.A.**. 0000. Extrafloral nectaries have little effect on growth and survival of tropical rain forest seedlings. 
-
 Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao agroforests similar in structure to tropical secondary forest in the Mata Atlântica of southern Bahia, Brazil.
-
-
--- >
+-->
 
 
 #### in review
