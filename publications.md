@@ -23,14 +23,31 @@ updated: 2020-09-02
 
 ### peer-reviewed publications
 
+<! -- 
+#### in prep
+
+Benitez, L.\* & **Queenborough. S.A.** 0000. Fruit trees drive small-scale movement of elephants in forests of Kibale National Park, Uganda. *Biotropica*.
+
+ALmonte, H.N.\*\* & **Queenborough, S.A.** 0000. Climate drives tree leaf traits across a precipitation gradient in Panama.
+
+**Queenborough, S.A.** & Sullivan, M.K.\* Climate drives tree leaf traits across a precipitation gradient in the Cerrado.
+
+Anderson, L.\*\*, Liu, J.\*\*, Metz, R.M., Garwood, N.C., Wright, S.J., Alvia, P., Valencia, R. & **Queenborough, S.A.**. 0000. Extrafloral nectaries have little effect on growth and survival of tropical rain forest seedlings. 
+
+Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao agroforests similar in structure to tropical secondary forest in the Mata Atlântica of southern Bahia, Brazil.
+
+
+-- >
+
+
 #### in review
 
-Penagos Zuluaga, J.C.\*, van der Werff,H., Park, B.\*, Eaton, D.A.R., Comita, L.S., **Queenborough, S.A.**, Donoghue, M.J. 0000. Restriction-site-associated DNA sequencing resolves phylogenetic relationships in the *Ocotea* complex (Lauraceae): Phylogenetic classification and character evolution. *American Journal of Botany*.
-
-Liu, J.\*\*, Anderson, L.\*\* & **Queenborough, S.A.** 0000. Distribution and abundance of trees with extrafloral nectaries across a tropical forest rainfall gradient. *Journal of Biogeography*.
+Liu, J.\*\*, Anderson, L.,\*\* & **Queenborough, S.A.** 0000. Distribution and abundance of trees with extrafloral nectaries across a tropical forest rainfall gradient. *Biotropica*.
 
 
 #### in press
+
+Penagos Zuluaga, J.C.\*, van der Werff,H., Park, B.\*, Eaton, D.A.R., Comita, L.S., **Queenborough, S.A.**, & Donoghue, M.J. 0000. Restriction-site-associated DNA sequencing resolves phylogenetic relationships in the *Ocotea* complex (Lauraceae): Phylogenetic classification and character evolution. *American Journal of Botany*.
 
 Goodsell, R.M.\*,  Spencer, M., Vergnon, R.,  Coutts, S., **Queenborough, S.A.**, Swinfield, T., Childs, D.Z., & Freckleton, R.P. 0000. Developing hierarchical density-structured models to study the national-scale dynamics of an arable weed. *Ecological Monographs*.
 
