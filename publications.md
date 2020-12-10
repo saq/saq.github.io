@@ -31,6 +31,7 @@ Almonte, H.N.\*\* & **Queenborough, S.A.** 0000. Climate drives tree leaf traits
 **Queenborough, S.A.** & Sullivan, M.K.\* Climate drives tree leaf traits across a precipitation gradient in the Cerrado.
 Anderson, L.\*\*, Liu, J.\*\*, Metz, R.M., Garwood, N.C., Wright, S.J., Alvia, P., Valencia, R. & **Queenborough, S.A.**. 0000. Extrafloral nectaries have little effect on growth and survival of tropical rain forest seedlings. 
 Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao agroforests similar in structure to tropical secondary forest in the Mata Atlântica of southern Bahia, Brazil.
+**Queenborough, S.A.** & Balslev, H. 0000. Dioecy and the ecological success of Neotropical palms.
 -->
 
 
