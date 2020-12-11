@@ -25,8 +25,8 @@ updated: 2020-09-02
 
 <!--
 #### in prep
-Benitez, L.\* & **Queenborough. S.A.** 0000. Fruit trees drive small-scale movement of elephants in forests of Kibale National Park, Uganda. *Biotropica*.
  **Queenborough, S.A.**, Alvia, P., & Valencia, R. 0000. Wind dispersal and 1-year survival of *Vataireopsis iglesiasii* (Fabaceae) seedlings in a Neotropical lowland rain forest. *Journal of Tropical Ecology*.
+Hudson, A.J.\*, Alvia, L.P., Valencia, R., Baez, S., & **Queenborough, S.A.** 0000. An ant mutualism protects against conspecific neighbor density-dependent herbivory.
 Almonte, H.N.\*\* & **Queenborough, S.A.** 0000. Climate drives tree leaf traits across a precipitation gradient in Panama.
 **Queenborough, S.A.** & Sullivan, M.K.\* Climate drives tree leaf traits across a precipitation gradient in the Cerrado.
 Anderson, L.\*\*, Liu, J.\*\*, Metz, R.M., Garwood, N.C., Wright, S.J., Alvia, P., Valencia, R. & **Queenborough, S.A.**. 0000. Extrafloral nectaries have little effect on growth and survival of tropical rain forest seedlings. 
@@ -36,6 +36,8 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 
 #### in review
+
+Benitez, L.\* & **Queenborough. S.A.** 0000. Fruit trees drive small-scale movement of elephants in forests of Kibale National Park, Uganda. *Biotropica*.
 
 Liu, J.\*\*, Anderson, L.,\*\* & **Queenborough, S.A.** 0000. Distribution and abundance of trees with extrafloral nectaries across a tropical forest rainfall gradient. *Biotropica*.
 
