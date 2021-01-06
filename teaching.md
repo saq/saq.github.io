@@ -6,6 +6,18 @@ title: Teaching
 
 # Teaching
 
+### YSE 603 Environmental Data Visualization & Communication
+
+[YSE page](http://environment.yale.edu/courses/detail/603/)
+
+Spring, 3 credits
+
+In this course, you will learn how to effectively explore, identify, and communicate key insights from environmental data to diverse audiences through visualization and presentation. Classes consist of short lectures on key principles of effective communication, data management, and visual design, coupled with discussions, peer critiques, and hands-on visualization activities. Throughout the term, we will introduce a variety of tools (including R, Tableau, Excel) and use these tools to develop and experimentally test alternative visualizations. 
+
+Co-taught with [Dr. Jenn Marlon](https://environment.yale.edu/profile/jennifer-marlon/)
+
+<hr>
+
 ### YSE 626 Writing for Publication in the Natural Sciences
 
 [YSE page](http://environment.yale.edu/courses/detail/626)
@@ -15,20 +27,6 @@ Spring, 1 credit seminar
 <p></p>
 
 This course is intended to give students insights into the process of writing natural science manuscripts. The seminar will guide students through writing a paper, and end the semester with a submitted manuscript. We will also consider various strategies for writing, accountability, time management, and productivity. The course is aimed at students in the natural sciences with cleaned and analyzed data that they want to write up for publication.
-
-<hr>
-
-### YSE 720a Introduction to R
-
-[YSE page](http://environment.yale.edu/courses/detail/720)
- 
-Fall, 3 credits 
-
-<p></p>
-
-[Introduction to R](http://intro2r.info) covers basic to advanced programming and statistics in R. This has previously been taught in Ecuador, India, China, and now here ...
-
-The course provides an overview and introduction to the statistical software R for the analysis and graphical presentation of natural and social science data.
 
 <hr>
 
@@ -50,15 +48,20 @@ The course is usually co-taught with [Dr. Liza Comita](http://environment.yale.e
 
 <hr>
 
-### YSE 603 Environmental Data Visualization & Communication
+### YSE 720a Introduction to R
 
-[YSE page](http://environment.yale.edu/courses/detail/603/)
+[YSE page](http://environment.yale.edu/courses/detail/720)
+ 
+Fall, 3 credits 
 
-Spring, 3 credits
+<p></p>
 
-In this course, you will learn how to effectively explore, identify, and communicate key insights from environmental data to diverse audiences through visualization and presentation. Classes consist of short lectures on key principles of effective communication, data management, and visual design, coupled with discussions, peer critiques, and hands-on visualization activities. Throughout the term, we will introduce a variety of tools (including R, Tableau, Excel) and use these tools to develop and experimentally test alternative visualizations. 
+[Introduction to R](http://intro2r.info) covers basic to advanced programming and statistics in R. This has previously been taught in Ecuador, India, China, and now here ...
 
-Co-taught with [Dr. Jenn Marlon](https://environment.yale.edu/profile/jennifer-marlon/)
+The course provides an overview and introduction to the statistical software R for the analysis and graphical presentation of natural and social science data.
+
+<hr>
+
 
 
 ### Dissemination
