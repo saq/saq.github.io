@@ -6,9 +6,21 @@ title: Teaching
 
 # Teaching
 
-### F&ES 720a Introduction to R
+### YSE 626 Writing for Publication in the Natural Sciences
 
-[F&ES page](http://environment.yale.edu/courses/detail/720)
+[YSE page](http://environment.yale.edu/courses/detail/626)
+
+Spring, 1 credit seminar
+
+<p></p>
+
+This course is intended to give students insights into the process of writing natural science manuscripts. The seminar will guide students through writing a paper, and end the semester with a submitted manuscript. We will also consider various strategies for writing, accountability, time management, and productivity. The course is aimed at students in the natural sciences with cleaned and analyzed data that they want to write up for publication.
+
+<hr>
+
+### YSE 720a Introduction to R
+
+[YSE page](http://environment.yale.edu/courses/detail/720)
  
 Fall, 3 credits 
 
@@ -21,9 +33,9 @@ The course provides an overview and introduction to the statistical software R f
 <hr>
 
 
-### F&ES 717 Tropical Field Ecology
+### YSE 717 Tropical Field Ecology
 
-[F&ES page](http://environment.yale.edu/courses/detail/717/)
+[YSE page](http://environment.yale.edu/courses/detail/717/)
 
 Spring, 3 credits 
 
@@ -38,9 +50,9 @@ The course is usually co-taught with [Dr. Liza Comita](http://environment.yale.e
 
 <hr>
 
-### F&ES 603 Environmental Data Visualization & Communication
+### YSE 603 Environmental Data Visualization & Communication
 
-[F&ES  page](http://environment.yale.edu/courses/detail/603/)
+[YSE page](http://environment.yale.edu/courses/detail/603/)
 
 Spring, 3 credits
 
