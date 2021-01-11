@@ -55,7 +55,7 @@ Penagos Zuluaga, J.C.\*, **Queenborough, S.A.**, & Comita, L.S. 2020. Flowering 
 
 Du, Y., Mao, L., **Queenborough, S.A.**, Primack, R., Comita, L.S., Hampe, A., & Ma, K. 2020. Macro-scale variation and environmental predictors of angiosperm reproductive phenology in the Chinese flora. *Journal of Biogeography*. [doi](https://doi.org/10.1111/jbi.13938): 10.1111/jbi.13938
 
-Sullivan, M.K.\* & **Queenborough, S.A.** 2020. INSIGHTS: Precipitation gradients, plant biogeography, and the incidence of drip-tips in Cerrado plant species.. *Biotropica*, 52, 583--589. [doi](http://dx.doi.org/10.1111/btp.12797): 10.1111/btp.12797
+Sullivan, M.K.\* & **Queenborough, S.A.** 2020. INSIGHTS: Precipitation gradients, plant biogeography, and the incidence of drip-tips in Cerrado plant species. *Biotropica*, 52, 583--589. [doi](http://dx.doi.org/10.1111/btp.12797): 10.1111/btp.12797
 
 #### 2019
 
