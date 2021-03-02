@@ -6,7 +6,7 @@ title: Teaching
 
 # Teaching
 
-### YSE 603 Environmental Data Visualization & Communication
+### ENV 603 Environmental Data Visualization & Communication
 
 [YSE page](http://environment.yale.edu/courses/detail/603/)
 
@@ -18,7 +18,7 @@ Co-taught with [Dr. Jenn Marlon](https://environment.yale.edu/profile/jennifer-m
 
 <hr>
 
-### YSE 626 Writing for Publication in the Natural Sciences
+### ENV 626 Writing for Publication in the Natural Sciences
 
 [YSE page](http://environment.yale.edu/courses/detail/626)
 
@@ -31,7 +31,7 @@ This course is intended to give students insights into the process of writing na
 <hr>
 
 
-### YSE 717 Tropical Field Ecology
+### ENV 717 Tropical Field Ecology
 
 [YSE page](http://environment.yale.edu/courses/detail/717/)
 
@@ -48,7 +48,7 @@ The course is usually co-taught with [Dr. Liza Comita](http://environment.yale.e
 
 <hr>
 
-### YSE 720a Introduction to R
+### ENV 720 Introduction to R
 
 [YSE page](http://environment.yale.edu/courses/detail/720)
  
