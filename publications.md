@@ -37,6 +37,8 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 #### in review
 
+Pak, D., Swamy, V. Alvarez, P., Cornejo, F., **Queenborough, S.A.**, Metz, M.R., Terborgh, J., Valencia, R., Wright, S.J., Garwood, N.C., & Lasky, J.R. 0000. Multi-scale phenological niches in hyperdiverse Amazonian plant communities. *Ecology*.
+
 Benitez, L.\* & **Queenborough. S.A.** 0000. Fruit trees drive small-scale movement of elephants in forests of Kibale National Park, Uganda. *Biotropica*.
 
 Liu, J.\*\*, Anderson, L.,\*\* & **Queenborough, S.A.** 0000. Distribution and abundance of trees with extrafloral nectaries across a tropical forest rainfall gradient. *Biotropica*.
