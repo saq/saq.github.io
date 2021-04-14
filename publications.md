@@ -44,18 +44,18 @@ Benitez, L.\* & **Queenborough. S.A.** 0000. Fruit trees drive small-scale movem
 Liu, J.\*\*, Anderson, L.,\*\* & **Queenborough, S.A.** 0000. Distribution and abundance of trees with extrafloral nectaries across a tropical forest rainfall gradient. *Biotropica*.
 
 
-#### in press
+#### 2021
 
-Penagos Zuluaga, J.C.\*, van der Werff,H., Park, B.\*, Eaton, D.A.R., Comita, L.S., **Queenborough, S.A.**, & Donoghue, M.J. 0000. Resolved phylogenetic relationships in the Ocotea complex (Supraocotea) facilitate phylogenetic classification and studies of character evolution. *American Journal of Botany*. [doi](https://doi.org/10.1002/ajb2.1632): 10.1002/ajb2.1632
+Penagos Zuluaga, J.C.\*, van der Werff,H., Park, B.\*, Eaton, D.A.R., Comita, L.S., **Queenborough, S.A.**, & Donoghue, M.J. 2021. Resolved phylogenetic relationships in the Ocotea complex (Supraocotea) facilitate phylogenetic classification and studies of character evolution. *American Journal of Botany*. [doi](https://doi.org/10.1002/ajb2.1632): 10.1002/ajb2.1632
 
-Goodsell, R.M.\*,  Spencer, M., Vergnon, R.,  Coutts, S., **Queenborough, S.A.**, Swinfield, T., Childs, D.Z., & Freckleton, R.P. 0000. Developing hierarchical density-structured models to study the national-scale dynamics of an arable weed. *Ecological Monographs*. [doi](https://doi.org/10.1002/ecm.1449): 10.1002/ecm.1449
+Goodsell, R.M.\*,  Spencer, M., Vergnon, R.,  Coutts, S., **Queenborough, S.A.**, Swinfield, T., Childs, D.Z., & Freckleton, R.P. 2021. Developing hierarchical density-structured models to study the national-scale dynamics of an arable weed. *Ecological Monographs*. [doi](https://doi.org/10.1002/ecm.1449): 10.1002/ecm.1449
 
 
 #### 2020
 
-Penagos Zuluaga, J.C.\*, **Queenborough, S.A.**, & Comita, L.S. 2020. Flowering sex ratios and costs of reproduction in gynodioecious *Ocotea oblonga* (Lauraceae). *Biological Journal of the Linnean Society*.  [doi](https://doi.org/10.1093/biolinnean/blaa117): 10.1093/biolinnean/blaa117
+Penagos Zuluaga, J.C.\*, **Queenborough, S.A.**, & Comita, L.S. 2020. Flowering sex ratios and costs of reproduction in gynodioecious *Ocotea oblonga* (Lauraceae). *Biological Journal of the Linnean Society*, 131, 344--355.  [doi](https://doi.org/10.1093/biolinnean/blaa117): 10.1093/biolinnean/blaa117
 
-Du, Y., Mao, L., **Queenborough, S.A.**, Primack, R., Comita, L.S., Hampe, A., & Ma, K. 2020. Macro-scale variation and environmental predictors of angiosperm reproductive phenology in the Chinese flora. *Journal of Biogeography*. [doi](https://doi.org/10.1111/jbi.13938): 10.1111/jbi.13938
+Du, Y., Mao, L., **Queenborough, S.A.**, Primack, R., Comita, L.S., Hampe, A., & Ma, K. 2020. Macro-scale variation and environmental predictors of angiosperm reproductive phenology in the Chinese flora. *Journal of Biogeography*, 47, 2303--2314. [doi](https://doi.org/10.1111/jbi.13938): 10.1111/jbi.13938
 
 Sullivan, M.K.\* & **Queenborough, S.A.** 2020. INSIGHTS: Precipitation gradients, plant biogeography, and the incidence of drip-tips in Cerrado plant species. *Biotropica*, 52, 583--589. [doi](http://dx.doi.org/10.1111/btp.12797): 10.1111/btp.12797
 
