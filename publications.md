@@ -25,16 +25,17 @@ updated: 2021-01-30
 
 <!--
 #### in prep
-Garwood, N.C., Metz, M.R., **Queenborough, S.A.**, Persson, V., Wright, S.J., Burslem, D.F.R.P., Zambrano, M., and Valencia, V. 0000. Seasonality of reproduction in an ever-wet lowland tropical forest in Amazonian Ecuador. *Ecology Letters*.
+Garwood, N.C., Metz, M.R., **Queenborough, S.A.**, Persson, V., Wright, S.J., Burslem, D.F.R.P., Zambrano, M., & Valencia, V. 0000. Seasonality of reproduction in an ever-wet lowland tropical forest in Amazonian Ecuador. *Ecology Letters*.
 .
  **Queenborough, S.A.**, Alvia, P., & Valencia, R. 0000. Wind dispersal and 1-year survival of *Vataireopsis iglesiasii* (Fabaceae) seedlings in a Neotropical lowland rain forest. *Journal of Tropical Ecology*.
 .
 Hudson, A.J.\*, Alvia, L.P., Valencia, R., Baez, S., & **Queenborough, S.A.** 0000. An ant mutualism protects against conspecific neighbor density-dependent herbivory.
 .
 Almonte, H.N.\*\* & **Queenborough, S.A.** 0000. Climate drives tree leaf traits across a precipitation gradient in Panama.
+.
 **Queenborough, S.A.** & Sullivan, M.K.\* Climate drives tree leaf traits across a precipitation gradient in the Cerrado.
 .
-Anderson, L.\*\*, Liu, J.\*\*, Metz, R.M., Garwood, N.C., Wright, S.J., Alvia, P., Valencia, R. & **Queenborough, S.A.**. 0000. Extrafloral nectaries have little effect on growth and survival of tropical rain forest seedlings. 
+Anderson, L.\*\*, Liu, J.\*\*, Metz, R.M., Garwood, N.C., Wright, S.J., Alvia, P., Valencia, R., & **Queenborough, S.A.**. 0000. Extrafloral nectaries have little effect on growth and survival of tropical rain forest seedlings. 
 .
 Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao agroforests similar in structure to tropical secondary forest in the Mata Atlântica of southern Bahia, Brazil.
 .
@@ -44,13 +45,13 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 #### in review
 
-Spicer, M.E., Nair Radhamoni, H.V.\*, Duguid, M.C., **Queenborough, S.A.**, and Comita, L.S. 0000. The importance of herbaceous plants to forest diversity. *Plant Ecology*.
+Spicer, M.E., Nair Radhamoni, H.V.\*, Duguid, M.C., **Queenborough, S.A.**, & Comita, L.S. 0000. The importance of herbaceous plants to forest diversity. *Plant Ecology*.
 
 Pak, D., Swamy, V. Alvarez, P., Cornejo, F., **Queenborough, S.A.**, Metz, M.R., Terborgh, J., Valencia, R., Wright, S.J., Garwood, N.C., & Lasky, J.R. 0000. Multi-scale phenological niches in hyperdiverse Amazonian plant communities. *Ecology*.
 
 Benitez, L.\* & **Queenborough. S.A.** 0000. Fruit trees drive small-scale movement of elephants in forests of Kibale National Park, Uganda. *Biotropica*.
 
-Liu, J.\*\*, Anderson, L.,\*\* & **Queenborough, S.A.** 0000. Distribution and abundance of trees with extrafloral nectaries across a tropical forest rainfall gradient. *Biotropica*.
+Liu, J.\*\*, Anderson, L.\*\*, & **Queenborough, S.A.** 0000. Distribution and abundance of trees with extrafloral nectaries across a tropical forest rainfall gradient. *Biotropica*.
 
 
 #### 2021
