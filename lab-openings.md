@@ -17,7 +17,6 @@ If you are interested in developing a grant proposal, either for NSF or another 
 
  - [YIBS postdocs](http://yibs.yale.edu/scholar-programs/donnelley-and-yibs-postdoctoral-environmental-fellows/gaylord-donnelley)
  
- - [Yale Climate and Energy Institute](http://climate.yale.edu/grants-fellowships/postdoctoral-fellowships)
 
 
 ### Graduate Students
