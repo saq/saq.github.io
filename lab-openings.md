@@ -6,23 +6,23 @@ title: Lab Openings
 
 # Lab Openings
 
-**Updated: Fall 2018**
+**Updated: Fall 2021**
 
 ### Post-docs
 If you are interested in developing a grant proposal, either for NSF or another source, please get in touch!
 
 #### Yale-specific post-doc funding
 
- - [Cullman Postdoc]()
+ - [Cullman Postdoc]() Not currently open.
 
- - [Yibs postdocs](http://yibs.yale.edu/scholar-programs/donnelley-and-yibs-postdoctoral-environmental-fellows/gaylord-donnelley)
+ - [YIBS postdocs](http://yibs.yale.edu/scholar-programs/donnelley-and-yibs-postdoctoral-environmental-fellows/gaylord-donnelley)
  
  - [Yale Climate and Energy Institute](http://climate.yale.edu/grants-fellowships/postdoctoral-fellowships)
 
 
 ### Graduate Students
 
-F&ES has an excellent [joint PhD program](https://environment.yale.edu/doctoral/degrees/joint-nybg/) with New York Botanical Garden.
+YSE has an excellent [joint PhD program](https://environment.yale.edu/doctoral/degrees/joint-nybg/) with New York Botanical Garden.
 
 In my current non-ladder faculty position, I am unable to directly supervise PhD students, but can co-advise if they are registered with ladder faculty. 
 
@@ -57,6 +57,8 @@ If you are interested in pursuing graduate work in my lab, please email a statem
 I encourage sincere, hardworking and motivated undergraduate students to actively participate in research projects or to conduct their own independent research. Please see [here](http://www.simonqueenborough.info/people.html) for undergraduates who have worked in the lab.
 
 If you are interested in gaining practical experience in ecology and evolution and you are interested in the research described on this website, please contact me to discuss possibilities. Please include details of the courses you have taken/are taking, current GPA, etc.
+
+For more details, please see the Yale Undergraduate [Research Database](https://rdb.yale.edu/lab/queenborough-lab-177/).
 
 The [Yale Tropical Resources Institute](http://tri.yale.edu/fellowships/) has some funding available for senior thesis work.
 
