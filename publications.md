@@ -45,7 +45,6 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 #### in review
 
-Spicer, M.E., Nair Radhamoni, H.V.\*, Duguid, M.C., **Queenborough, S.A.**, & Comita, L.S. 0000. The importance of herbaceous plants to forest diversity. *Plant Ecology*.
 
 Pak, D., Swamy, V. Alvarez, P., Cornejo, F., **Queenborough, S.A.**, Metz, M.R., Terborgh, J., Valencia, R., Wright, S.J., Garwood, N.C., & Lasky, J.R. 0000. Multi-scale phenological niches in hyperdiverse Amazonian plant communities. *Ecology*.
 
@@ -54,14 +53,16 @@ Liu, J.\*\*, Anderson, L.\*\*, & **Queenborough, S.A.** 0000. Distribution and a
 
 #### in press
 
-Benitez, L.\* & **Queenborough. S.A.** 0000. Fruit trees drive small-scale movement of elephants in forests of Kibale National Park, Uganda. *Biotropica*.
+Spicer, M.E., Nair Radhamoni, H.V.\*, Duguid, M.C., **Queenborough, S.A.**, & Comita, L.S. 0000. The importance of herbaceous plants to forest diversity. *Plant Ecology*.
 
 
 #### 2021
 
-Penagos Zuluaga, J.C.\*, van der Werff,H., Park, B.\*, Eaton, D.A.R., Comita, L.S., **Queenborough, S.A.**, & Donoghue, M.J. 2021. Resolved phylogenetic relationships in the Ocotea complex (Supraocotea) facilitate phylogenetic classification and studies of character evolution. *American Journal of Botany*. [doi](https://doi.org/10.1002/ajb2.1632): 10.1002/ajb2.1632
+Benitez, L.\* & **Queenborough. S.A.** 0000. Fruit trees drive small-scale movement of elephants in forests of Kibale National Park, Uganda. *Biotropica*, 00, 00--00. [doi](https://doi.org/10.1111/btp.13010): 10.1111/btp.13010
 
-Goodsell, R.M.\*,  Spencer, M., Vergnon, R.,  Coutts, S., **Queenborough, S.A.**, Swinfield, T., Childs, D.Z., & Freckleton, R.P. 2021. Developing hierarchical density-structured models to study the national-scale dynamics of an arable weed. *Ecological Monographs*. [doi](https://doi.org/10.1002/ecm.1449): 10.1002/ecm.1449
+Penagos Zuluaga, J.C.\*, van der Werff,H., Park, B.\*, Eaton, D.A.R., Comita, L.S., **Queenborough, S.A.**, & Donoghue, M.J. 2021. Resolved phylogenetic relationships in the Ocotea complex (Supraocotea) facilitate phylogenetic classification and studies of character evolution. *American Journal of Botany*, 00, 00--00. [doi](https://doi.org/10.1002/ajb2.1632): 10.1002/ajb2.1632
+
+Goodsell, R.M.\*,  Spencer, M., Vergnon, R.,  Coutts, S., **Queenborough, S.A.**, Swinfield, T., Childs, D.Z., & Freckleton, R.P. 2021. Developing hierarchical density-structured models to study the national-scale dynamics of an arable weed. *Ecological Monographs*, 00, 00--00. [doi](https://doi.org/10.1002/ecm.1449): 10.1002/ecm.1449
 
 
 #### 2020
