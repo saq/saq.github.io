@@ -51,7 +51,8 @@ Pak, D., Swamy, V. Alvarez, P., Cornejo, F., **Queenborough, S.A.**, Metz, M.R.,
 Liu, J.\*\*, Anderson, L.\*\*, & **Queenborough, S.A.** 0000. Distribution and abundance of trees with extrafloral nectaries across a tropical forest rainfall gradient. *Biotropica*.
 
 
-#### in press
+
+<!-- #### in press -->
 
 
 
