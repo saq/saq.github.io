@@ -53,16 +53,18 @@ Liu, J.\*\*, Anderson, L.\*\*, & **Queenborough, S.A.** 0000. Distribution and a
 
 #### in press
 
-Spicer, M.E., Nair Radhamoni, H.V.\*, Duguid, M.C., **Queenborough, S.A.**, & Comita, L.S. 0000. Herbaceous plant diversity in forest ecosystems: patterns, mechanisms, and threats. *Plant Ecology*.
+
 
 
 #### 2021
 
-Benitez, L.\* & **Queenborough. S.A.** 0000. Fruit trees drive small-scale movement of elephants in forests of Kibale National Park, Uganda. *Biotropica*, 00, 00--00. [doi](https://doi.org/10.1111/btp.13010): 10.1111/btp.13010
+Spicer, M.E., Nair Radhamoni, H.V.\*, Duguid, M.C., **Queenborough, S.A.**, & Comita, L.S. 2021. Herbaceous plant diversity in forest ecosystems: patterns, mechanisms, and threats. *Plant Ecology* 151, 00--00. [doi](https://doi.org/10.1007/s11258-021-01202-9): 10.1007/s11258-021-01202-9
 
-Penagos Zuluaga, J.C.\*, van der Werff,H., Park, B.\*, Eaton, D.A.R., Comita, L.S., **Queenborough, S.A.**, & Donoghue, M.J. 2021. Resolved phylogenetic relationships in the Ocotea complex (Supraocotea) facilitate phylogenetic classification and studies of character evolution. *American Journal of Botany*, 00, 00--00. [doi](https://doi.org/10.1002/ajb2.1632): 10.1002/ajb2.1632
+Benitez, L.\* & **Queenborough. S.A.** 2021. Fruit trees drive small-scale movement of elephants in forests of Kibale National Park, Uganda. *Biotropica*, 53, 1620--1630. [doi](https://doi.org/10.1111/btp.13010): 10.1111/btp.13010
 
-Goodsell, R.M.\*,  Spencer, M., Vergnon, R.,  Coutts, S., **Queenborough, S.A.**, Swinfield, T., Childs, D.Z., & Freckleton, R.P. 2021. Developing hierarchical density-structured models to study the national-scale dynamics of an arable weed. *Ecological Monographs*, 00, 00--00. [doi](https://doi.org/10.1002/ecm.1449): 10.1002/ecm.1449
+Penagos Zuluaga, J.C.\*, van der Werff,H., Park, B.\*, Eaton, D.A.R., Comita, L.S., **Queenborough, S.A.**, & Donoghue, M.J. 2021. Resolved phylogenetic relationships in the Ocotea complex (Supraocotea) facilitate phylogenetic classification and studies of character evolution. *American Journal of Botany*, 108, 664--679. [doi](https://doi.org/10.1002/ajb2.1632): 10.1002/ajb2.1632
+
+Goodsell, R.M.\*,  Spencer, M., Vergnon, R.,  Coutts, S., **Queenborough, S.A.**, Swinfield, T., Childs, D.Z., & Freckleton, R.P. 2021. Developing hierarchical density-structured models to study the national-scale dynamics of an arable weed. *Ecological Monographs*, 91, e01449. [doi](https://doi.org/10.1002/ecm.1449): 10.1002/ecm.1449
 
 
 #### 2020
