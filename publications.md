@@ -44,17 +44,21 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 #### in review
 
- **Queenborough, S.A.**, Alvia, P., & Valencia, R. 0000. Wind dispersal and 1-year survival of *Vataireopsis iglesiasii* (Fabaceae) seedlings in a Neotropical lowland rain forest. *Biotropica*.
+Gurung, B.\*, Mendelsohn, R., & **Queenborough, S.A.** 0000. Economics of tiger conservation: a case of Khata Wildlife Corridor in Nepal. *Oryx*.
+
+He, Q.\*, **Queenborough, S.A.**, Zhang, Y., Wang, W., Li, B., Zhao, K., Luo, W., Tang, H., Lin, W., & Chu, C. 0000. Effects of tree sex, maturity, local abiotic and biotic neighborhoods on the growth of a subtropical dioecious tree species *Diospyros morrisiana* (Ebenaceae). *American Journal of Botany*. 
+
 
 Pak, D., Swamy, V. Alvarez, P., Cornejo, F., **Queenborough, S.A.**, Metz, M.R., Terborgh, J., Valencia, R., Wright, S.J., Garwood, N.C., & Lasky, J.R. 0000. Multi-scale phenological niches in hyperdiverse Amazonian plant communities. *Ecology*.
 
 Liu, J.\*\*, Anderson, L.\*\*, & **Queenborough, S.A.** 0000. Distribution and abundance of trees with extrafloral nectaries across a tropical forest rainfall gradient. *Biotropica*.
 
 
+ #### in press 
 
-<!-- #### in press -->
+Sullivan, M.K.\*, Biessiemou, P.A.M., Niangadouma, R., Abernethy, K., **Queenborough, S.A.**, & Comita, L.S. 0000. A decade of diversity and forest structure: post-logging patterns across life stages in an Afrotropical forest. *Forest Ecology & Management*. Accepted.
 
-
+ **Queenborough, S.A.**, Alvia, P., & Valencia, R. 0000. Wind dispersal and 1-year survival of *Vataireopsis iglesiasii* (Fabaceae) seedlings in a Neotropical lowland rain forest. *Biotropica*. Accepted.
 
 
 #### 2021
