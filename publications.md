@@ -58,7 +58,7 @@ Liu, J.\*\*, Anderson, L.\*\*, & **Queenborough, S.A.** 0000. Distribution and a
 
 Sullivan, M.K.\*, Biessiemou, P.A.M., Niangadouma, R., Abernethy, K., **Queenborough, S.A.**, & Comita, L.S. 0000. A decade of diversity and forest structure: post-logging patterns across life stages in an Afrotropical forest. *Forest Ecology & Management*. Accepted.
 
- **Queenborough, S.A.**, Alvia, P., & Valencia, R. 0000. Wind dispersal and 1-year survival of *Vataireopsis iglesiasii* (Fabaceae) seedlings in a Neotropical lowland rain forest. *Biotropica*. Accepted.
+ **Queenborough, S.A.**, Alvia, P., & Valencia, R. 0000. Wind dispersal and 1-year survival of *Vataireopsis iglesiasii* (Fabaceae) seedlings in a Neotropical lowland rain forest. *Biotropica*. Accepted. [doi](https://doi.org/10.1111/btp.13099): 10.1111/btp.13099
 
 
 #### 2021
