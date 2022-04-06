@@ -54,11 +54,11 @@ Pak, D., Swamy, V. Alvarez, P., Cornejo, F., **Queenborough, S.A.**, Metz, M.R.,
 Liu, J.\*\*, Anderson, L.\*\*, & **Queenborough, S.A.** 0000. Distribution and abundance of trees with extrafloral nectaries across a tropical forest rainfall gradient. *Biotropica*.
 
 
- #### in press 
+ #### 2022 
 
-Sullivan, M.K.\*, Biessiemou, P.A.M., Niangadouma, R., Abernethy, K., **Queenborough, S.A.**, & Comita, L.S. 0000. A decade of diversity and forest structure: post-logging patterns across life stages in an Afrotropical forest. *Forest Ecology & Management*. Accepted.
+Sullivan, M.K.\*, Biessiemou, P.A.M., Niangadouma, R., Abernethy, K., **Queenborough, S.A.**, & Comita, L.S. 2022. A decade of diversity and forest structure: post-logging patterns across life stages in an Afrotropical forest. *Forest Ecology & Management*, 00, 00--00.
 
- **Queenborough, S.A.**, Alvia, P., & Valencia, R. 0000. Wind dispersal and 1-year survival of *Vataireopsis iglesiasii* (Fabaceae) seedlings in a Neotropical lowland rain forest. *Biotropica*. Accepted. [doi](https://doi.org/10.1111/btp.13099): 10.1111/btp.13099
+ **Queenborough, S.A.**, Alvia, P., & Valencia, R. 2022. Wind dispersal and 1-year survival of *Vataireopsis iglesiasii* (Fabaceae) seedlings in a Neotropical lowland rain forest. *Biotropica*, 00, 00--00. [doi](https://doi.org/10.1111/btp.13099): 10.1111/btp.13099
 
 
 #### 2021
