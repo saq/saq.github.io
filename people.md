@@ -91,6 +91,8 @@ Pablo has 15 years experience working as a parataxonomist, botanist, and fied te
 ### Anelio Loor
 Anelio has over 20 years experience working as a field technician in the lowland tropical forests of Ecuador. He has helped with the censuses of the 50-ha plot and many other projects. He is currently censusing Duroia trees on the Yasuni FDP for ant presence.
 
+ - - -
+ 
 
 # Lab alumni
 
