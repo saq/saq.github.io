@@ -74,7 +74,7 @@ Renata examined dispersal mechanisms of tropical tree species along an elevation
 
 
 ### Virginia Davis, Yale College 2022
-
+Virginia is interested in cultural knowledge and traditional medical practices. She investigated the use of Mexican Prickly Poppy (*Argemone mexicana*) to treat infections.
 
 
 
@@ -107,7 +107,7 @@ Andrew came on the Panama field course as an undergraduate in 2012 and was so en
 
 
 
-### Masters students
+## Masters students
 
 ### Aarthi Kannan, MESc 2022
 Habitat partitioning in six co-existing species of *Renealmia* (Zingiberaceae) in a lowland tropical rain forest.
