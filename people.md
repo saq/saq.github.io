@@ -107,10 +107,6 @@ Andrew came on the Panama field course as an undergraduate in 2012 and was so en
 
 
 
-### [Raleigh Ricart](https://www.linkedin.com/in/raleigh-ricart-phd-528a05b1)
-Raleigh ran some trial experiments on density dependence.
-
-
 ### Masters students
 
 ### Aarthi Kannan, MESc 2022
@@ -152,12 +148,16 @@ Lexis investigated the effects of eztra-floral nectaries on seedling growth and 
 Leticia visited the lab from Brasil to analyse data from a herbivore-exclusion experiment.
 
 
-
-
 ### Elizabeth Tokarz, Yale College 2016
 Habitat associations of herbaceous plants in Yasuní National Park, Amazonian Ecuador: A study of *Heliconia*
 
  - Tokarz, E., Alvia, P., Valencia, R., & Queenborough, S.A. 2019. Habitat niche partitioning by seven *Heliconia* species in a lowland tropical rain forest in Amazonian Ecuador. Journal of Tropical Ecology, 35, 91–94. doi: 10.1017/S0266467419000026
+
+
+### John Boudouris
+John came on the Panama field course in May 2012 and completed a fine research project on extra-floral nectaries in the Brazilian cerrado.
+
+ - Boudouris, J. & Queenborough, S.A. 2013. Diversity and distribution of extra-floral nectaries in the cerrado savanna vegetation of Brazil. PeerJ 1:e219. doi: [http://dx.doi.org/10.7717/peerj.219](10.7717/peerj.219)
 
 
 ### Laura Mason
@@ -171,11 +171,6 @@ Edward worked on classifying leaf traits of woody species of the cerrado region 
 
 ### John Lin
 John worked on classifying leaf traits of woody species of the cerrado region of Brazil. 
-
-### John Boudouris
-John came on the Panama field course in May 2012 and completed a fine research project on extra-floral nectaries in the Brazilian cerrado.
-
-Boudouris, J. & Queenborough, S.A. 2013. Diversity and distribution of extra-floral nectaries in the cerrado savanna vegetation of Brazil. PeerJ 1:e219. doi: [http://dx.doi.org/10.7717/peerj.219](10.7717/peerj.219)
 
 
 ## Research assistants
@@ -192,9 +187,11 @@ James carried out some of his MSc fieldwork in the Yasuni FDP, looking at the ch
  - Smith, J.R., Queenborough, SA, Alvia, P, Romero-Saltos, H, & Valencia, R. 2017. Testing the Liana Dominance Hypothesis: No strong evidence for increasing liana abundance in the Myristicaceae of a Neotropical aseasonal rain forest. Ecology, 98, 456–466. doi: 10.1002/ecy.1657
 
 
+### [Raleigh Ricart](https://www.linkedin.com/in/raleigh-ricart-phd-528a05b1)
+Raleigh ran some trial experiments on density dependence.
 
 ### Anton Flugge
-Anton carried out fieldwork in the summer of 2011, getting field experience for his PhD at University College, London. He looked at the spatial distribution of dioecious <i>Cecropia</i> trees in the Yasuni FDP.
+Anton carried out fieldwork in the summer of 2011, getting field experience for his PhD at University College, London. He looked at the spatial distribution of dioecious *Cecropia* trees in the Yasuni FDP.
 
 
 ### Luke Smith
@@ -202,6 +199,6 @@ Luke carried out fieldwork for his masters thesis in the summer of 2009, while s
 
 
 ### [Julia Weintritt](https://www.researchgate.net/scientific-contributions/Julia-Weintritt-2115667345)
-Julia carried out research on a project funded by the [http://www.systass.org/](Systematics Association), compiling a database of reproductive traits of tropical tree species. She currently administers the [http://elmer.rbge.org.uk/dryflor/](DRYFLOR) network, based at the Royal Botanic Garden Edinburgh, UK.
+Julia carried out research on a project funded by the [Systematics Association](http://www.systass.org/), compiling a database of reproductive traits of tropical tree species. She currently administers the [DRYFLOR](http://elmer.rbge.org.uk/dryflor/) network, based at the Royal Botanic Garden Edinburgh, UK.
 
 
