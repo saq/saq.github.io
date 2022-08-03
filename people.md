@@ -19,19 +19,23 @@ Google [Scholar](http://scholar.google.com/citations?user=5JontLgAAAAJ%3EGoogle%
 
 ## Post docs
 
-### [Dr. Jason Vleminckx](https://jasvlx86.wixsite.com/official)
+### Dr. Jason Vleminckx
 Jason is a community ecologist studying the determinants of species assembly in diverse living groups including plants, fungi and invertebrates in Neotropical and Central African forests. 
 
 He is currently working on phenology data from Yasuni National Park.
 
+[website](https://jasvlx86.wixsite.com/official)
 
 
-### [Dr. Juan Carlos Penagos Zuluaga](https://jcpenagosz0.wixsite.com/jcpenagosz)
+
+### Dr. Juan Carlos Penagos Zuluaga
 Juan is interested in the ecological and evolutionary interactions that maintain the diversity of tropical plants. His research focuses on the intersection of ecology and systematics, using the Neotropical genera of the family Lauraceae. 
 
  - Penagos Zuluaga, J.C., van der Werff,H., Park, B., Eaton, D.A.R., Comita, L.S., Queenborough, S.A., & Donoghue, M.J. 2021. Resolved phylogenetic relationships in the Ocotea complex (Supraocotea) facilitate phylogenetic classification and studies of character evolution. American Journal of Botany, 108, 664–679. doi: 10.1002/ajb2.1632
 
  - Penagos Zuluaga, J.C., Queenborough, S.A., & Comita, L.S. 2020. Flowering sex ratios and costs of reproduction in gynodioecious Ocotea oblonga (Lauraceae). Biological Journal of the Linnean Society, 131, 344–355. doi: 10.1093/biolinnean/blaa117
+
+[website](https://jcpenagosz0.wixsite.com/jcpenagosz)
 
 
 ## Graduate students
@@ -41,18 +45,20 @@ Emma is investigating variation in leaf traits across a rainfall gradient in the
 
 
 
-### [Harikrishnan Venugopalan Nair Radhamoni](https://environment.yale.edu/profile/harikrishnan-venugopalan-nair-radhamoni), PhD 2023
+### Harikrishnan Venugopalan Nair Radhamoni, PhD 2023
 Hari is a PhD candidate conducting research on how the taxonomic and functional diversity of non-woody (herbaceous) plants vary along gradients of moisture and light in the forests of Western Ghats in India. Currently, he is excited about finding new, efficient methods and protocols to study herbaceous plants and their traits, including field surveys, nursery experiments, and herbarium-based research.
 
+[website](https://environment.yale.edu/profile/harikrishnan-venugopalan-nair-radhamoni)
 
 
-### [Megan Sullivan](https://meganksullivan.weebly.com/), PhD 2023
+### Megan Sullivan, PhD 2023
 Megan began working in the lab as an undergraduate at Ohio State. Since then she has worked on plant ecology research in Panama, China, Brazil, and Gabon. Her PhD dissertation research focuses on the how selective logging alters regeneration and thereby changes the composition, structure, and function of seedling, sapling, and mature tree communities in the tropical rain forests of Gabon. 
 
  - Sullivan, M.K., Biessiemou P.A.M., Niangadouma, R., Abernethy, K.A, Queenborough, S.A., Comita, L.S. A decade of diversity and forest structure: post-logging patterns across life stages in an Afrotropical forest. Forest Ecology and Management. https://doi.org/10.1016/j.foreco.2022.120169
 
  - Sullivan, M.K. & Queenborough, S.A. (2020). "Precipitation gradients, plant biogeography, and the incidence of drip‐tips in Cerrado plant species." Biotropica. 52, 583– 589.  https://doi.org/10.1111/btp.12797
 
+[website](https://meganksullivan.weebly.com/)
 
 
 ## Undergraduate students
@@ -102,11 +108,12 @@ Anelio has over 20 years experience working as a field technician in the lowland
 
 ## PhD students
 
-### [Andrew Muehleisen](https://www.andrewmuehleisen.com/), PhD 2020
+### Andrew Muehleisen, PhD 2020
 Andrew came on the Panama field course as an undergraduate in 2012 and was so enamoured with the tropics that he successfully applied for an OSU Summer Research Fellowship, and went down to Yasuni to survey species for extra-floral nectaries.
 
  - Muehleisen, M., Queenborough, S.A., Alvia Zambano, L.P., Valencia, R., & Fiala, B. 2016. Incidence of extra-floral nectaries and their relationship to growth and survival of lowland tropical rain forest trees. Biotropica, 48, 321–331. doi: 10.1111/btp.12310
 
+[website](https://www.andrewmuehleisen.com/)
 
 
 ## Masters students
@@ -114,21 +121,26 @@ Andrew came on the Panama field course as an undergraduate in 2012 and was so en
 ### Aarthi Kannan, MESc 2022
 Habitat partitioning in six co-existing species of *Renealmia* (Zingiberaceae) in a lowland tropical rain forest.
 
-### [Deja Curtis](https://www.linkedin.com/in/dejacurtis), MESC 2021
+### Deja Curtis, MESC 2021
 Deja examined variation in seed dispersal mechanisms in trees across a strong rainfall gradient in Panama.
 
+[website](https://www.linkedin.com/in/dejacurtis)
 
-### [Bart DiFiore](https://www.eemb.ucsb.edu/people/students/difiore), MESc 2017
+
+### Bart DiFiore, MESc 2017
 Bart's research focussed on trophic regime shifts and the complex interplay humans have in driving or mediating these shifts.
 
  - DiFiore, B.P., Queenborough, S.A., Madin, E.M.P, Paul, V.J., Decker M.B., & Stier, A.C. 2019. Herbivore density, more than predation risk, drives variation in grazing patterns visible from space. Marine Ecology Progress Series, 627, 71–81. doi: 10.3354/meps13074
 
+[website](https://www.eemb.ucsb.edu/people/students/difiore)
 
-### [Camille Delavaux](https://camilledelavaux.weebly.com/), MESc 2017
+
+### Camille Delavaux, MESc 2017
 Camille was interested in nutrient enrichment effects on mycorrhizal fungi and plant diversity in an Andean tropical montane forest.
 
  - Delavaux, C.S., Camenzind, T., Homeier, J., Jimenez-Paz, R., Ashton, M.S., & Queenborough, S.A.. 2017. Nutrient enrichment effects on mycorrhizal fungi in an Andean tropical montane forest. Mycorrhiza, 4, 311–319. doi: 10.1007/s00572-016-0749-5
 
+[website](https://camilledelavaux.weebly.com/)
 
 
 
@@ -165,8 +177,9 @@ John came on the Panama field course in May 2012 and completed a fine research p
 ### Laura Mason
 Laura documented variation in sex ratios of dioecious plant populations.
 
-### [Shannon Hibbard](https://www.shannonmars.com/about-me)
+### Shannon Hibbard
 Shannon looked at fruit size and defence traits of tropical trees.
+
 
 ### Edward Harper
 Edward worked on classifying leaf traits of woody species of the cerrado region of Brazil. 
@@ -189,8 +202,9 @@ James carried out some of his MSc fieldwork in the Yasuni FDP, looking at the ch
  - Smith, J.R., Queenborough, SA, Alvia, P, Romero-Saltos, H, & Valencia, R. 2017. Testing the Liana Dominance Hypothesis: No strong evidence for increasing liana abundance in the Myristicaceae of a Neotropical aseasonal rain forest. Ecology, 98, 456–466. doi: 10.1002/ecy.1657
 
 
-### [Raleigh Ricart](https://www.linkedin.com/in/raleigh-ricart-phd-528a05b1)
+### Raleigh Ricart
 Raleigh ran some trial experiments on density dependence.
+
 
 ### Anton Flugge
 Anton carried out fieldwork in the summer of 2011, getting field experience for his PhD at University College, London. He looked at the spatial distribution of dioecious *Cecropia* trees in the Yasuni FDP.
@@ -200,7 +214,7 @@ Anton carried out fieldwork in the summer of 2011, getting field experience for 
 Luke carried out fieldwork for his masters thesis in the summer of 2009, while studying at University College, London. He looked at the spatial distribution of seedlings and saplings around parent trees at the Yasuni Scientific Research Station (some hunting) with seedlings and trees at the Tiputini Biological Station two hours down river (no hunting).
 
 
-### [Julia Weintritt](https://www.researchgate.net/scientific-contributions/Julia-Weintritt-2115667345)
+### Julia Weintritt
 Julia carried out research on a project funded by the [Systematics Association](http://www.systass.org/), compiling a database of reproductive traits of tropical tree species. She currently administers the [DRYFLOR](http://elmer.rbge.org.uk/dryflor/) network, based at the Royal Botanic Garden Edinburgh, UK.
 
 
