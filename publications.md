@@ -63,14 +63,14 @@ Liu, J.\*\*, Anderson, L.\*\*, & **Queenborough, S.A.** 0000. Distribution and a
 
 #### 2022 
 
-Sullivan, M.K.\*, Biessiemou, P.A.M., Niangadouma, R., Abernethy, K., **Queenborough, S.A.**, & Comita, L.S. 2022. A decade of diversity and forest structure: post-logging patterns across life stages in an Afrotropical forest. *Forest Ecology & Management*, 00, 00--00. [doi]:(https://doi.org/10.1016/j.foreco.2022.120169): 10.1016/j.foreco.2022.120169
+Sullivan, M.K.\*, Biessiemou, P.A.M., Niangadouma, R., Abernethy, K., **Queenborough, S.A.**, & Comita, L.S. 2022. A decade of diversity and forest structure: post-logging patterns across life stages in an Afrotropical forest. *Forest Ecology & Management*, 513, 120169. [doi](https://doi.org/10.1016/j.foreco.2022.120169): 10.1016/j.foreco.2022.120169
 
- **Queenborough, S.A.**, Alvia, P., & Valencia, R. 2022. Wind dispersal and 1-year survival of *Vataireopsis iglesiasii* (Fabaceae) seedlings in a Neotropical lowland rain forest. *Biotropica*, 00, 00--00. [doi](https://doi.org/10.1111/btp.13099): 10.1111/btp.13099
+ **Queenborough, S.A.**, Alvia, P., & Valencia, R. 2022. Wind dispersal and 1-year survival of *Vataireopsis iglesiasii* (Fabaceae) seedlings in a Neotropical lowland rain forest. *Biotropica*, 54, 583--589. [doi](https://doi.org/10.1111/btp.13099): 10.1111/btp.13099
 
 
 #### 2021
 
-Spicer, M.E., Nair Radhamoni, H.V.\*, Duguid, M.C., **Queenborough, S.A.**, & Comita, L.S. 2021. Herbaceous plant diversity in forest ecosystems: patterns, mechanisms, and threats. *Plant Ecology* 151, 00--00. [doi](https://doi.org/10.1007/s11258-021-01202-9): 10.1007/s11258-021-01202-9
+Spicer, M.E., Nair Radhamoni, H.V.\*, Duguid, M.C., **Queenborough, S.A.**, & Comita, L.S. 2021. Herbaceous plant diversity in forest ecosystems: patterns, mechanisms, and threats. *Plant Ecology* 223, 117--129. [doi](https://doi.org/10.1007/s11258-021-01202-9): 10.1007/s11258-021-01202-9
 
 Benitez, L.\* & **Queenborough. S.A.** 2021. Fruit trees drive small-scale movement of elephants in forests of Kibale National Park, Uganda. *Biotropica*, 53, 1620--1630. [doi](https://doi.org/10.1111/btp.13010): 10.1111/btp.13010
 
