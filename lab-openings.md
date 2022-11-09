@@ -13,8 +13,6 @@ If you are interested in developing a grant proposal, either for NSF or another 
 
 #### Yale-specific post-doc funding
 
- - [Cullman Postdoc]() Not currently open.
-
  - [YIBS postdocs](http://yibs.yale.edu/scholar-programs/donnelley-and-yibs-postdoctoral-environmental-fellows/gaylord-donnelley)
  
 
