@@ -45,15 +45,12 @@ Juan is interested in the ecological and evolutionary interactions that maintain
 [website](https://jcpenagosz0.wixsite.com/jcpenagosz)
 
 
-## Graduate students
-
-### Emma Grover, MESc 2023
-Emma is investigating variation in leaf traits across a rainfall gradient in the Western Ghats, India, and within the Yasuni forest dynamics plot, Ecuador.
-
-
+## PhD students
 
 ### Harikrishnan Venugopalan Nair Radhamoni, PhD 2023
 Hari is a PhD candidate conducting research on how the taxonomic and functional diversity of non-woody (herbaceous) plants vary along gradients of moisture and light in the forests of Western Ghats in India. Currently, he is excited about finding new, efficient methods and protocols to study herbaceous plants and their traits, including field surveys, nursery experiments, and herbarium-based research.
+
+ - Spicer, M.E., Nair Radhamoni, H.V., Duguid, M.C., Queenborough, S.A., & Comita, L.S. 2021. Herbaceous plant diversity in forest ecosystems: patterns, mechanisms, and threats. Plant Ecology, 223, 117–129. https://doi.org/10.1007/s11258-021-01202-9
 
 [website](https://environment.yale.edu/profile/harikrishnan-venugopalan-nair-radhamoni)
 
@@ -61,11 +58,18 @@ Hari is a PhD candidate conducting research on how the taxonomic and functional 
 ### Megan Sullivan, PhD 2023
 Megan began working in the lab as an undergraduate at Ohio State. Since then she has worked on plant ecology research in Panama, China, Brazil, and Gabon. Her PhD dissertation research focuses on the how selective logging alters regeneration and thereby changes the composition, structure, and function of seedling, sapling, and mature tree communities in the tropical rain forests of Gabon. 
 
- - Sullivan, M.K., Biessiemou P.A.M., Niangadouma, R., Abernethy, K.A, Queenborough, S.A., Comita, L.S. A decade of diversity and forest structure: post-logging patterns across life stages in an Afrotropical forest. Forest Ecology and Management. https://doi.org/10.1016/j.foreco.2022.120169
+ - Sullivan, M.K., Biessiemou P.A.M., Niangadouma, R., Abernethy, K.A, Queenborough, S.A., Comita, L.S. 2022. A decade of diversity and forest structure: post-logging patterns across life stages in an Afrotropical forest. Forest Ecology and Management, 513, 120169. https://doi.org/10.1016/j.foreco.2022.120169
 
- - Sullivan, M.K. & Queenborough, S.A. (2020). "Precipitation gradients, plant biogeography, and the incidence of drip‐tips in Cerrado plant species." Biotropica. 52, 583– 589.  https://doi.org/10.1111/btp.12797
+ - Sullivan, M.K. & Queenborough, S.A. 2020. Precipitation gradients, plant biogeography, and the incidence of drip‐tips in Cerrado plant species. Biotropica, 52, 583–589.  https://doi.org/10.1111/btp.12797
 
 [website](https://meganksullivan.weebly.com/)
+
+
+## Masters students
+
+### Emma Grover, MESc 2023
+Emma is investigating variation in leaf traits across a rainfall gradient in the Western Ghats, India, and within the Yasuni forest dynamics plot, Ecuador.
+
 
 
 ## Undergraduate students
