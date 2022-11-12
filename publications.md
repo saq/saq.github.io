@@ -17,7 +17,7 @@ title: Publications
 
 Please contact me for PDFs.
 
-updated: 2021-01-30
+updated: 2022-11-12
 
 <hr>
 
@@ -41,10 +41,7 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 #### in review
 
-
-
-He, Q.\*, **Queenborough, S.A.**, Zhang, Y., Wang, W., Li, B., Zhao, K., Luo, W., Tang, H., Lin, W., & Chu, C. 0000. Effects of tree sex, maturity, local
-abiotic and biotic neighborhoods on the growth of a subtropical dioecious tree species *Diospyros morrisiana* (Ebenaceae). *American Journal of Botany*.
+Wei Lin, Yonghua Zhang, **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li, Chengjin Chu. 0000. Ontogenetic shifts in sex ratios and underlying processes in a dioecious tree species. *Journal of Ecology*.
 
 Garwood, N.C., Metz, M.R., **Queenborough, S.A.**, Persson, V., Wright, S.J., Burslem, D.F.R.P., Zambrano, M., & Valencia, V. 0000. Seasonality of reproduction in an ever-wet lowland tropical forest in Amazonian Ecuador. *Ecology*.
 
@@ -54,14 +51,14 @@ Baker, T.R. et al. (200 co-authors). 0000. Larger range sizes link fast demograp
 
 Gurung, B.\*, Mendelsohn, R., & **Queenborough, S.A.** 0000. Economics of tiger conservation: a case of Khata Wildlife Corridor in Nepal. *Oryx*.
 
-He, Q.\*, **Queenborough, S.A.**, Zhang, Y., Wang, W., Li, B., Zhao, K., Luo, W., Tang, H., Lin, W., & Chu, C. 0000. Effects of tree sex, maturity, local abiotic and biotic neighborhoods on the growth of a subtropical dioecious tree species *Diospyros morrisiana* (Ebenaceae). *American Journal of Botany*. 
-
 Pak, D., Swamy, V. Alvarez, P., Cornejo, F., **Queenborough, S.A.**, Metz, M.R., Terborgh, J., Valencia, R., Wright, S.J., Garwood, N.C., & Lasky, J.R. 0000. Multi-scale phenological niches in hyperdiverse Amazonian plant communities. *Ecology*.
 
 Liu, J.\*\*, Anderson, L.\*\*, & **Queenborough, S.A.** 0000. Distribution and abundance of trees with extrafloral nectaries across a tropical forest rainfall gradient. *Biotropica*.
 
 
 #### 2022 
+
+He, Q.\*, **Queenborough, S.A.**, Zhang, Y., Wang, W., Li, B., Zhao, K., Luo, W., Tang, H., Lin, W., & Chu, C. 0000. Effects of tree sex, maturity, local abiotic and biotic neighborhoods on the growth of a subtropical dioecious tree species *Diospyros morrisiana* (Ebenaceae). *American Journal of Botany*. 
 
 Sullivan, M.K.\*, Biessiemou, P.A.M., Niangadouma, R., Abernethy, K., **Queenborough, S.A.**, & Comita, L.S. 2022. A decade of diversity and forest structure: post-logging patterns across life stages in an Afrotropical forest. *Forest Ecology & Management*, 513, 120169. [doi](https://doi.org/10.1016/j.foreco.2022.120169): 10.1016/j.foreco.2022.120169
 
