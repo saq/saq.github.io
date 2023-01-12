@@ -60,7 +60,7 @@ Liu, J.\*\*, Anderson, L.\*\*, & **Queenborough, S.A.** 0000. Distribution and a
 
 #### 2023
 
-Venugopalan Nair Radhamoni, H.\*, **Queenborough, S.A.**, Arietta, A.Z.A., Suresh, H.S., Dattaraja, H.S., Kumar, S.S., Sukumar, R., Comita, L.S. 0000. Local- and landscape-scale drivers of terrestrial herbaceous plant diversity along a tropical rainfall gradient in Western Ghats, India. *Journal of Ecology*. 
+Venugopalan Nair Radhamoni, H.\*, **Queenborough, S.A.**, Arietta, A.Z.A., Suresh, H.S., Dattaraja, H.S., Kumar, S.S., Sukumar, R., Comita, L.S. 0000. Local- and landscape-scale drivers of terrestrial herbaceous plant diversity along a tropical rainfall gradient in Western Ghats, India. *Journal of Ecology*. Accepted.
 
 
 #### 2022 
