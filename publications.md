@@ -41,6 +41,8 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 #### in review
 
+Remshard, M. & **Queenborough, S.A.** 0000.  Design of tables for the presentation and communication of data in ecological and evolutionary biology. *Ecology & Evolution*.
+
 Eck, J., Delavaux, C., Wilson, D., **Queenborough, S.A.**, Comita, L. 0000. Seedling performance in a dioecious tree species is similar near female and male conspecific adults despite differences in colonization by arbuscular mycorrhizal fungi. *Oikos*.
 
 Wei Lin, Yonghua Zhang, **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li, Chengjin Chu. 0000. Ontogenetic shifts in sex ratios and underlying processes in a dioecious tree species. *Journal of Ecology*.
