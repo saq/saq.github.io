@@ -62,10 +62,10 @@ Liu, J.\*\*, Anderson, L.\*\*, & **Queenborough, S.A.** 0000. Distribution and a
 
 Venugopalan Nair Radhamoni, H.\*, **Queenborough, S.A.**, Arietta, A.Z.A., Suresh, H.S., Dattaraja, H.S., Kumar, S.S., Sukumar, R., Comita, L.S. 0000. Local- and landscape-scale drivers of terrestrial herbaceous plant diversity along a tropical rainfall gradient in Western Ghats, India. *Journal of Ecology*. Accepted.
 
+He, Q.\*, **Queenborough, S.A.**, Zhang, Y., Wang, W., Li, B., Zhao, K., Luo, W., Tang, H., Lin, W., & Chu, C. 2023. Effects of tree sex, maturity, local abiotic and biotic neighborhoods on the growth of a subtropical dioecious tree species *Diospyros morrisiana* (Ebenaceae). *American Journal of Botany*.  [doi](http://doi.org/10.1002/ajb2.16124): 10.1002/ajb2.16124
+
 
 #### 2022 
-
-He, Q.\*, **Queenborough, S.A.**, Zhang, Y., Wang, W., Li, B., Zhao, K., Luo, W., Tang, H., Lin, W., & Chu, C. 0000. Effects of tree sex, maturity, local abiotic and biotic neighborhoods on the growth of a subtropical dioecious tree species *Diospyros morrisiana* (Ebenaceae). *American Journal of Botany*. 
 
 Sullivan, M.K.\*, Biessiemou, P.A.M., Niangadouma, R., Abernethy, K., **Queenborough, S.A.**, & Comita, L.S. 2022. A decade of diversity and forest structure: post-logging patterns across life stages in an Afrotropical forest. *Forest Ecology & Management*, 513, 120169. [doi](https://doi.org/10.1016/j.foreco.2022.120169): 10.1016/j.foreco.2022.120169
 
