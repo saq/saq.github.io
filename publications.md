@@ -56,7 +56,7 @@ Liu, J.\*\*, Anderson, L.\*\*, & **Queenborough, S.A.** 0000. Distribution and a
 
 #### 2023
 
-Pak, D., Swamy, V. Alvarez, P., Cornejo, F., **Queenborough, S.A.**, Metz, M.R., Terborgh, J., Valencia, R., Wright, S.J., Garwood, N.C., & Lasky, J.R. 0000. Multi-scale phenological niches in hyperdiverse Amazonian plant communities. *Ecology*. Accepted.
+Pak, D., Swamy, V. Alvarez, P., Cornejo, F., **Queenborough, S.A.**, Metz, M.R., Terborgh, J., Valencia, R., Wright, S.J., Garwood, N.C., & Lasky, J.R. 0000. Multi-scale phenological niches in hyperdiverse Amazonian plant communities. *Ecology*. Accepted. [doi](https://doi.org/10.1002/ecy.4022): 10.1002/ecy.4022
 
 Remshard, M. & **Queenborough, S.A.** 0000.  Design of tables for the presentation and communication of data in ecological and evolutionary biology. *Ecology & Evolution*. Accepted.
 
