@@ -58,7 +58,7 @@ Liu, J.\*\*, Anderson, L.\*\*, & **Queenborough, S.A.** 0000. Distribution and a
 
 Pak, D., Swamy, V. Alvarez, P., Cornejo, F., **Queenborough, S.A.**, Metz, M.R., Terborgh, J., Valencia, R., Wright, S.J., Garwood, N.C., & Lasky, J.R. 0000. Multi-scale phenological niches in hyperdiverse Amazonian plant communities. *Ecology*. Accepted. [doi](https://doi.org/10.1002/ecy.4022): 10.1002/ecy.4022
 
-Remshard, M. & **Queenborough, S.A.** 0000.  Design of tables for the presentation and communication of data in ecological and evolutionary biology. *Ecology & Evolution*. Accepted.
+Remshard, M. & **Queenborough, S.A.** 0000.  Design of tables for the presentation and communication of data in ecological and evolutionary biology. *Ecology & Evolution*. Accepted. [doi](): 10.1002/ece3.10062
 
 Venugopalan Nair Radhamoni, H.\*, **Queenborough, S.A.**, Arietta, A.Z.A., Suresh, H.S., Dattaraja, H.S., Kumar, S.S., Sukumar, R., Comita, L.S. 0000. Local- and landscape-scale drivers of terrestrial herbaceous plant diversity along a tropical rainfall gradient in Western Ghats, India. *Journal of Ecology*. Accepted. [doi](http://doi.org/10.1111/1365-2745.14075): 10.1111/1365-2745.14075
 
