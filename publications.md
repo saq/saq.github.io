@@ -41,6 +41,8 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 #### in review
 
+Sullivan, M.K.\*, Fayolle, A., Bush, E., Ofuso-Bamfo, B. Vleminckx, J., Metz, M.R., & **Queenborough, S.A.** 0000. Cascading effects of climate change: new advances in drivers and shifts of tropical reproductive phenology. *Plant Ecology. 
+
 Deng, T.\*, Zhu, Y., **Queenborough, S.A.** 0000. Environmental drivers of species diversity in the herbaceous and woody plant understory community of a warm-temperate forest. *Ecology*.
 
 Wei Lin, Yonghua Zhang, **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li, Chengjin Chu. 0000. Ontogenetic shifts in sex ratios and underlying processes in a dioecious tree species. *Journal of Ecology*.
@@ -55,7 +57,7 @@ Liu, J.\*\*, Anderson, L.\*\*, & **Queenborough, S.A.** 0000. Distribution and a
 
 
 #### 2023
-Eck, J., Delavaux, C., Wilson, D., **Queenborough, S.A.**, Comita, L. 0000. Seedling performance in a dioecious tree species is similar near female and male conspecific adults despite differences in colonization by arbuscular mycorrhizal fungi. *Oikos*.
+Eck, J.\*, Delavaux, C.\*, Wilson, D., **Queenborough, S.A.**, Comita, L.S. 0000. Seedling performance in a dioecious tree species is similar near female and male conspecific adults despite differences in colonization by arbuscular mycorrhizal fungi. *Oikos*.
 
 Remshard, M. & **Queenborough, S.A.** 0000.  Design of tables for the presentation and communication of data in ecological and evolutionary biology. *Ecology & Evolution*. Accepted. [doi](): 10.1002/ece3.10062
 
