@@ -6,7 +6,7 @@ title: Lab Openings
 
 # Lab Openings
 
-**Updated: Fall 2021**
+**Updated: Spring 2023**
 
 ### Post-docs
 If you are interested in developing a grant proposal, either for NSF or another source, please get in touch!
@@ -56,6 +56,8 @@ I encourage sincere, hardworking and motivated undergraduate students to activel
 If you are interested in gaining practical experience in ecology and evolution and you are interested in the research described on this website, please contact me to discuss possibilities. Please include details of the courses you have taken/are taking, current GPA, etc.
 
 For more details, please see the Yale Undergraduate [Research Database](https://rdb.yale.edu/lab/queenborough-lab-177/).
+
+The EEB department has [great resources](https://eeb.yale.edu/academics/undergraduate-major) on undergraduate research, as well as a [description of the lab](https://eeb.yale.edu/academics/undergraduate-program/guide-research) by a previous undergraduate.
 
 The [Yale Tropical Resources Institute](http://tri.yale.edu/fellowships/) has some funding available for senior thesis work.
 
