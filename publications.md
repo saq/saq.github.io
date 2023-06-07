@@ -41,15 +41,13 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 #### in review
 
-Vleminckx, J., Hogan, J.A., Metz, M.R., Comita, L.S., **Queenborough, S.A.**, Wright, S.J., Valencia, R., Zambrano, M., & Garwood, N.C. 0000. Decreasing flower production coincides with warmer and more humid atmospheric conditions in a Western Amazonian forest. *Ecology Letters*.
+Vleminckx, J., Hogan, J.A., Metz, M.R., Comita, L.S., **Queenborough, S.A.**, Wright, S.J., Valencia, R., Zambrano, M., & Garwood, N.C. 0000. Decreasing flower production coincides with warmer and more humid atmospheric conditions in a Western Amazonian forest. *New Phytologist*.
 
 Sullivan, M.K.\*, Fayolle, A., Bush, E., Ofuso-Bamfo, B. Vleminckx, J., Metz, M.R., & **Queenborough, S.A.** 0000. Cascading effects of climate change: new advances in drivers and shifts of tropical reproductive phenology. *Plant Ecology*. 
 
 Deng, T.\*, Zhu, Y., & **Queenborough, S.A.** 0000. Environmental drivers of species diversity in the herbaceous and woody plant understory community of a warm-temperate forest. *Ecology*.
 
 Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li, Chengjin Chu. 0000. Ontogenetic shifts in sex ratios and underlying processes in a dioecious tree species. *Journal of Ecology*.
-
-Garwood, N.C., Metz, M.R., **Queenborough, S.A.**, Persson, V., Wright, S.J., Burslem, D.F.R.P., Zambrano, M., & Valencia, V. 0000. Seasonality of reproduction in an ever-wet lowland tropical forest in Amazonian Ecuador. *Ecology*.
 
 Baker, T.R. et al. (200 co-authors). 0000. Larger range sizes link fast demographic rates with higher species richness across the tree flora of the wet tropics. *Nature Communications*. 
 
@@ -59,6 +57,9 @@ Liu, J.\*\*, Anderson, L.\*\*, & **Queenborough, S.A.** 0000. Distribution and a
 
 
 #### 2023
+
+Garwood, N.C., Metz, M.R., **Queenborough, S.A.**, Persson, V., Wright, S.J., Burslem, D.F.R.P., Zambrano, M., & Valencia, V. 0000. Seasonality of reproduction in an ever-wet lowland tropical forest in Amazonian Ecuador. *Ecology*.
+
 Eck, J.\*, Delavaux, C.\*, Wilson, D., **Queenborough, S.A.**, Comita, L.S. 0000. Seedling performance in a dioecious tree species is similar near female and male conspecific adults despite differences in colonization by arbuscular mycorrhizal fungi. *Oikos*.
 
 Remshard, M. & **Queenborough, S.A.** 0000.  Design of tables for the presentation and communication of data in ecological and evolutionary biology. *Ecology & Evolution*. Accepted. [doi](): 10.1002/ece3.10062
