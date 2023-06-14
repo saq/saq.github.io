@@ -39,8 +39,6 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 Santacruz, P., Lozinguez, A., Montufar, R., **Queenborough, S.A.**, Endara, M.J., Obando-Tello, B., Couvreur, T.L.P. 0000. Exploring Annonaceae insect interactions in a local rain forest community of Amazonian Ecuador.
 
-Rodríguez-Ortega, C., Utreras, D. Báez, S., Donoso, D.A., Endara, M.J., Forrister, D.L., **Queenborough, S.A.**, Alvia P., Menéndez-Guerrero, P.A.,  Cárdenas, R.E. 0000. Defense strategies of a myrmecophyte: survival implications of *Duroia hirsuta* (Rubiaceae) in mutualism with ants. *Frontiers in Ecology and Evolution*. 
-
 Kambach, S., Bruelheide, H. Comita, L.S., Condit, R., Aguilar, S., Chang-Yang, C.H., Chen, Y.-Y., Garwood, N.C., Hubbell, S.P., Metz, M.R., Pérez, R., **Queenborough, S.A.**, Sun, I.F. Swenson, N.G., Thompson, J., Uriarte, M., Valencia, R., Wright, S.J., Leong Yao, T., Zimmerman, J., Rüger, N. 0000. Putting seedling demography on the map: Trade-offs in demographic rates from seedlings to the largest trees in five tropical forests. *Ecology*.
 
 -->
@@ -48,7 +46,7 @@ Kambach, S., Bruelheide, H. Comita, L.S., Condit, R., Aguilar, S., Chang-Yang, C
 
 #### in review
 
-
+Rodríguez-Ortega, C., Utreras, D. Báez, S., Donoso, D.A., Endara, M.J., Forrister, D.L., **Queenborough, S.A.**, Alvia P., Menéndez-Guerrero, P.A.,  Cárdenas, R.E. 0000. Defense strategies of an Amazonian myrmecophyte: effects of ant identity and survival implications on its host plants. *Frontiers in Ecology and Evolution*. 
 
 Vleminckx, J., Hogan, J.A., Metz, M.R., Comita, L.S., **Queenborough, S.A.**, Wright, S.J., Valencia, R., Zambrano, M., & Garwood, N.C. 0000. Decreasing flower production coincides with warmer and more humid atmospheric conditions in a Western Amazonian forest. *New Phytologist*.
 
