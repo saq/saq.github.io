@@ -65,9 +65,9 @@ Liu, J.\*\*, Anderson, L.\*\*, & **Queenborough, S.A.** 0000. Distribution and a
 
 #### 2023
 
-Garwood, N.C., Metz, M.R., **Queenborough, S.A.**, Persson, V., Wright, S.J., Burslem, D.F.R.P., Zambrano, M., & Valencia, V. 2023. Seasonality of reproduction in an ever-wet lowland tropical forest in Amazonian Ecuador. *Ecology*, 000, e4133. Accepted. [doi](https://doi.org/10.1002/ecy.4133): 10.1002/ecy.4133
+Garwood, N.C., Metz, M.R., **Queenborough, S.A.**, Persson, V., Wright, S.J., Burslem, D.F.R.P., Zambrano, M., & Valencia, V. 2023. Seasonality of reproduction in an ever-wet lowland tropical forest in Amazonian Ecuador. *Ecology*, e4133. Accepted. [doi](https://doi.org/10.1002/ecy.4133): 10.1002/ecy.4133
 
-Eck, J.\*, Delavaux, C.\*, Wilson, D., **Queenborough, S.A.**, Comita, L.S. 0000. Seedling performance in a dioecious tree species is similar near female and male conspecific adults despite differences in colonization by arbuscular mycorrhizal fungi. *Oikos*. Accepted. [doi](https://dx.doi.org/10.1111/oik.09974): 10.1111/oik.09974
+Eck, J.\*, Delavaux, C.\*, Wilson, D., **Queenborough, S.A.**, Comita, L.S. 2023. Seedling performance in a dioecious tree species is similar near female and male conspecific adults despite differences in colonization by arbuscular mycorrhizal fungi. *Oikos*. e09974. [doi](https://dx.doi.org/10.1111/oik.09974): 10.1111/oik.09974
 
 Remshard, M. & **Queenborough, S.A.** 2023.  Design of tables for the presentation and communication of data in ecological and evolutionary biology. *Ecology & Evolution*, 13, e10062. [doi](https://dx.doi.org/10.1002/ece3.10062): 10.1002/ece3.10062 
 
