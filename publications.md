@@ -43,6 +43,8 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 #### in review
 
+Sullivan, M., Vleminckx, J., Bissiemou, P., Niangadouma, R., Mayoungou, M., Temba, J. la M., Bénédet, F., Abernethy, K., **Queenborough, S.A.**, Comita, L.S. 0000. Impacts of low-intensity selective logging on species and functional composition in a Central African tropical forest. *Ecologcal Applications*
+
 Kambach, S., Bruelheide, H. Comita, L.S., Condit, R., Aguilar, S., Chang-Yang, C.H., Chen, Y.-Y., Garwood, N.C., Hubbell, S.P., Metz, M.R., Pérez, R., **Queenborough, S.A.**, Sun, I.F. Swenson, N.G., Thompson, J., Uriarte, M., Valencia, R., Wright, S.J., Leong Yao, T., Zimmerman, J., Rüger, N. 0000. Putting seedling demography on the map: Trade-offs in demographic rates from seedlings to the largest trees in five tropical forests. *Ecology*.
 
 Santacruz, P.\*, Lozinguez, A., Montufar, R., **Queenborough, S.A.**, Endara, M.J., Obando-Tello, B., Couvreur, T.L.P. 0000. Exploring Annonaceae insect interactions in a local rain forest community of Amazonian Ecuador. *Biotropica*.
