@@ -66,6 +66,8 @@ The [Yale Tropical Resources Institute](http://tri.yale.edu/fellowships/) has so
 
 ### Grad school advice
 
+Estien et al. 2022. Demystifying the graduate school application process. Bulletin of the ESA, 104. e02029. [link](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/bes2.2029)
+
 **Before you write to me (or any potential advisor!)** please read and think about the ideas suggested in the following links:
 
 [https://conservationbytes.com/2015/04/01/how-to-contact-a-potential-phd-supervisor/](https://conservationbytes.com/2015/04/01/how-to-contact-a-potential-phd-supervisor/) 
