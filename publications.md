@@ -51,10 +51,6 @@ Santacruz, P.\*, Lozinguez, A., Montufar, R., **Queenborough, S.A.**, Endara, M.
 
 Rodríguez-Ortega, C.\*\*, Utreras, D., Báez, S., Donoso, D.A., Endara, M.J., Forrister, D.L., **Queenborough, S.A.**, Alvia P., Menéndez-Guerrero, P.A., Cárdenas, R.E. 0000. Defense strategies of an Amazonian myrmecophyte: effects of ant identity and survival implications on its host plants. *Frontiers in Ecology and Evolution*. 
 
-Vleminckx, J., Hogan, J.A., Metz, M.R., Comita, L.S., **Queenborough, S.A.**, Wright, S.J., Valencia, R., Zambrano, M., & Garwood, N.C. 0000. Decreasing flower production coincides with warmer and more humid atmospheric conditions in a Western Amazonian forest. *New Phytologist*.
-
-Sullivan, M.K.\*, Fayolle, A., Bush, E., Ofuso-Bamfo, B. Vleminckx, J., Metz, M.R., & **Queenborough, S.A.** 0000. Cascading effects of climate change: new advances in drivers and shifts of tropical reproductive phenology. *Plant Ecology*. 
-
 Deng, T.\*, Zhu, Y., & **Queenborough, S.A.** 0000. Environmental drivers of species diversity in the herbaceous and woody plant understory community of a warm-temperate forest. *Journal of Biogeography*.
 
 Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li, Chengjin Chu. 0000. Ontogenetic shifts in sex ratios and underlying processes in a dioecious tree species. *Journal of Ecology*.
@@ -64,6 +60,13 @@ Baker, T.R. et al. (200 co-authors). 0000. Larger range sizes link fast demograp
 Gurung, B.\*, Mendelsohn, R., & **Queenborough, S.A.** 0000. Economics of tiger conservation: a case of Khata Wildlife Corridor in Nepal. *Oryx*.
 
 Liu, J.\*\*, Anderson, L.\*\*, & **Queenborough, S.A.** 0000. Distribution and abundance of trees with extrafloral nectaries across a tropical forest rainfall gradient. *Biotropica*.
+
+
+#### Accepted
+
+Vleminckx, J., Hogan, J.A., Metz, M.R., Comita, L.S., **Queenborough, S.A.**, Wright, S.J., Valencia, R., Zambrano, M., & Garwood, N.C. 0000. Decreasing flower production coincides with warmer and more humid atmospheric conditions in a Western Amazonian forest. *New Phytologist*.
+
+Sullivan, M.K.\*, Fayolle, A., Bush, E., Ofuso-Bamfo, B. Vleminckx, J., Metz, M.R., & **Queenborough, S.A.** 0000. Cascading effects of climate change: new advances in drivers and shifts of tropical reproductive phenology. *Plant Ecology*. 
 
 
 #### 2023
