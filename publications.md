@@ -55,7 +55,7 @@ Deng, T.\*, Zhu, Y., & **Queenborough, S.A.** 0000. Environmental drivers of spe
 
 Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li, Chengjin Chu. 0000. Ontogenetic shifts in sex ratios and underlying processes in a dioecious tree species. *Journal of Ecology*.
 
-Baker, T.R. et al. (200 co-authors). 0000. Larger range sizes link fast demographic rates with higher species richness across the tree flora of the wet tropics. *Nature Communications*. 
+Baker, T.R. et al. (200 co-authors). 0000. Larger range sizes link fast demographic rates with higher species richness across the tree flora of the wet tropics. *New Phytologist*. 
 
 Gurung, B.\*, Mendelsohn, R., & **Queenborough, S.A.** 0000. Economics of tiger conservation: a case of Khata Wildlife Corridor in Nepal. *Oryx*.
 
@@ -64,9 +64,9 @@ Liu, J.\*\*, Anderson, L.\*\*, & **Queenborough, S.A.** 0000. Distribution and a
 
 #### Accepted
 
-Vleminckx, J., Hogan, J.A., Metz, M.R., Comita, L.S., **Queenborough, S.A.**, Wright, S.J., Valencia, R., Zambrano, M., & Garwood, N.C. 0000. Decreasing flower production coincides with warmer and more humid atmospheric conditions in a Western Amazonian forest. *New Phytologist*. [doi](https://doi.org/10.1111/nph.19388): 10.1111/nph.19388
+Vleminckx, J., Hogan, J.A., Metz, M.R., Comita, L.S., **Queenborough, S.A.**, Wright, S.J., Valencia, R., Zambrano, M., & Garwood, N.C. 2023. Decreasing flower production coincides with warmer and more humid atmospheric conditions in a Western Amazonian forest. *New Phytologist*. [doi](https://doi.org/10.1111/nph.19388): 10.1111/nph.19388
 
-Sullivan, M.K.\*, Fayolle, A., Bush, E., Ofuso-Bamfo, B. Vleminckx, J., Metz, M.R., & **Queenborough, S.A.** 0000. Cascading effects of climate change: new advances in drivers and shifts of tropical reproductive phenology. *Plant Ecology*. 
+Sullivan, M.K.\*, Fayolle, A., Bush, E., Ofuso-Bamfo, B. Vleminckx, J., Metz, M.R., & **Queenborough, S.A.** 2024. Cascading effects of climate change: new advances in drivers and shifts of tropical reproductive phenology. *Plant Ecology*. 
 
 
 #### 2023
