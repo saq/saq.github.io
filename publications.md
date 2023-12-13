@@ -154,7 +154,7 @@ Ninazunta, M\*\*, **Queenborough, SA**, Hernández, C & Valencia, R. 2016. Growt
 
 Gutiérrez-Santiago, J.\*, Jasso-Mata, J., **Queenborough, S.A.**, Soto-Hernández, M., Rzedowski, J., Jiménez-Casas, M., & Castillo-Martínez, C.R. 2016. Sexual classification of linaloe (*Bursera linanoe*, Burseraceae) and productive implications for the essential oil, in three natural populations in the state of Guerrero, Mexico. *Agroproductividad*, **9**, 66--72.
 
-Muehleisen, M.\*, **Queenborough, S.A.**, Alvia Zambano, L.P., Valencia, R., & Fiala, B. 2016. Incidence of extra-floral nectaries and their relationship to growth and survival of lowland tropical rain forest trees. *Biotropica*, **48**, 321--331. [doi](http://dx.doi.org/10.1111/btp.12310/): 10.1111/btp.12310
+Muehleisen, M.\*, **Queenborough, S.A.**, Alvia Zambano, L.P., Valencia, R., & Fiala, B. 2016. Incidence of extra-floral nectaries and their relationship to growth and survival of lowland tropical rain forest trees. *Biotropica*, **48**, 321--331. [doi](https://doi.org/10.1111/btp.12310): 10.1111/btp.12310
 
 
 #### 2015
