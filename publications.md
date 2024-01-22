@@ -51,7 +51,7 @@ Santacruz, P.\*, Lozinguez, A., Montufar, R., **Queenborough, S.A.**, Endara, M.
 
 Rodríguez-Ortega, C.\*\*, Utreras, D., Báez, S., Donoso, D.A., Endara, M.J., Forrister, D.L., **Queenborough, S.A.**, Alvia P., Menéndez-Guerrero, P.A., & Cárdenas, R.E. 0000. Defense strategies of an Amazonian myrmecophyte: effects of ant identity and survival implications on its host plants. *Frontiers in Ecology and Evolution*. 
 
-Deng, T.\*, Zhu, Y., & **Queenborough, S.A.** 0000. Environmental drivers of species diversity in the herbaceous and woody plant understory community of a warm-temperate forest. *Journal of Biogeography*.
+Deng, T.\*, Zhu, Y., & **Queenborough, S.A.** 0000. Environmental drivers of species diversity in the herbaceous and woody plant understory community of a warm-temperate forest. *Oecologia*.
 
 Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li, Chengjin Chu. 0000. Ontogenetic shifts in sex ratios and underlying processes in a dioecious tree species. *Journal of Ecology*.
 
