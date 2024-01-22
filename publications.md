@@ -43,13 +43,13 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 #### in review
 
-Sullivan, M., Vleminckx, J., Bissiemou, P., Niangadouma, R., Mayoungou, M., Temba, J. la M., Bénédet, F., Abernethy, K., **Queenborough, S.A.**, Comita, L.S. 0000. Impacts of low-intensity selective logging on species and functional composition in a Central African tropical forest. *Ecologcal Applications*
+Sullivan, M., Vleminckx, J., Bissiemou, P., Niangadouma, R., Mayoungou, M., Temba, J. la M., Bénédet, F., Abernethy, K., **Queenborough, S.A.**, & Comita, L.S. 0000. Impacts of low-intensity selective logging on species and functional composition in a Central African tropical forest. *Ecologcal Applications*
 
-Kambach, S., Bruelheide, H. Comita, L.S., Condit, R., Aguilar, S., Chang-Yang, C.H., Chen, Y.-Y., Garwood, N.C., Hubbell, S.P., Metz, M.R., Pérez, R., **Queenborough, S.A.**, Sun, I.F. Swenson, N.G., Thompson, J., Uriarte, M., Valencia, R., Wright, S.J., Leong Yao, T., Zimmerman, J., Rüger, N. 0000. Putting seedling demography on the map: Trade-offs in demographic rates from seedlings to the largest trees in five tropical forests. *Ecology*.
+Kambach, S., Bruelheide, H. Comita, L.S., Condit, R., Aguilar, S., Chang-Yang, C.H., Chen, Y.-Y., Garwood, N.C., Hubbell, S.P., Metz, M.R., Pérez, R., **Queenborough, S.A.**, Sun, I.F. Swenson, N.G., Thompson, J., Uriarte, M., Valencia, R., Wright, S.J., Leong Yao, T., Zimmerman, J., & Rüger, N. 0000. Putting seedling demography on the map: Trade-offs in demographic rates from seedlings to the largest trees in five tropical forests. *Ecology*.
 
-Santacruz, P.\*, Lozinguez, A., Montufar, R., **Queenborough, S.A.**, Endara, M.J., Obando-Tello, B., Couvreur, T.L.P. 0000. Exploring Annonaceae insect interactions in a local rain forest community of Amazonian Ecuador. *Biotropica*.
+Santacruz, P.\*, Lozinguez, A., Montufar, R., **Queenborough, S.A.**, Endara, M.J., Obando-Tello, B., & Couvreur, T.L.P. 0000. Exploring Annonaceae insect interactions in a local rain forest community of Amazonian Ecuador. *Biotropica*.
 
-Rodríguez-Ortega, C.\*\*, Utreras, D., Báez, S., Donoso, D.A., Endara, M.J., Forrister, D.L., **Queenborough, S.A.**, Alvia P., Menéndez-Guerrero, P.A., Cárdenas, R.E. 0000. Defense strategies of an Amazonian myrmecophyte: effects of ant identity and survival implications on its host plants. *Frontiers in Ecology and Evolution*. 
+Rodríguez-Ortega, C.\*\*, Utreras, D., Báez, S., Donoso, D.A., Endara, M.J., Forrister, D.L., **Queenborough, S.A.**, Alvia P., Menéndez-Guerrero, P.A., & Cárdenas, R.E. 0000. Defense strategies of an Amazonian myrmecophyte: effects of ant identity and survival implications on its host plants. *Frontiers in Ecology and Evolution*. 
 
 Deng, T.\*, Zhu, Y., & **Queenborough, S.A.** 0000. Environmental drivers of species diversity in the herbaceous and woody plant understory community of a warm-temperate forest. *Journal of Biogeography*.
 
@@ -65,21 +65,24 @@ Liu, J.\*\*, Anderson, L.\*\*, & **Queenborough, S.A.** 0000. Distribution and a
 <!-- #### Accepted -->
 
 
+#### 2024
 
-#### 2023
 Vleminckx, J., Hogan, J.A., Metz, M.R., Comita, L.S., **Queenborough, S.A.**, Wright, S.J., Valencia, R., Zambrano, M., & Garwood, N.C. 2023. Decreasing flower production coincides with warmer and more humid atmospheric conditions in a Western Amazonian forest. *New Phytologist*, 241, 1035-1046. [doi](https://doi.org/10.1111/nph.19388): 10.1111/nph.19388
 
-Sullivan, M.K.\*, Fayolle, A., Bush, E., Ofuso-Bamfo, B. Vleminckx, J., Metz, M.R., & **Queenborough, S.A.** 2024. Cascading effects of climate change: new advances in drivers and shifts of tropical reproductive phenology. *Plant Ecology*. [doi](https://doi.org/10.1007/s11258-023-01377-3): 10.1007/s11258-023-01377-3
+
+#### 2023
+
+Sullivan, M.K.\*, Fayolle, A., Bush, E., Ofuso-Bamfo, B. Vleminckx, J., Metz, M.R., & **Queenborough, S.A.** 2023. Cascading effects of climate change: new advances in drivers and shifts of tropical reproductive phenology. *Plant Ecology*. [doi](https://doi.org/10.1007/s11258-023-01377-3): 10.1007/s11258-023-01377-3
 
 Garwood, N.C., Metz, M.R., **Queenborough, S.A.**, Persson, V., Wright, S.J., Burslem, D.F.R.P., Zambrano, M., & Valencia, R. 2023. Seasonality of reproduction in an ever-wet lowland tropical forest in Amazonian Ecuador. *Ecology*, 104, e4133. [doi](https://doi.org/10.1002/ecy.4133): 10.1002/ecy.4133
 
-Eck, J.\*, Delavaux, C.\*, Wilson, D., **Queenborough, S.A.**, Comita, L.S. 2023. Seedling performance in a dioecious tree species is similar near female and male conspecific adults despite differences in colonization by arbuscular mycorrhizal fungi. *Oikos*, 2023, e09974. [doi](https://dx.doi.org/10.1111/oik.09974): 10.1111/oik.09974
+Eck, J.\*, Delavaux, C.\*, Wilson, D., **Queenborough, S.A.**, & Comita, L.S. 2023. Seedling performance in a dioecious tree species is similar near female and male conspecific adults despite differences in colonization by arbuscular mycorrhizal fungi. *Oikos*, 2023, e09974. [doi](https://dx.doi.org/10.1111/oik.09974): 10.1111/oik.09974
 
 Remshard, M. & **Queenborough, S.A.** 2023.  Design of tables for the presentation and communication of data in ecological and evolutionary biology. *Ecology & Evolution*, 13, e10062. [doi](https://dx.doi.org/10.1002/ece3.10062): 10.1002/ece3.10062 
 
 Pak, D., Swamy, V. Alvarez, P., Cornejo, F., **Queenborough, S.A.**, Metz, M.R., Terborgh, J., Valencia, R., Wright, S.J., Garwood, N.C., & Lasky, J.R. 2023. Multi-scale phenological niches in hyperdiverse Amazonian plant communities. *Ecology*, 104, e4022. [doi](https://doi.org/10.1002/ecy.4022): 10.1002/ecy.4022
 
-Venugopalan Nair Radhamoni, H.\*, **Queenborough, S.A.**, Arietta, A.Z.A., Suresh, H.S., Dattaraja, H.S., Kumar, S.S., Sukumar, R., Comita, L.S. 2023. Local- and landscape-scale drivers of terrestrial herbaceous plant diversity along a tropical rainfall gradient in Western Ghats, India. *Journal of Ecology*, 111, 1021--1036. [doi](http://doi.org/10.1111/1365-2745.14075): 10.1111/1365-2745.14075
+Venugopalan Nair Radhamoni, H.\*, **Queenborough, S.A.**, Arietta, A.Z.A., Suresh, H.S., Dattaraja, H.S., Kumar, S.S., Sukumar, R., & Comita, L.S. 2023. Local- and landscape-scale drivers of terrestrial herbaceous plant diversity along a tropical rainfall gradient in Western Ghats, India. *Journal of Ecology*, 111, 1021--1036. [doi](http://doi.org/10.1111/1365-2745.14075): 10.1111/1365-2745.14075
 
 He, Q.\*, **Queenborough, S.A.**, Zhang, Y., Wang, W., Li, B., Zhao, K., Luo, W., Tang, H., Lin, W., & Chu, C. 2023. Effects of tree sex, maturity, local abiotic and biotic neighborhoods on the growth of a subtropical dioecious tree species *Diospyros morrisiana* (Ebenaceae). *American Journal of Botany*, 110, e16124.  [doi](http://doi.org/10.1002/ajb2.16124): 10.1002/ajb2.16124
 
