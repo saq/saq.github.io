@@ -43,6 +43,7 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 #### in review
 
+Radhamoni, H. V. N., Vleminckx, J., Umaña, M. N., **Queenborough, S. A.,** Comita, L. S., Suresh, H. S., Dattaraja, H. S., Kumar, S. S. & Sukumar, R. 0000. β-diversity of herbaceous versus woody plant communities across a tropical rainfall gradient. *Journal of Vegetation Sciences*.
 
 Kambach, S., Bruelheide, H. Comita, L.S., Condit, R., Aguilar, S., Chang-Yang, C.H., Chen, Y.-Y., Garwood, N.C., Hubbell, S.P., Metz, M.R., Pérez, R., **Queenborough, S.A.**, Sun, I.F. Swenson, N.G., Thompson, J., Uriarte, M., Valencia, R., Wright, S.J., Leong Yao, T., Zimmerman, J., & Rüger, N. 0000. Putting seedling demography on the map: Trade-offs in demographic rates from seedlings to the largest trees in five tropical forests. *Ecology*.
 
@@ -84,7 +85,7 @@ Remshard, M. & **Queenborough, S.A.** 2023.  Design of tables for the presentati
 
 Pak, D., Swamy, V. Alvarez, P., Cornejo, F., **Queenborough, S.A.**, Metz, M.R., Terborgh, J., Valencia, R., Wright, S.J., Garwood, N.C., & Lasky, J.R. 2023. Multi-scale phenological niches in hyperdiverse Amazonian plant communities. *Ecology*, 104, e4022. [doi](https://doi.org/10.1002/ecy.4022): 10.1002/ecy.4022
 
-Venugopalan Nair Radhamoni, H.\*, **Queenborough, S.A.**, Arietta, A.Z.A., Suresh, H.S., Dattaraja, H.S., Kumar, S.S., Sukumar, R., & Comita, L.S. 2023. Local- and landscape-scale drivers of terrestrial herbaceous plant diversity along a tropical rainfall gradient in Western Ghats, India. *Journal of Ecology*, 111, 1021--1036. [doi](http://doi.org/10.1111/1365-2745.14075): 10.1111/1365-2745.14075
+Radhamoni, H. V. N.\*, **Queenborough, S.A.**, Arietta, A.Z.A., Suresh, H.S., Dattaraja, H.S., Kumar, S.S., Sukumar, R., & Comita, L.S. 2023. Local- and landscape-scale drivers of terrestrial herbaceous plant diversity along a tropical rainfall gradient in Western Ghats, India. *Journal of Ecology*, 111, 1021--1036. [doi](http://doi.org/10.1111/1365-2745.14075): 10.1111/1365-2745.14075
 
 He, Q.\*, **Queenborough, S.A.**, Zhang, Y., Wang, W., Li, B., Zhao, K., Luo, W., Tang, H., Lin, W., & Chu, C. 2023. Effects of tree sex, maturity, local abiotic and biotic neighborhoods on the growth of a subtropical dioecious tree species *Diospyros morrisiana* (Ebenaceae). *American Journal of Botany*, 110, e16124.  [doi](http://doi.org/10.1002/ajb2.16124): 10.1002/ajb2.16124
 
