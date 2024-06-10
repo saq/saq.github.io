@@ -43,7 +43,7 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 #### in review
 
-Radhamoni, H. V. N., Vleminckx, J., Umaña, M. N., **Queenborough, S. A.,** Comita, L. S., Suresh, H. S., Dattaraja, H. S., Kumar, S. S. & Sukumar, R. 0000. β-diversity of herbaceous versus woody plant communities across a tropical rainfall gradient. *Journal of Vegetation Sciences*.
+Radhamoni, H. V. N.\*, Vleminckx, J., Umaña, M. N., **Queenborough, S. A.,** Comita, L. S., Suresh, H. S., Dattaraja, H. S., Kumar, S. S. & Sukumar, R. 0000. β-diversity of herbaceous versus woody plant communities across a tropical rainfall gradient. *Journal of Vegetation Sciences*.
 
 Kambach, S., Bruelheide, H. Comita, L.S., Condit, R., Aguilar, S., Chang-Yang, C.H., Chen, Y.-Y., Garwood, N.C., Hubbell, S.P., Metz, M.R., Pérez, R., **Queenborough, S.A.**, Sun, I.F. Swenson, N.G., Thompson, J., Uriarte, M., Valencia, R., Wright, S.J., Leong Yao, T., Zimmerman, J., & Rüger, N. 0000. Putting seedling demography on the map: Trade-offs in demographic rates from seedlings to the largest trees in five tropical forests. *Ecology*.
 
@@ -68,7 +68,7 @@ Liu, J.\*\*, Anderson, L.\*\*, & **Queenborough, S.A.** 0000. Distribution and a
 #### 2024
 
 
-Sullivan, M., Vleminckx, J., Bissiemou, P., Niangadouma, R., Mayoungou, M., Temba, J. la M., Bénédet, F., Abernethy, K., **Queenborough, S.A.**, & Comita, L.S. 2024. Impacts of low-intensity selective logging on species and functional composition in a Central African tropical forest. *Global Ecology and Conservation* e02996. [doi](https://doi.org/10.1016/j.gecco.2024.e02996): 10.1016/j.gecco.2024.e02996
+Sullivan, M.\*, Vleminckx, J., Bissiemou, P., Niangadouma, R., Mayoungou, M., Temba, J. la M., Bénédet, F., Abernethy, K., **Queenborough, S.A.**, & Comita, L.S. 2024. Impacts of low-intensity selective logging on species and functional composition in a Central African tropical forest. *Global Ecology and Conservation* e02996. [doi](https://doi.org/10.1016/j.gecco.2024.e02996): 10.1016/j.gecco.2024.e02996
 
 Vleminckx, J., Hogan, J.A., Metz, M.R., Comita, L.S., **Queenborough, S.A.**, Wright, S.J., Valencia, R., Zambrano, M., & Garwood, N.C. 2023. Decreasing flower production coincides with warmer and more humid atmospheric conditions in a Western Amazonian forest. *New Phytologist*, 241, 1035-1046. [doi](https://doi.org/10.1111/nph.19388): 10.1111/nph.19388
 
@@ -81,9 +81,9 @@ Garwood, N.C., Metz, M.R., **Queenborough, S.A.**, Persson, V., Wright, S.J., Bu
 
 Eck, J.\*, Delavaux, C.\*, Wilson, D., **Queenborough, S.A.**, & Comita, L.S. 2023. Seedling performance in a dioecious tree species is similar near female and male conspecific adults despite differences in colonization by arbuscular mycorrhizal fungi. *Oikos*, 2023, e09974. [doi](https://dx.doi.org/10.1111/oik.09974): 10.1111/oik.09974
 
-Remshard, M. & **Queenborough, S.A.** 2023.  Design of tables for the presentation and communication of data in ecological and evolutionary biology. *Ecology & Evolution*, 13, e10062. [doi](https://dx.doi.org/10.1002/ece3.10062): 10.1002/ece3.10062 
+Remshard, M.\* & **Queenborough, S.A.** 2023.  Design of tables for the presentation and communication of data in ecological and evolutionary biology. *Ecology & Evolution*, 13, e10062. [doi](https://dx.doi.org/10.1002/ece3.10062): 10.1002/ece3.10062 
 
-Pak, D., Swamy, V. Alvarez, P., Cornejo, F., **Queenborough, S.A.**, Metz, M.R., Terborgh, J., Valencia, R., Wright, S.J., Garwood, N.C., & Lasky, J.R. 2023. Multi-scale phenological niches in hyperdiverse Amazonian plant communities. *Ecology*, 104, e4022. [doi](https://doi.org/10.1002/ecy.4022): 10.1002/ecy.4022
+Pak, D.\*, Swamy, V. Alvarez, P., Cornejo, F., **Queenborough, S.A.**, Metz, M.R., Terborgh, J., Valencia, R., Wright, S.J., Garwood, N.C., & Lasky, J.R. 2023. Multi-scale phenological niches in hyperdiverse Amazonian plant communities. *Ecology*, 104, e4022. [doi](https://doi.org/10.1002/ecy.4022): 10.1002/ecy.4022
 
 Radhamoni, H. V. N.\*, **Queenborough, S.A.**, Arietta, A.Z.A., Suresh, H.S., Dattaraja, H.S., Kumar, S.S., Sukumar, R., & Comita, L.S. 2023. Local- and landscape-scale drivers of terrestrial herbaceous plant diversity along a tropical rainfall gradient in Western Ghats, India. *Journal of Ecology*, 111, 1021--1036. [doi](http://doi.org/10.1111/1365-2745.14075): 10.1111/1365-2745.14075
 
