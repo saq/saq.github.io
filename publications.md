@@ -49,7 +49,7 @@ Kambach, S., Bruelheide, H. Comita, L.S., Condit, R., Aguilar, S., Chang-Yang, C
 
 Santacruz, P.\*, Lozinguez, A., Montufar, R., **Queenborough, S.A.**, Endara, M.J., Obando-Tello, B., & Couvreur, T.L.P. 0000. Exploring Annonaceae insect interactions in a local rain forest community of Amazonian Ecuador. *Biotropica*.
 
-Rodríguez-Ortega, C.\*\*, Utreras, D., Báez, S., Donoso, D.A., Endara, M.J., Forrister, D.L., **Queenborough, S.A.**, Alvia P., Menéndez-Guerrero, P.A., & Cárdenas, R.E. 0000. Defense strategies of an Amazonian myrmecophyte: effects of ant identity and survival implications on its host plants. *Frontiers in Ecology and Evolution*. 
+Cárdenas, R.E., Rodríguez-Ortega, C.\*\*, Utreras, D., Forrister, D.L., Endara, M.J., **Queenborough, S.A.**, Alvia P., Menéndez-Guerrero, P.A., Báez, S., & Donoso, D.A., 0000. Long-term strict ant-plant mutualism identity defines growth rate and leaf shearing resistance of an Amazonian myrmecophyte. *Scientific Reports*. 
 
 Deng, T.\*, Zhu, Y., & **Queenborough, S.A.** 0000. Environmental drivers of species diversity in the herbaceous and woody plant understory community of a warm-temperate forest. *Oecologia*.
 
