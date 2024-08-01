@@ -51,8 +51,6 @@ Kambach, S., Bruelheide, H. Comita, L.S., Condit, R., Aguilar, S., Chang-Yang, C
 
 Santacruz, P.\*, Lozinguez, A., Montufar, R., **Queenborough, S.A.**, Endara, M.J., Obando-Tello, B., & Couvreur, T.L.P. 0000. Exploring Annonaceae insect interactions in a local rain forest community of Amazonian Ecuador. *Biotropica*.
 
-Cárdenas, R.E., Rodríguez-Ortega, C.\*\*, Utreras, D., Forrister, D.L., Endara, M.J., **Queenborough, S.A.**, Alvia P., Menéndez-Guerrero, P.A., Báez, S., & Donoso, D.A., 0000. Long-term strict ant-plant mutualism identity defines growth rate and leaf shearing resistance of an Amazonian myrmecophyte. *Scientific Reports*. 
-
 Deng, T.\*, Zhu, Y., & **Queenborough, S.A.** 0000. Environmental drivers of species diversity in the herbaceous and woody plant understory community of a warm-temperate forest. *Oecologia*.
 
 Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li, Chengjin Chu. 0000. Ontogenetic shifts in sex ratios and underlying processes in a dioecious tree species. *Journal of Ecology*.
@@ -69,6 +67,7 @@ Liu, J.\*\* & **Queenborough, S.A.** 0000. Distribution and abundance of trees w
 
 #### 2024
 
+Cárdenas, R.E., Rodríguez-Ortega, C.\*\*, Utreras, D., Forrister, D.L., Endara, M.J., **Queenborough, S.A.**, Alvia P., Menéndez-Guerrero, P.A., Báez, S., & Donoso, D.A., 2024. Long-term strict ant-plant mutualism identity defines growth rate and leaf shearing resistance of an Amazonian myrmecophyte. *Scientific Reports*, 14, 17813. [doi](https://doi.org/10.1038/s41598-024-67140-4): 10.1038/s41598-024-67140-4 
 
 Sullivan, M.\*, Vleminckx, J., Bissiemou, P., Niangadouma, R., Mayoungou, M., Temba, J. la M., Bénédet, F., Abernethy, K., **Queenborough, S.A.**, & Comita, L.S. 2024. Impacts of low-intensity selective logging on species and functional composition in a Central African tropical forest. *Global Ecology and Conservation* e02996. [doi](https://doi.org/10.1016/j.gecco.2024.e02996): 10.1016/j.gecco.2024.e02996
 
