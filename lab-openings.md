@@ -23,11 +23,11 @@ If you are interested in developing a grant proposal, either for NSF or another 
 
 YSE has an excellent [joint PhD program](https://environment.yale.edu/doctoral/degrees/joint-nybg/) with New York Botanical Garden.
 
-In my current non-ladder faculty position, I am unable to directly supervise PhD students, but can co-advise if they are registered with ladder faculty. 
+In my current non-ladder faculty position, I am **not able** to directly supervise PhD students, but can co-advise if they are registered with ladder faculty. 
 
 #### Masters
 
-I am able to directly advise Masters students in the MESc and MFS programs, as well as advise MEM and MF students.
+I **am able** to directly advise Masters students in the MESc and MFS programs, as well as advise MEM and MF students.
 
 The qualities I look for in graduate students include: highly motivated to pursue answers to outstanding questions in ecology and evolution, an integrative research approach, ability to learn and train themselves, good quantitative, analytical, reasoning, writing and editing skills.
 
