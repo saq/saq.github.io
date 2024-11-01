@@ -8,6 +8,25 @@ title: Lab Openings
 
 **Updated: Fall 2024**
 
+Our research is motivated by the striking differences between plants and animals. The sessile nature, modular construction, and evolutionary flexibility that plants exhibit lead to intriguing challenges in ‘thinking like a plant’.
+
+Such challenges include:
+ - how over 600 species of tree can coexist within 1-ha of rain forest;
+ - how plants allocate limited resources to growth, defense, or reproduction;
+ - and how populations respond to biotic and abiotic factors.
+
+Answering these fundamental biological questions is essential for predicting how anthropogenic impacts (such as climate change and land-use change) will alter forests in the future; and how we can better manage, conserve, and restore forests to mitigate these impacts.
+
+Using a range of techniques from greenhouse experiments, long-term census data, and literature and herbarium research to large-scale data collection and cutting-edge statistical modelling, we address just such a variety of pure and applied questions that are ultimately concerned with how individuals, species and communities (including humans) interact over both ecological and evolutionary time.
+
+REMOTE RESEARCH
+Comparative macroecological studies offer insight into the diversity of ways that organisms ‘make a living’. Understanding how the abiotic and biotic environments shape trait evolution and organismal function is vital to inform principles of biogeography and determine the limits of species distributions. These projects develop databases of plant leaf traits that we integrate with existing data on plant distributions (often networks of tree plots), to ask how plant form and function vary in response to climate.
+
+FIELD RESEARCH
+Most of my field research is carried out in the Amazonian lowland rain forest of Yasuni National Park, Ecuador, where we have long-term projects studying the population dynamics, phenology, and reproductive ecology of tropical trees and herbs in a large mapped forest plot. Students in EEB and EVST are eligible for funding from Yale and the Yale Tropical Resources Institute to carry out fieldwork here over the summer!
+
+
+
 ### Post-docs
 If you are interested in developing a grant proposal, either for NSF or another source, please get in touch!
 
