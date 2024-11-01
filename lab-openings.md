@@ -6,7 +6,7 @@ title: Lab Openings
 
 # Lab Openings
 
-**Updated: Spring 2023**
+**Updated: Fall 2024**
 
 ### Post-docs
 If you are interested in developing a grant proposal, either for NSF or another source, please get in touch!
