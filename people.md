@@ -4,13 +4,6 @@ title: People
 
 ---
 
-# Join Us!
-
-Are you interested in tropical ecology? Do you have extensive field experience or quantitative skills? Do you want to gain these skills?
-
-[Learn more!](./lab-openings.html)
-
-
 # Lab Members
 
 ## Principle Investigator: Simon A. Queenborough
