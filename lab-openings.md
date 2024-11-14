@@ -19,15 +19,15 @@ Answering these fundamental biological questions is essential for predicting how
 
 Using a range of techniques from greenhouse experiments, long-term census data, and literature and herbarium research to large-scale data collection and cutting-edge statistical modelling, we address just such a variety of pure and applied questions that are ultimately concerned with how individuals, species and communities (including humans) interact over both ecological and evolutionary time.
 
-REMOTE RESEARCH
+**REMOTE RESEARCH**
 Comparative macroecological studies offer insight into the diversity of ways that organisms ‘make a living’. Understanding how the abiotic and biotic environments shape trait evolution and organismal function is vital to inform principles of biogeography and determine the limits of species distributions. These projects develop databases of plant leaf traits that we integrate with existing data on plant distributions (often networks of tree plots), to ask how plant form and function vary in response to climate.
 
-FIELD RESEARCH
-Most of my field research is carried out in the Amazonian lowland rain forest of Yasuni National Park, Ecuador, where we have long-term projects studying the population dynamics, phenology, and reproductive ecology of tropical trees and herbs in a large mapped forest plot. Students in EEB and EVST are eligible for funding from Yale and the Yale Tropical Resources Institute to carry out fieldwork here over the summer!
+**FIELD RESEARCH**
+Most of our field research is carried out in the lowland Amazonian rain forest of Yasuni National Park, Ecuador, where we have long-term projects studying the population dynamics, phenology, and reproductive ecology of tropical trees and herbs in a large mapped forest plot. Students in YSE, EEB, and EVST are eligible for funding from Yale and the Yale Tropical Resources Institute to carry out fieldwork here.
 
 
 
-### Post-docs
+### Post-docs: yes!
 If you are interested in developing a grant proposal, either for NSF or another source, please get in touch!
 
 #### Yale-specific post-doc funding
@@ -38,13 +38,13 @@ If you are interested in developing a grant proposal, either for NSF or another 
 
 ### Graduate Students
 
-#### PhD 
+#### PhD: no, sorry
 
 YSE has an excellent [joint PhD program](https://environment.yale.edu/doctoral/degrees/joint-nybg/) with New York Botanical Garden.
 
 In my current non-ladder faculty position, I am **not able** to directly supervise PhD students, but can co-advise if they are registered with ladder faculty. 
 
-#### Masters
+#### Masters: yes!
 
 I **am able** to directly advise Masters students in the MESc and MFS programs, as well as advise MEM and MF students.
 
@@ -70,7 +70,7 @@ Each Fellowship consists of three years of support during a five-year fellowship
 More details [here](https://www.nsfgrfp.org/).
 
 
-### Undergraduate students
+### Undergraduate students: yes!
 I encourage sincere, hardworking and motivated undergraduate students to actively participate in research projects or to conduct their own independent research. Please see [here](http://www.simonqueenborough.info/people.html) for undergraduates who have worked in the lab.
 
 If you are interested in gaining practical experience in ecology and evolution and you are interested in the research described on this website, please contact me to discuss possibilities. Please include details of the courses you have taken/are taking, current GPA, etc.
