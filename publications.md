@@ -43,33 +43,39 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 #### in review
 
-Genth, L.\*\*, Metz, M.R., Valencia, R., & **Queenborough, S. A.** 0000. Standing herbivory is not affected by tree sex or conspecific density in a dioecious understory tropical tree species. *Biotropica*.
+Garcia de la Chica, A., van der Heide, G., Lois, N., Wood, D.B., **Queenborough, S.A.**, & Fernandez-Duque, E. 0000.  Disentangling the dynamics among climate, food availability, and reproduction in a pair-living, monogamous primate. *Proceedings of the Royal Society B.*, 0, 00.
+
+Grover, E.C.\*, Metz, M.R., Valencia, R., & **Queenborough, S.A.** 0000. Influence of tree height and age on leaf drip-tip morphology in lowland tropical rain forest trees. *Functional Ecology*, 0, 00. 
+
+Sullivan, M.K.\*, Browne, L. Bissiemou, P.A.M., Niangadouma, R. Abernethy, K., **Queenborough, S.A.** & Comita, L.S. 0000. Timber and trails: low-intensity selective logging and elephant trails shape seedling dynamics in a Central African tropical forest. *Ecological Applications*, 0, 00. 
 
 Radhamoni, H. V. N.\*, Vleminckx, J., Umaña, M. N., **Queenborough, S. A.,** Comita, L. S., Suresh, H. S., Dattaraja, H. S., Kumar, S. S. & Sukumar, R. 0000. β-diversity of herbaceous versus woody plant communities across a tropical rainfall gradient. *Journal of Vegetation Sciences*.
-
-Kambach, S., Bruelheide, H. Comita, L.S., Condit, R., Aguilar, S., Chang-Yang, C.H., Chen, Y.-Y., Garwood, N.C., Hubbell, S.P., Metz, M.R., Pérez, R., **Queenborough, S.A.**, Sun, I.F. Swenson, N.G., Thompson, J., Uriarte, M., Valencia, R., Wright, S.J., Leong Yao, T., Zimmerman, J., & Rüger, N. 0000. Putting seedling demography on the map: Trade-offs in demographic rates from seedlings to the largest trees in five tropical forests. *Ecology*.
-
-Santacruz, P.\*, Lozinguez, A., Montufar, R., **Queenborough, S.A.**, Endara, M.J., Obando-Tello, B., & Couvreur, T.L.P. 0000. Exploring Annonaceae insect interactions in a local rain forest community of Amazonian Ecuador. *Biotropica*.
 
 Deng, T.\*, Zhu, Y., & **Queenborough, S.A.** 0000. Environmental drivers of species diversity in the herbaceous and woody plant understory community of a warm-temperate forest. *Oecologia*.
 
 Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li, Chengjin Chu. 0000. Ontogenetic shifts in sex ratios and underlying processes in a dioecious tree species. *Journal of Ecology*.
 
-Baker, T.R. et al. (200 co-authors). 0000. Larger range sizes link fast demographic rates with higher species richness across the tree flora of the wet tropics. *New Phytologist*. 
-
-Gurung, B.\*, Mendelsohn, R., & **Queenborough, S.A.** 0000. Economics of tiger conservation: a case of Khata Wildlife Corridor in Nepal. *Oryx*.
-
-Liu, J.\*\* & **Queenborough, S.A.** 0000. Distribution and abundance of trees with extrafloral nectaries across a tropical forest rainfall gradient. *Plant Ecology & Diversity*.
-
 
 <!-- #### Accepted -->
+
+#### 2025
+
+Genth, L.\*\*, Metz, M.R., Valencia, R., & **Queenborough, S. A.** 2025. Standing herbivory is not affected by tree sex or conspecific density in a dioecious understory tropical tree species. *Biotropica*. Accepted.
+
+Vleminckx., J., Hogan, J.A., Metz, M.R., Comita, L.S., **Queenborough, S.A.**, Wright, S.J., Valencia, R., Zambrano, M., & Garwood, N.C. 2025. Seed production and 22 years of climatic changes in an everwet Neotropical forest. *Ecology Letters*, 27, e70019. [dio](https://doi.org/10.1111/ele.70019): 10.1111/ele.70019
+
+Baker, T.R. et al. (200 co-authors). 2025. Larger range sizes link fast demographic rates with higher species richness across the tree flora of the wet tropics. *Scientific Reports*. Accepted
+
+Santacruz, P.\*, Lozinguez, A., Montufar, R., **Queenborough, S.A.**, Endara, M.J., Obando-Tello, B., & Couvreur, T.L.P. 2025. Exploring Annonaceae insect interactions in a local rain forest community of Amazonian Ecuador. *Biotropica*, 57, e13392.  [doi](https://doi.org/10.1111/btp.13392): 10.1111/btp.13392
+
+Kambach, S., Bruelheide, H. Comita, L.S., Condit, R., Aguilar, S., Chang-Yang, C.H., Chen, Y.-Y., Garwood, N.C., Hubbell, S.P., Metz, M.R., Pérez, R., **Queenborough, S.A.**, Sun, I.F. Swenson, N.G., Thompson, J., Uriarte, M., Valencia, R., Wright, S.J., Leong Yao, T., Zimmerman, J., & Rüger, N. 2025. Putting seedlings on the map: Trade-offs in demographic rates between ontogenetic size classes in five tropical forests. *Ecology*, 00, 000--000. [doi](https://doi.org/10.1002/ecy.4527): 10.1002/ecy.4527
 
 
 #### 2024
 
 Cárdenas, R.E., Rodríguez-Ortega, C.\*\*, Utreras, D., Forrister, D.L., Endara, M.J., **Queenborough, S.A.**, Alvia P., Menéndez-Guerrero, P.A., Báez, S., & Donoso, D.A., 2024. Long-term strict ant-plant mutualism identity defines growth rate and leaf shearing resistance of an Amazonian myrmecophyte. *Scientific Reports*, 14, 17813. [doi](https://doi.org/10.1038/s41598-024-67140-4): 10.1038/s41598-024-67140-4 
 
-Sullivan, M.\*, Vleminckx, J., Bissiemou, P., Niangadouma, R., Mayoungou, M., Temba, J. la M., Bénédet, F., Abernethy, K., **Queenborough, S.A.**, & Comita, L.S. 2024. Impacts of low-intensity selective logging on species and functional composition in a Central African tropical forest. *Global Ecology and Conservation* e02996. [doi](https://doi.org/10.1016/j.gecco.2024.e02996): 10.1016/j.gecco.2024.e02996
+Sullivan, M.\*, Vleminckx, J., Bissiemou, P., Niangadouma, R., Mayoungou, M., Temba, J. la M., Bénédet, F., Abernethy, K., **Queenborough, S.A.**, & Comita, L.S. 2024. Low-intensity logging alters species and functional composition, but does not negatively impact key ecosystem services in a Central African tropical forest. *Global Ecology and Conservation*, 53, e02996. [doi](https://doi.org/10.1016/j.gecco.2024.e02996): 10.1016/j.gecco.2024.e02996
 
 Vleminckx, J., Hogan, J.A., Metz, M.R., Comita, L.S., **Queenborough, S.A.**, Wright, S.J., Valencia, R., Zambrano, M., & Garwood, N.C. 2023. Decreasing flower production coincides with warmer and more humid atmospheric conditions in a Western Amazonian forest. *New Phytologist*, 241, 1035--1046. [doi](https://doi.org/10.1111/nph.19388): 10.1111/nph.19388
 
