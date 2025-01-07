@@ -79,10 +79,10 @@ Sullivan, M.\*, Vleminckx, J., Bissiemou, P., Niangadouma, R., Mayoungou, M., Te
 
 Vleminckx, J., Hogan, J.A., Metz, M.R., Comita, L.S., **Queenborough, S.A.**, Wright, S.J., Valencia, R., Zambrano, M., & Garwood, N.C. 2023. Decreasing flower production coincides with warmer and more humid atmospheric conditions in a Western Amazonian forest. *New Phytologist*, 241, 1035--1046. [doi](https://doi.org/10.1111/nph.19388): 10.1111/nph.19388
 
+Sullivan, M.K.\*, Fayolle, A., Bush, E., Ofuso-Bamfo, B. Vleminckx, J., Metz, M.R., & **Queenborough, S.A.** 2024. Cascading effects of climate change: new advances in drivers and shifts of tropical reproductive phenology. *Plant Ecology*, 225, 175–187. [doi](https://doi.org/10.1007/s11258-023-01377-3): 10.1007/s11258-023-01377-3
+
 
 #### 2023
-
-Sullivan, M.K.\*, Fayolle, A., Bush, E., Ofuso-Bamfo, B. Vleminckx, J., Metz, M.R., & **Queenborough, S.A.** 2023. Cascading effects of climate change: new advances in drivers and shifts of tropical reproductive phenology. *Plant Ecology*. [doi](https://doi.org/10.1007/s11258-023-01377-3): 10.1007/s11258-023-01377-3
 
 Garwood, N.C., Metz, M.R., **Queenborough, S.A.**, Persson, V., Wright, S.J., Burslem, D.F.R.P., Zambrano, M., & Valencia, R. 2023. Seasonality of reproduction in an ever-wet lowland tropical forest in Amazonian Ecuador. *Ecology*, 104, e4133. [doi](https://doi.org/10.1002/ecy.4133): 10.1002/ecy.4133
 
