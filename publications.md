@@ -47,7 +47,7 @@ Garcia de la Chica, A., van der Heide, G., Lois, N., Wood, D.B., **Queenborough,
 
 Grover, E.C.\*, Metz, M.R., Valencia, R., & **Queenborough, S.A.** 0000. Influence of tree height and age on leaf drip-tip morphology in lowland tropical rain forest trees. *Functional Ecology*, 0, 00. 
 
-Sullivan, M.K.\*, Browne, L. Bissiemou, P.A.M., Niangadouma, R. Abernethy, K., **Queenborough, S.A.** & Comita, L.S. 0000. Timber and trails: low-intensity selective logging and elephant trails shape seedling dynamics in a Central African tropical forest. *Ecological Applications*, 0, 00. 
+Sullivan, M.K.\*, Browne, L. Bissiemou, P.A.M., Niangadouma, R. Abernethy, K., **Queenborough, S.A.** & Comita, L.S. 0000. Timber and trails: low-intensity selective logging and elephant trails shape seedling dynamics in an Afrotropical forest. *Ecological Applications*, 0, 00. 
 
 Radhamoni, H. V. N.\*, Vleminckx, J., Umaña, M. N., **Queenborough, S. A.,** Comita, L. S., Suresh, H. S., Dattaraja, H. S., Kumar, S. S. & Sukumar, R. 0000. β-diversity of herbaceous versus woody plant communities across a tropical rainfall gradient. *Journal of Vegetation Sciences*.
 
