@@ -62,9 +62,9 @@ Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li,
 
 Genth, L.\*\*, Metz, M.R., Valencia, R., & **Queenborough, S. A.** 2025. Standing herbivory is not affected by tree sex or conspecific density in a dioecious understory tropical tree species. *Biotropica*. Accepted.
 
-Vleminckx., J., Hogan, J.A., Metz, M.R., Comita, L.S., **Queenborough, S.A.**, Wright, S.J., Valencia, R., Zambrano, M., & Garwood, N.C. 2025. Seed production and 22 years of climatic changes in an everwet Neotropical forest. *Ecology Letters*, 27, e70019. [doi](https://doi.org/10.1111/ele.70019): 10.1111/ele.70019
+Baker, T.R. et al. (200 co-authors). 2025. Larger range sizes link fast demographic rates with higher species richness across the tree flora of the wet tropics. *Scientific Reports*. Accepted.
 
-Baker, T.R. et al. (200 co-authors). 2025. Larger range sizes link fast demographic rates with higher species richness across the tree flora of the wet tropics. *Scientific Reports*. Accepted
+Vleminckx., J., Hogan, J.A., Metz, M.R., Comita, L.S., **Queenborough, S.A.**, Wright, S.J., Valencia, R., Zambrano, M., & Garwood, N.C. 2025. Seed production and 22 years of climatic changes in an everwet Neotropical forest. *Ecology Letters*, 27, e70019. [doi](https://doi.org/10.1111/ele.70019): 10.1111/ele.70019
 
 Santacruz, P.\*, Lozinguez, A., Montufar, R., **Queenborough, S.A.**, Endara, M.J., Obando-Tello, B., & Couvreur, T.L.P. 2025. Exploring Annonaceae insect interactions in a local rain forest community of Amazonian Ecuador. *Biotropica*, 57, e13392.  [doi](https://doi.org/10.1111/btp.13392): 10.1111/btp.13392
 
