@@ -51,14 +51,14 @@ Sullivan, M.K.\*, Browne, L. Bissiemou, P.A.M., Niangadouma, R. Abernethy, K., *
 
 Radhamoni, H. V. N.\*, Vleminckx, J., Umaña, M. N., **Queenborough, S. A.,** Comita, L. S., Suresh, H. S., Dattaraja, H. S., Kumar, S. S. & Sukumar, R. 0000. β-diversity of herbaceous versus woody plant communities across a tropical rainfall gradient. *Journal of Vegetation Sciences*.
 
-Deng, T.\*, Zhu, Y., & **Queenborough, S.A.** 0000. Environmental drivers of species diversity in the herbaceous and woody plant understory community of a warm-temperate forest. *Oecologia*.
-
 Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li, Chengjin Chu. 0000. Ontogenetic shifts in sex ratios and underlying processes in a dioecious tree species. *Journal of Ecology*.
 
 
 <!-- #### Accepted -->
 
 #### 2025
+
+Deng, T.\*, Du, Q., Zhu, Y., & **Queenborough, S.A.** 2025. Environmental drivers of herbaceous plant diversity in the understory community of a warm-temperate forest. *Oecologia*, 0, 00--00.
 
 Genth, L.\*\*, Metz, M.R., Valencia, R., & **Queenborough, S. A.** 2025. Standing herbivory is not affected by tree sex or conspecific density in a dioecious understory tropical tree species. *Biotropica*. Accepted.
 
