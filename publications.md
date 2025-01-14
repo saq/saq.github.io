@@ -58,7 +58,7 @@ Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li,
 
 #### 2025
 
-Deng, T.\*, Du, Q., Zhu, Y., & **Queenborough, S.A.** 2025. Environmental drivers of herbaceous plant diversity in the understory community of a warm-temperate forest. *Oecologia*, 0, 00--00.
+Deng, T.\*, Du, Q., Zhu, Y., & **Queenborough, S.A.** 2025. Environmental drivers of herbaceous plant diversity in the understory community of a warm-temperate forest. *Plant Diversity*, 0, 00--00.
 
 Genth, L.\*\*, Metz, M.R., Valencia, R., & **Queenborough, S. A.** 2025. Standing herbivory is not affected by tree sex or conspecific density in a dioecious understory tropical tree species. *Biotropica*. Accepted.
 
