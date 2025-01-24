@@ -58,7 +58,7 @@ Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li,
 
 #### 2025
 
-Deng, T.\*, Du, Q., Zhu, Y., & **Queenborough, S.A.** 2025. Environmental drivers of herbaceous plant diversity in the understory community of a warm-temperate forest. *Plant Diversity*, 0, 00--00.
+Deng, T.\*, Du, Q., Zhu, Y., & **Queenborough, S.A.** 2025. Environmental drivers of herbaceous plant diversity in the understory community of a warm-temperate forest. *Plant Diversity*, 0, 00--00. [doi](https://doi.org/10.1016/j.pld.2025.01.003): 10.1016/j.pld.2025.01.003
 
 Genth, L.\*\*, Metz, M.R., Valencia, R., & **Queenborough, S. A.** 2025. Standing herbivory is not affected by tree sex or conspecific density in a dioecious understory tropical tree species. *Biotropica*. Accepted.
 
@@ -68,7 +68,7 @@ Vleminckx., J., Hogan, J.A., Metz, M.R., Comita, L.S., **Queenborough, S.A.**, W
 
 Santacruz, P.\*, Lozinguez, A., Montufar, R., **Queenborough, S.A.**, Endara, M.J., Obando-Tello, B., & Couvreur, T.L.P. 2025. Exploring Annonaceae insect interactions in a local rain forest community of Amazonian Ecuador. *Biotropica*, 57, e13392.  [doi](https://doi.org/10.1111/btp.13392): 10.1111/btp.13392
 
-Kambach, S., Bruelheide, H. Comita, L.S., Condit, R., Aguilar, S., Chang-Yang, C.H., Chen, Y.-Y., Garwood, N.C., Hubbell, S.P., Metz, M.R., Pérez, R., **Queenborough, S.A.**, Sun, I.F. Swenson, N.G., Thompson, J., Uriarte, M., Valencia, R., Wright, S.J., Leong Yao, T., Zimmerman, J., & Rüger, N. 2025. Putting seedlings on the map: Trade-offs in demographic rates between ontogenetic size classes in five tropical forests. *Ecology*, 00, 000--000. [doi](https://doi.org/10.1002/ecy.4527): 10.1002/ecy.4527
+Kambach, S., Bruelheide, H. Comita, L.S., Condit, R., Aguilar, S., Chang-Yang, C.H., Chen, Y.-Y., Garwood, N.C., Hubbell, S.P., Metz, M.R., Pérez, R., **Queenborough, S.A.**, Sun, I.F. Swenson, N.G., Thompson, J., Uriarte, M., Valencia, R., Wright, S.J., Leong Yao, T., Zimmerman, J., & Rüger, N. 2025. Putting seedlings on the map: Trade-offs in demographic rates between ontogenetic size classes in five tropical forests. *Ecology*, 106, e4527. [doi](https://doi.org/10.1002/ecy.4527): 10.1002/ecy.4527
 
 
 #### 2024
