@@ -49,14 +49,13 @@ Grover, E.C.\*, Metz, M.R., Valencia, R., & **Queenborough, S.A.** 0000. Influen
 
 Sullivan, M.K.\*, Browne, L. Bissiemou, P.A.M., Niangadouma, R. Abernethy, K., **Queenborough, S.A.** & Comita, L.S. 0000. Timber and trails: low-intensity selective logging and elephant trails shape seedling dynamics in an Afrotropical forest. *Ecological Applications*, 0, 00. 
 
-Radhamoni, H. V. N.\*, Vleminckx, J., Umaña, M. N., **Queenborough, S. A.,** Comita, L. S., Suresh, H. S., Dattaraja, H. S., Kumar, S. S. & Sukumar, R. 0000. β-diversity of herbaceous versus woody plant communities across a tropical rainfall gradient. *Journal of Vegetation Sciences*.
-
 Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li, Chengjin Chu. 0000. Ontogenetic shifts in sex ratios and underlying processes in a dioecious tree species. *Journal of Ecology*.
 
 
 <!-- #### Accepted -->
 
 #### 2025
+Radhamoni, H. V. N.\*, Vleminckx, J., Umaña, M. N., **Queenborough, S. A.,** Comita, L. S., Suresh, H. S., Dattaraja, H. S., Kumar, S. S. & Sukumar, R. 2025. β-diversity of herbaceous versus woody plant communities across a tropical rainfall gradient. *Journal of Vegetation Sciences*, 36, e70034. [doi](https://doi.org/10.1111/jvs.70034): https://doi.org/10.1111/jvs.70034
 
 Gurung, B.\*, Mendelsohn, R., **Queenborough, S.A.**, Rai, D.P., & Chaudhary, M. 2025. Assessing the costs of human‒wildlife conflict in the Khata wildlife corridor, Nepal. *European Journal of Wildlife Research,* 71, 52. [doi](https://doi.org/10.1007/s10344-025-01934-3): 10.1007/s10344-025-01934-3
 
