@@ -55,7 +55,7 @@ Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li,
 <!-- #### Accepted -->
 
 #### 2025
-Radhamoni, H. V. N.\*, Vleminckx, J., Umaña, M. N., **Queenborough, S. A.,** Comita, L. S., Suresh, H. S., Dattaraja, H. S., Kumar, S. S. & Sukumar, R. 2025. β-diversity of herbaceous versus woody plant communities across a tropical rainfall gradient. *Journal of Vegetation Sciences*, 36, e70034. [doi](https://doi.org/10.1111/jvs.70034): https://doi.org/10.1111/jvs.70034
+Radhamoni, H. V. N.\*, Vleminckx, J., Umaña, M. N., **Queenborough, S. A.,** Comita, L. S., Suresh, H. S., Dattaraja, H. S., Kumar, S. S. & Sukumar, R. 2025. β-diversity of herbaceous versus woody plant communities across a tropical rainfall gradient. *Journal of Vegetation Sciences*, 36, e70034. [doi](https://doi.org/10.1111/jvs.70034): 10.1111/jvs.70034
 
 Gurung, B.\*, Mendelsohn, R., **Queenborough, S.A.**, Rai, D.P., & Chaudhary, M. 2025. Assessing the costs of human‒wildlife conflict in the Khata wildlife corridor, Nepal. *European Journal of Wildlife Research,* 71, 52. [doi](https://doi.org/10.1007/s10344-025-01934-3): 10.1007/s10344-025-01934-3
 
