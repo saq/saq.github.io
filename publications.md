@@ -45,6 +45,8 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 Woodbury, D.J., Martin. M.P,, Jayawickrama,H., Ediriweera, S., **Queenborough, S.A.**, Comita, L.S., Armstrong, K.E., Ashton, M.S. 0000. Land tenure and human disturbance influence tree communities in Sri Lankan mixed-dipterocarp rainforest fragments. *Ecological Applications*.
 
+Roberts, S.C.*, Montagnini, F., Lynch, R.L., Toth, J., **Queenborough, S.A.** 0000. Incorporating drone imagery and field-data to assess geographic and social drivers of agroforestry biodiversity in western Ecuador. *Environmental Development*.
+
 Garcia de la Chica, A., van der Heide, G., Lois, N., Wood, D.B., **Queenborough, S.A.**, & Fernandez-Duque, E. 0000.  Disentangling the dynamics among climate, food availability, and reproduction in a pair-living, monogamous primate. *Proceedings of the Royal Society B.*, 0, 00.
 
 Grover, E.C.\*, Metz, M.R., Valencia, R., & **Queenborough, S.A.** 0000. Influence of tree height and age on leaf drip-tip morphology in lowland tropical rain forest trees. *Functional Ecology*, 0, 00. 
