@@ -42,9 +42,9 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 
 #### in review
-Radhamoni, H. Spicer, M., Duguid, M., Comita, L.S., Bruna, E., Andrade, A., Beck, J., Burton, J., Chuquillanqui, H., Cicuzza, D., Dovciak, M., Gilliam, F,. Greig, K., Hale, C., Hulshof, C., Izlar, N., Johnson, S., LaManna, J., Matlaga, D., Melly, D., Menzmer, A., Miller, K., Moulatlet, G., Myers, J., Sah, J., Vaz, M., Wassel, A., Wessel, S., Yin, J., Zuluaga, A., & **Queenborough, S.A.** 0000. Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. *Journal of Ecology*.
+Radhamoni, H.\*, Spicer, M., Duguid, M., Comita, L.S., Bruna, E., Andrade, A., Beck, J., Burton, J., Chuquillanqui, H., Cicuzza, D., Dovciak, M., Gilliam, F,. Greig, K., Hale, C., Hulshof, C., Izlar, N., Johnson, S., LaManna, J., Matlaga, D., Melly, D., Menzmer, A., Miller, K., Moulatlet, G., Myers, J., Sah, J., Vaz, M., Wassel, A., Wessel, S., Yin, J., Zuluaga, A., & **Queenborough, S.A.** 0000. Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. *Journal of Ecology*.
 
-Hanwen Z., Yan Z., Xingyu W., & **Queenborough, S.A.**. 0000. Soil mediates the impact of functional traits and trait dissimilarity on tree growth and survival across life stages in a temperate forest. *Functional Ecology*.
+Hanwen Z.\*, Yan Z., Xingyu W., & **Queenborough, S.A.**. 0000. Soil mediates the impact of functional traits and trait dissimilarity on tree growth and survival across life stages in a temperate forest. *Functional Ecology*.
 
 Roberts, S.C.\*, Jammeh, K., **Queenborough, S.A.**, Weissflog, A., Estrada-Villegas, S., Huanca-Nuñez, N., Browne, L., Dent, D., DeWalt, S., Lopez, O., & Comita, L.S. 0000. Tree community drought sensitivity declines with forest age across a tropical moist forest chronosequence. *Global Change Biology*.
 
@@ -64,7 +64,7 @@ Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li,
 <!-- #### Accepted -->
 
 #### 2025
-Radhamoni, H. V. N.\*, Vleminckx, J., Umaña, M. N., **Queenborough, S. A.,** Comita, L. S., Suresh, H. S., Dattaraja, H. S., Kumar, S. S. & Sukumar, R. 2025. β-diversity of herbaceous versus woody plant communities across a tropical rainfall gradient. *Journal of Vegetation Sciences*, 36, e70034. [doi](https://doi.org/10.1111/jvs.70034): 10.1111/jvs.70034
+Radhamoni, H.V.N.\*, Vleminckx, J., Umaña, M.N., **Queenborough, S.A.,** Comita, L.S., Suresh, H.S., Dattaraja, H.S., Kumar, S.S. & Sukumar, R. 2025. β-diversity of herbaceous versus woody plant communities across a tropical rainfall gradient. *Journal of Vegetation Sciences*, 36, e70034. [doi](https://doi.org/10.1111/jvs.70034): 10.1111/jvs.70034
 
 Gurung, B.\*, Mendelsohn, R., **Queenborough, S.A.**, Rai, D.P., & Chaudhary, M. 2025. Assessing the costs of human‒wildlife conflict in the Khata wildlife corridor, Nepal. *European Journal of Wildlife Research,* 71, 52. [doi](https://doi.org/10.1007/s10344-025-01934-3): 10.1007/s10344-025-01934-3
 
