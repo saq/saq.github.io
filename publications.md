@@ -50,8 +50,6 @@ Roberts, S.C.\*, Jammeh, K., **Queenborough, S.A.**, Weissflog, A., Estrada-Vill
 
 Woodbury, D.J.\*, Martin. M.P,, Jayawickrama,H., Ediriweera, S., **Queenborough, S.A.**, Comita, L.S., Armstrong, K.E., & Ashton, M.S. 0000. Land tenure and human disturbance influence tree communities in Sri Lankan mixed-dipterocarp rainforest fragments. *Ecological Applications*.
 
-Roberts, S.C.\*, Montagnini, F., Lynch, R.L., Toth, J., & **Queenborough, S.A.** 0000. Incorporating drone imagery and field-data to assess geographic and social drivers of agroforestry biodiversity in western Ecuador. *Environmental Development*.
-
 Garcia de la Chica, A., van der Heide, G., Lois, N., Wood, D.B., **Queenborough, S.A.**, & Fernandez-Duque, E. 0000.  Disentangling the dynamics among climate, food availability, and reproduction in a pair-living, monogamous primate. *Proceedings of the Royal Society B.*, 0, 00.
 
 Grover, E.C.\*, Metz, M.R., Valencia, R., & **Queenborough, S.A.** 0000. Influence of tree height and age on leaf drip-tip morphology in lowland tropical rain forest trees. *Functional Ecology*, 0, 00. 
@@ -61,7 +59,9 @@ Sullivan, M.K.\*, Browne, L. Bissiemou, P.A.M., Niangadouma, R. Abernethy, K., *
 Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li, & Chengjin Chu. 0000. Ontogenetic shifts in sex ratios and underlying processes in a dioecious tree species. *Journal of Ecology*.
 
 
-<!-- #### Accepted -->
+#### Accepted
+Roberts, S.C.\*, Montagnini, F., Lynch, R.L., Toth, J., & **Queenborough, S.A.** 0000. Incorporating drone imagery and field-data to assess geographic and social drivers of agroforestry biodiversity in western Ecuador. *Environmental Development*.
+
 
 #### 2025
 Radhamoni, H.V.N.\*, Vleminckx, J., Umaña, M.N., **Queenborough, S.A.,** Comita, L.S., Suresh, H.S., Dattaraja, H.S., Kumar, S.S. & Sukumar, R. 2025. β-diversity of herbaceous versus woody plant communities across a tropical rainfall gradient. *Journal of Vegetation Sciences*, 36, e70034. [doi](https://doi.org/10.1111/jvs.70034): 10.1111/jvs.70034
