@@ -59,8 +59,10 @@ Sullivan, M.K.\*, Browne, L. Bissiemou, P.A.M., Niangadouma, R. Abernethy, K., *
 Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li, & Chengjin Chu. 0000. Ontogenetic shifts in sex ratios and underlying processes in a dioecious tree species. *Journal of Ecology*.
 
 
-#### Accepted
-Roberts, S.C.\*, Montagnini, F., Lynch, R.L., Toth, J., & **Queenborough, S.A.** 0000. Incorporating drone imagery and field-data to assess geographic and social drivers of agroforestry biodiversity in western Ecuador. *Environmental Development*.
+<!--- #### Accepted --->
+
+#### 2026
+Roberts, S.C.\*, Montagnini, F., Lynch, R.L., Toth, J., & **Queenborough, S.A.** 2026. Incorporating drone imagery and field-data to assess geographic and social drivers of agroforestry biodiversity in western Ecuador. *Environmental Development*, 57, 101344 [doi](https://doi.org/10.1016/j.envdev.2025.101344): 10.1016/j.envdev.2025.101344
 
 
 #### 2025
