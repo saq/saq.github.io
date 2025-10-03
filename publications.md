@@ -52,8 +52,6 @@ Woodbury, D.J.\*, Martin. M.P,, Jayawickrama,H., Ediriweera, S., **Queenborough,
 
 Garcia de la Chica, A., van der Heide, G., Lois, N., Wood, D.B., **Queenborough, S.A.**, & Fernandez-Duque, E. 0000.  Disentangling the dynamics among climate, food availability, and reproduction in a pair-living, monogamous primate. *Proceedings of the Royal Society B.*, 0, 00.
 
-Grover, E.C.\*, Metz, M.R., Valencia, R., & **Queenborough, S.A.** 0000. Influence of tree height and age on leaf drip-tip morphology in lowland tropical rain forest trees. *Functional Ecology*, 0, 00. 
-
 Sullivan, M.K.\*, Browne, L. Bissiemou, P.A.M., Niangadouma, R. Abernethy, K., **Queenborough, S.A.** & Comita, L.S. 0000. Timber and trails: low-intensity selective logging and elephant trails shape seedling dynamics in an Afrotropical forest. *Ecological Applications*, 0, 00. 
 
 Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li, & Chengjin Chu. 0000. Ontogenetic shifts in sex ratios and underlying processes in a dioecious tree species. *Journal of Ecology*.
@@ -62,6 +60,8 @@ Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li,
 <!--- #### Accepted --->
 
 #### 2026
+Grover, E.C.\*, Metz, M.R., Valencia, R., & **Queenborough, S.A.** 0000. Influence of tree height and age on leaf drip-tip morphology in lowland tropical rain forest trees. *Functional Ecology*, 0, 00. 
+
 Roberts, S.C.\*, Montagnini, F., Lynch, R.L., Toth, J., & **Queenborough, S.A.** 2026. Incorporating drone imagery and field-data to assess geographic and social drivers of agroforestry biodiversity in western Ecuador. *Environmental Development*, 57, 101344 [doi](https://doi.org/10.1016/j.envdev.2025.101344): 10.1016/j.envdev.2025.101344
 
 
