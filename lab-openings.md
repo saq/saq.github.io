@@ -6,7 +6,7 @@ title: Lab Openings
 
 # Lab Openings
 
-**Updated: Fall 2024**
+**Updated: Fall 2025**
 
 Our research is motivated by the striking differences between plants and animals. The sessile nature, modular construction, and evolutionary flexibility that plants exhibit lead to intriguing challenges in ‘thinking like a plant’.
 
@@ -33,7 +33,7 @@ If you are interested in developing a grant proposal, either for NSF or another 
 #### Yale-specific post-doc funding
 
  - [YIBS postdocs](http://yibs.yale.edu/scholar-programs/donnelley-and-yibs-postdoctoral-environmental-fellows/gaylord-donnelley)
- 
+ - [YIBS postdoc cohort](https://yibs.yale.edu/hutchinson-fellows)
 
 
 ### Graduate Students
@@ -85,9 +85,20 @@ The [Yale Tropical Resources Institute](http://tri.yale.edu/fellowships/) has so
 
 ### Grad school advice
 
+Carson et al. Advice on applying to graduate school in ecology and evolutionary biology: How to prepare and a step-by-step guide. *Bulletin of the ESA*, 102. e01917. [link](https://doi.org/10.1002/bes2.1917)
+
 Estien et al. 2022. Demystifying the graduate school application process. Bulletin of the ESA, 104. e02029. [link](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/bes2.2029)
 
+ATBC webinar: Interested in applying to grad school in the US? [link](https://tropicalbiology.org/blog/2022/10/01/interested-in-applying-to-grad-school-in-the-us/) 
+
+
 **Before you write to me (or any potential advisor!)** please read and think about the ideas suggested in the following links:
+
+[https://dynamicecology.wordpress.com/2013/02/05/thoughts-on-applying-to-grad-school-for-prospective-students-and-their-mentors/](https://dynamicecology.wordpress.com/2013/02/05/thoughts-on-applying-to-grad-school-for-prospective-students-and-their-mentors/)
+
+[https://oconnorlab.weebly.com/blog/-unwritten-rules-of-getting-in-and-getting-on-in-grad-school-in-ecology](https://oconnorlab.weebly.com/blog/-unwritten-rules-of-getting-in-and-getting-on-in-grad-school-in-ecology)
+
+[https://medium.com/@caseywdunn/applying-to-biology-phd-programs-58abece3284a#.4cq4phliq](https://medium.com/@caseywdunn/applying-to-biology-phd-programs-58abece3284a#.4cq4phliq)
 
 [https://conservationbytes.com/2015/04/01/how-to-contact-a-potential-phd-supervisor/](https://conservationbytes.com/2015/04/01/how-to-contact-a-potential-phd-supervisor/) 
 
@@ -101,8 +112,7 @@ Estien et al. 2022. Demystifying the graduate school application process. Bullet
 
 [https://dynamicecology.wordpress.com/2012/02/12/advice-how-to-choose-a-phd-program/](https://dynamicecology.wordpress.com/2012/02/12/advice-how-to-choose-a-phd-program/)
 
-[https://dynamicecology.wordpress.com/2013/02/05/thoughts-on-applying-to-grad-school-for-prospective-students-and-their-mentors/](https://dynamicecology.wordpress.com/2013/02/05/thoughts-on-applying-to-grad-school-for-prospective-students-and-their-mentors/)
-
 [https://stearnslab.yale.edu/some-modest-advice-graduate-students](https://stearnslab.yale.edu/some-modest-advice-graduate-students)
 
+[http://www.phd-survey.org/advice/advice.htm](http://www.phd-survey.org/advice/advice.htm)
 
