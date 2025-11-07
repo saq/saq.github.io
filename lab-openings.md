@@ -6,7 +6,9 @@ title: Lab Openings
 
 # Lab Openings
 
-**Updated: Fall 2025** *Overview:* undergrads: yes | Masters: yes | PhDs: no | Postdocs: yes
+**Updated: Fall 2025** 
+
+### *Overview:* undergrads: yes | Masters: yes | PhDs: no | Postdocs: yes
 
 Our research is motivated by the striking differences between plants and animals. The sessile nature, modular construction, and evolutionary flexibility that plants exhibit lead to intriguing challenges in ‘thinking like a plant’.
 
