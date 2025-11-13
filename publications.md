@@ -42,11 +42,14 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 
 #### in review
-Radhamoni, H.V.N.\*, Spicer, M.E., Duguid, M., Comita, L.S., Bruna, E., Andrade, A., Beck, J., Burton, J., Chuquillanqui, H., Cicuzza, D., Dovciak, M., Gilliam, F,. Greig, K., Hale, C., Hulshof, C., Izlar, N., Johnson, S., LaManna, J., Matlaga, D., Melly, D., Menzmer, A., Miller, K., Moulatlet, G., Myers, J., Sah, J., Vaz, M., Wassel, A., Wessel, S., Yin, J., Zuluaga, A., & **Queenborough, S.A.** 0000. Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. *Journal of Ecology*.
+
+Montalvo Yanez, S.G.\*, Piotto, D., Montagnini, F. **Queenborough, S.A.** 0000. Shade-tree biomass and ecosystem services remain stable over 8 years in cocoa agroforestry systems in Bahia, Brazil. *Forest Ecology and Management*. 
+
+Radhamoni, H.V.N.\*, Spicer, M.E., Duguid, M., Comita, L.S., Bruna, E., Andrade, A., Beck, J., Burton, J., Chuquillanqui, H., Cicuzza, D., Dovciak, M., Gilliam, F,. Greig, K., Hale, C., Hulshof, C., Izlar, N., Johnson, S., LaManna, J., Matlaga, D., Melly, D., Menzmer, A., Miller, K., Moulatlet, G., Myers, J., Sah, J., Vaz, M., Wassel, A., Wessel, S., Yin, J., Zuluaga, A., & **Queenborough, S.A.** 0000. Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. *Forest Ecology and Management*.
 
 Hanwen Z.\*, Yan Z., Xingyu W., & **Queenborough, S.A.**. 0000. Soil mediates the impact of functional traits and trait dissimilarity on tree growth and survival across life stages in a temperate forest. *Functional Ecology*.
 
-Roberts, S.C.\*, Jammeh, K., **Queenborough, S.A.**, Weissflog, A., Estrada-Villegas, S., Huanca-Nuñez, N., Browne, L., Dent, D., DeWalt, S., Lopez, O., & Comita, L.S. 0000. Tree community drought sensitivity declines with forest age across a tropical moist forest chronosequence. *Global Change Biology*.
+Roberts, S.C.\*, Jammeh, K., **Queenborough, S.A.**, Weissflog, A., Estrada-Villegas, S., Huanca-Nuñez, N., Browne, L., Dent, D., DeWalt, S., Lopez, O., & Comita, L.S. 0000. Tree community drought sensitivity declines with forest age across a tropical moist forest chronosequence. *Journal of Applied Ecology*.
 
 Woodbury, D.J.\*, Martin. M.P,, Jayawickrama,H., Ediriweera, S., **Queenborough, S.A.**, Comita, L.S., Armstrong, K.E., & Ashton, M.S. 0000. Land tenure and human disturbance influence tree communities in Sri Lankan mixed-dipterocarp rainforest fragments. *Ecological Applications*.
 
@@ -60,7 +63,7 @@ Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li,
 <!--- #### Accepted --->
 
 #### 2026
-Grover, E.C.\*, Metz, M.R., Valencia, R., & **Queenborough, S.A.** 0000. Influence of tree height and age on leaf drip-tip morphology in lowland tropical rain forest trees. *Functional Ecology*, 0, 00. 
+Grover, E.C.\*, Metz, M.R., Valencia, R., & **Queenborough, S.A.** 0000. Influence of tree height and age on leaf drip-tip morphology in lowland tropical rain forest trees. *Functional Ecology*, 0, 00. [doi](https://doi.org/10.1111/1365-2435.70218): 10.1111/1365-2435.70218
 
 Roberts, S.C.\*, Montagnini, F., Lynch, R.L., Toth, J., & **Queenborough, S.A.** 2026. Incorporating drone imagery and field-data to assess geographic and social drivers of agroforestry biodiversity in western Ecuador. *Environmental Development*, 57, 101344 [doi](https://doi.org/10.1016/j.envdev.2025.101344): 10.1016/j.envdev.2025.101344
 
