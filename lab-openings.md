@@ -8,6 +8,8 @@ title: Lab Openings
 
 **Updated: Fall 2025** 
 
+This page gives a great overview of the process of applying to graduate school: [https://career-advice.jobs.ac.uk/before-your-phd/how-to-choose-a-phd-research-topic/] 
+
 ### *Overview:* undergrads: yes | Masters: yes | PhDs: no | Postdocs: yes
 
 Our research is motivated by the striking differences between plants and animals. The sessile nature, modular construction, and evolutionary flexibility that plants exhibit lead to intriguing challenges in ‘thinking like a plant’.
