@@ -51,9 +51,9 @@ Hanwen Z.\*, Yan Z., Xingyu W., & **Queenborough, S.A.**. 0000. Soil mediates th
 
 Roberts, S.C.\*, Jammeh, K., **Queenborough, S.A.**, Weissflog, A., Estrada-Villegas, S., Huanca-Nuñez, N., Browne, L., Dent, D., DeWalt, S., Lopez, O., & Comita, L.S. 0000. Tree community drought sensitivity declines with forest age across a tropical moist forest chronosequence. *Journal of Applied Ecology*.
 
-Woodbury, D.J.\*, Martin. M.P,, Jayawickrama,H., Ediriweera, S., **Queenborough, S.A.**, Comita, L.S., Armstrong, K.E., & Ashton, M.S. 0000. Land tenure and human disturbance influence tree communities in Sri Lankan mixed-dipterocarp rainforest fragments. *Ecological Applications*.
+Woodbury, D.J.\*, Martin. M.P., Comita, L.S., Ediriweera, S., Jayawickrama,H., **Queenborough, S.A.**, Armstrong, K.E., & Ashton, M.S. 0000. Land tenure and human use influence tree species composition in Sri Lankan rainforest fragments. *Ecological Applications*.
 
-Garcia de la Chica, A., van der Heide, G., Lois, N., Wood, D.B., **Queenborough, S.A.**, & Fernandez-Duque, E. 0000.  Disentangling the dynamics among climate, food availability, and reproduction in a pair-living, monogamous primate. *Proceedings of the Royal Society B.*, 0, 00.
+Garcia de la Chica, A., van der Heide, G., Lois, N., Wood, D.B., **Queenborough, S.A.**, & Fernandez-Duque, E. 0000.  Disentangling the dynamics among climate, food availability, and reproduction in a pair-living, monogamous primate. *Proceedings of the Royal Society B.*.
 
 Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li, & Chengjin Chu. 0000. Ontogenetic shifts in sex ratios and underlying processes in a dioecious tree species. *Journal of Ecology*.
 
