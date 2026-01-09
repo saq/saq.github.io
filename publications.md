@@ -47,7 +47,7 @@ Herrera-Cueva, J.C.\**, **Queenborough, S.A.**, Zambrano, M., Valencia, R. 0000.
 
 Montalvo Yanez, S.G.\*, Piotto, D., Montagnini, F. **Queenborough, S.A.** 0000. Shade-tree biomass and ecosystem services remain stable over 8 years in cocoa agroforestry systems in Bahia, Brazil. *Forest Ecology and Management*. 
 
-Radhamoni, H.V.N.\*, Spicer, M.E., Duguid, M., Comita, L.S., Bruna, E., Andrade, A., Beck, J., Burton, J., Chuquillanqui, H., Cicuzza, D., Dovciak, M., Gilliam, F,. Greig, K., Hale, C., Hulshof, C., Izlar, N., Johnson, S., LaManna, J., Matlaga, D., Melly, D., Menzmer, A., Miller, K., Moulatlet, G., Myers, J., Sah, J., Vaz, M., Wassel, A., Wessel, S., Yin, J., Zuluaga, A., & **Queenborough, S.A.** 0000. Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. *Forest Ecology and Management*.
+Radhamoni, H.V.N.\*, Spicer, M.E., Duguid, M., Comita, L.S., Bruna, E., Andrade, A., Beck, J., Burton, J., Chuquillanqui, H., Cicuzza, D., Dovciak, M., Gilliam, F,. Greig, K., Hale, C., Hulshof, C., Izlar, N., Johnson, S., LaManna, J., Matlaga, D., Melly, D., Menzmer, A., Miller, K., Moulatlet, G., Myers, J., Sah, J., Vaz, M., Wassel, A., Wessel, S., Yin, J., Zuluaga, A., & **Queenborough, S.A.** 0000. Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. *Journal of Vegetation Science*.
 
 Hanwen Z.\*, Yan Z., Xingyu W., & **Queenborough, S.A.**. 0000. Soil mediates the impact of functional traits and trait dissimilarity on tree growth and survival across life stages in a temperate forest. *Functional Ecology*.
 
@@ -65,12 +65,12 @@ Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li,
 #### 2026
 Sullivan, M.K.\*, Browne, L. Bissiemou, P.A.M., Niangadouma, R. Abernethy, K., **Queenborough, S.A.** & Comita, L.S. 0000. Timber and trails: low-intensity selective logging and elephant trails shape seedling dynamics in an Afrotropical forest. *Ecological Applications*, 0, 00. 
 
-Grover, E.C.\*, Metz, M.R., Valencia, R., & **Queenborough, S.A.** 0000. Influence of tree height and age on leaf drip-tip morphology in lowland tropical rain forest trees. *Functional Ecology*, 0, 00. [doi](https://doi.org/10.1111/1365-2435.70218): 10.1111/1365-2435.70218
-
 Roberts, S.C.\*, Montagnini, F., Lynch, R.L., Toth, J., & **Queenborough, S.A.** 2026. Incorporating drone imagery and field-data to assess geographic and social drivers of agroforestry biodiversity in western Ecuador. *Environmental Development*, 57, 101344 [doi](https://doi.org/10.1016/j.envdev.2025.101344): 10.1016/j.envdev.2025.101344
 
 
 #### 2025
+Grover, E.C.\*, Metz, M.R., Valencia, R., & **Queenborough, S.A.** 2025. Influence of tree height and age on leaf drip-tip morphology in lowland tropical rain forest trees. *Functional Ecology*, 39, 3766-3777. [doi](https://doi.org/10.1111/1365-2435.70218): 10.1111/1365-2435.70218
+
 Radhamoni, H.V.N.\*, Vleminckx, J., Umaña, M.N., **Queenborough, S.A.,** Comita, L.S., Suresh, H.S., Dattaraja, H.S., Kumar, S.S. & Sukumar, R. 2025. β-diversity of herbaceous versus woody plant communities across a tropical rainfall gradient. *Journal of Vegetation Sciences*, 36, e70034. [doi](https://doi.org/10.1111/jvs.70034): 10.1111/jvs.70034
 
 Gurung, B.\*, Mendelsohn, R., **Queenborough, S.A.**, Rai, D.P., & Chaudhary, M. 2025. Assessing the costs of human‒wildlife conflict in the Khata wildlife corridor, Nepal. *European Journal of Wildlife Research,* 71, 52. [doi](https://doi.org/10.1007/s10344-025-01934-3): 10.1007/s10344-025-01934-3
