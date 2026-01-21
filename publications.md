@@ -43,9 +43,9 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 #### in review
 
-Herrera-Cueva, J.C.\**, **Queenborough, S.A.**, Zambrano, M., Valencia, R. 0000. Diversity of seeds dispersed by understory birds of the Amazon rain forest of Yasuní. *Biotropica*.
+Herrera-Cueva, J.C.\*\*, **Queenborough, S.A.**, Zambrano, M., & Valencia, R. 0000. Diversity of seeds dispersed by understory birds of the Amazon rain forest of Yasuní. *Biotropica*.
 
-Montalvo Yanez, S.G.\*, Piotto, D., Montagnini, F. **Queenborough, S.A.** 0000. Shade-tree biomass and ecosystem services remain stable over 8 years in cocoa agroforestry systems in Bahia, Brazil. *Forest Ecology and Management*. 
+Montalvo Yanez, S.G.\*, Piotto, D., Montagnini, F., & **Queenborough, S.A.** 0000. Shade-tree biomass and ecosystem services remain stable over 8 years in cocoa agroforestry systems in Bahia, Brazil. *Forest Ecology and Management*. 
 
 Radhamoni, H.V.N.\*, Spicer, M.E., Duguid, M., Comita, L.S., Bruna, E., Andrade, A., Beck, J., Burton, J., Chuquillanqui, H., Cicuzza, D., Dovciak, M., Gilliam, F,. Greig, K., Hale, C., Hulshof, C., Izlar, N., Johnson, S., LaManna, J., Matlaga, D., Melly, D., Menzmer, A., Miller, K., Moulatlet, G., Myers, J., Sah, J., Vaz, M., Wassel, A., Wessel, S., Yin, J., Zuluaga, A., & **Queenborough, S.A.** 0000. Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. *Journal of Vegetation Science*.
 
