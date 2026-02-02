@@ -63,7 +63,7 @@ Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li,
 <!--- #### Accepted --->
 
 #### 2026
-Sullivan, M.K.\*, Browne, L. Bissiemou, P.A.M., Niangadouma, R. Abernethy, K., **Queenborough, S.A.** & Comita, L.S. 0000. Timber and trails: low-intensity selective logging and elephant trails shape seedling dynamics in an Afrotropical forest. *Ecological Applications*, 0, 00. 
+Sullivan, M.K.\*, Browne, L. Bissiemou, P.A.M., Niangadouma, R. Abernethy, K., **Queenborough, S.A.** & Comita, L.S. 0000. Timber and trails: low-intensity selective logging and elephant trails shape seedling dynamics in an Afrotropical forest. *Ecological Applications*, 36, e70180. [doi](https://doi.org/10.1002/eap.70180): 10.1002/eap.70180
 
 Roberts, S.C.\*, Montagnini, F., Lynch, R.L., Toth, J., & **Queenborough, S.A.** 2026. Incorporating drone imagery and field-data to assess geographic and social drivers of agroforestry biodiversity in western Ecuador. *Environmental Development*, 57, 101344 [doi](https://doi.org/10.1016/j.envdev.2025.101344): 10.1016/j.envdev.2025.101344
 
