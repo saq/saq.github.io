@@ -45,11 +45,9 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 Herrera-Cueva, J.C.\*\*, **Queenborough, S.A.**, Zambrano, M., & Valencia, R. 0000. Diversity of seeds dispersed by understory birds of the Amazon rain forest of Yasuní. *Biotropica*.
 
-Montalvo Yanez, S.G.\*, Piotto, D., Montagnini, F., & **Queenborough, S.A.** 0000. Shade-tree biomass and ecosystem services remain stable over 8 years in cocoa agroforestry systems in Bahia, Brazil. *Forest Ecology and Management*. 
+Montalvo Yanez, S.G.\*, Piotto, D., Montagnini, F., & **Queenborough, S.A.** 0000. Shade-tree biomass and ecosystem services remain stable over 8 years in cocoa agroforestry systems in Bahia, Brazil. *Agroforestry Systems*. 
 
 Radhamoni, H.V.N.\*, Spicer, M.E., Duguid, M., Comita, L.S., Bruna, E., Andrade, A., Beck, J., Burton, J., Chuquillanqui, H., Cicuzza, D., Dovciak, M., Gilliam, F,. Greig, K., Hale, C., Hulshof, C., Izlar, N., Johnson, S., LaManna, J., Matlaga, D., Melly, D., Menzmer, A., Miller, K., Moulatlet, G., Myers, J., Sah, J., Vaz, M., Wassel, A., Wessel, S., Yin, J., Zuluaga, A., & **Queenborough, S.A.** 0000. Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. *Journal of Vegetation Science*.
-
-Hanwen Z.\*, Yan Z., Xingyu W., & **Queenborough, S.A.**. 0000. Soil mediates the impact of functional traits and trait dissimilarity on tree growth and survival across life stages in a temperate forest. *Functional Ecology*.
 
 Roberts, S.C.\*, Jammeh, K., **Queenborough, S.A.**, Weissflog, A., Estrada-Villegas, S., Huanca-Nuñez, N., Browne, L., Dent, D., DeWalt, S., Lopez, O., & Comita, L.S. 0000. Tree community drought sensitivity declines with forest age across a tropical moist forest chronosequence. *Journal of Applied Ecology*.
 
@@ -60,7 +58,9 @@ Garcia de la Chica, A., van der Heide, G., Lois, N., Wood, D.B., **Queenborough,
 Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li, & Chengjin Chu. 0000. Ontogenetic shifts in sex ratios and underlying processes in a dioecious tree species. *Journal of Ecology*.
 
 
-<!--- #### Accepted --->
+<!--- #### Accepted--->
+#### Accepted
+Hanwen Z.\*, Yan Z., Xingyu W., & **Queenborough, S.A.**. 0000. Soil mediates the impact of functional traits and trait dissimilarity on tree growth and survival across life stages in a temperate forest. *Functional Ecology*.
 
 #### 2026
 Sullivan, M.K.\*, Browne, L. Bissiemou, P.A.M., Niangadouma, R. Abernethy, K., **Queenborough, S.A.** & Comita, L.S. 0000. Timber and trails: low-intensity selective logging and elephant trails shape seedling dynamics in an Afrotropical forest. *Ecological Applications*, 36, e70180. [doi](https://doi.org/10.1002/eap.70180): 10.1002/eap.70180
