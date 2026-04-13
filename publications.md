@@ -90,7 +90,7 @@ Kambach, S., Bruelheide, H. Comita, L.S., Condit, R., Aguilar, S., Chang-Yang, C
 
 #### 2024
 
-Cárdenas, R.E., Rodríguez-Ortega, C.\*\*, Utreras, D., Forrister, D.L., Endara, M.J., **Queenborough, S.A.**, Alvia P., Menéndez-Guerrero, P.A., Báez, S., & Donoso, D.A., 2024. Long-term strict ant-plant mutualism identity defines growth rate and leaf shearing resistance of an Amazonian myrmecophyte. *Scientific Reports*, 14, 17813. [doi](https://doi.org/10.1038/s41598-024-67140-4): 10.1038/s41598-024-67140-4 
+Cárdenas, R.E., Rodríguez-Ortega, C.\*\*, Utreras, D., Forrister, D.L., Endara, M.J., **Queenborough, S.A.**, Alvia P., Menéndez-Guerrero, P.A., Báez, S., & Donoso, D.A. 2024. Long-term strict ant-plant mutualism identity defines growth rate and leaf shearing resistance of an Amazonian myrmecophyte. *Scientific Reports*, 14, 17813. [doi](https://doi.org/10.1038/s41598-024-67140-4): 10.1038/s41598-024-67140-4 
 
 Sullivan, M.\*, Vleminckx, J., Bissiemou, P., Niangadouma, R., Mayoungou, M., Temba, J. la M., Bénédet, F., Abernethy, K., **Queenborough, S.A.**, & Comita, L.S. 2024. Low-intensity logging alters species and functional composition, but does not negatively impact key ecosystem services in a Central African tropical forest. *Global Ecology and Conservation*, 53, e02996. [doi](https://doi.org/10.1016/j.gecco.2024.e02996): 10.1016/j.gecco.2024.e02996
 
