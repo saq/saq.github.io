@@ -77,7 +77,7 @@ Gurung, B.\*, Mendelsohn, R., **Queenborough, S.A.**, Rai, D.P., & Chaudhary, M.
 
 Deng, T.\*, Du, Q., Zhu, Y., & **Queenborough, S.A.** 2025. Environmental drivers of herbaceous plant diversity in the understory community of a warm-temperate forest. *Plant Diversity*, 47, 282--290. [doi](https://doi.org/10.1016/j.pld.2025.01.003): 10.1016/j.pld.2025.01.003
 
-Genth, L.\*\*, Metz, M.R., Valencia, R., & **Queenborough, S. A.** 2025. Standing herbivory is not affected by tree sex or conspecific density in a dioecious understory tropical tree species. *Biotropica*, 57, e70006. [doi](https://doi.org/10.1111/btp.70006): 10.1111/btp.70006
+Genth, L.\*\*, Metz, M.R., Valencia, R., & **Queenborough, S.A.** 2025. Standing herbivory is not affected by tree sex or conspecific density in a dioecious understory tropical tree species. *Biotropica*, 57, e70006. [doi](https://doi.org/10.1111/btp.70006): 10.1111/btp.70006
 
 Baker, T.R. et al. (200 co-authors). 2025. Larger range sizes link fast demographic rates with higher species richness across the tree flora of the wet tropics. *Scientific Reports,* 15, 4695. [doi](https://doi.org/10.1038/s41598-024-84367-3): 10.1038/s41598-024-84367-3
 
