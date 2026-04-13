@@ -61,7 +61,7 @@ Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li,
 <!--- #### Accepted--->
 
 #### 2026
-Hanwen Z.\*, Yan Z., Xingyu W., & **Queenborough, S.A.**. 2026. Soil mediates the impact of functional traits and trait dissimilarity on tree growth and survival across life stages in a temperate forest. *Functional Ecology*, e11964. [doi](http://doi.org/10.1002/oik.11964): 10.1002/oik.11964
+Hanwen Z.\*, Yan Z., Xingyu W., & **Queenborough, S.A.** 2026. Soil mediates the impact of functional traits and trait dissimilarity on tree growth and survival across life stages in a temperate forest. *Functional Ecology*, e11964. [doi](http://doi.org/10.1002/oik.11964): 10.1002/oik.11964
 
 Sullivan, M.K.\*, Browne, L. Bissiemou, P.A.M., Niangadouma, R. Abernethy, K., **Queenborough, S.A.** & Comita, L.S. 2026. Timber and trails: low-intensity selective logging and elephant trails shape seedling dynamics in an Afrotropical forest. *Ecological Applications*, 36, e70180. [doi](https://doi.org/10.1002/eap.70180): 10.1002/eap.70180
 
