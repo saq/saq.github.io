@@ -64,17 +64,17 @@ Healy, K. 2018. *Data Visualization: A practical introduction*. Princeton Univer
 
 
 ### Excel
-Schwabisch, J. 2023. Data Visualization in Excel: A Guide for Beginners, Intermediates, and Wonks.
+Schwabisch, J. 2023. *Data Visualization in Excel: A guide for beginners, intermediates, and wonks*.
 
-Camões, J. 2016. Data at Work: Best practices for creating effective charts and information graphics in Microsoft Excel (Voices That Matter) 1st Edition.
+Camões, J. 2016. *Data at Work: Best practices for creating effective charts and information graphics in Microsoft Excel*. (Voices That Matter) 1st Edition.
 
-Knaflic, C.N. 2015. Storytelling with Data. https://www.storytellingwithdata.com/
+Knaflic, C.N. 2015. *Storytelling with Data*. https://www.storytellingwithdata.com/
 
-Evergreen, S. 2016. Effective Data Visualization. The right chart for the right data. 2nd ed.
+Evergreen, S. 2016. *Effective Data Visualization. The right chart for the right data*. 2nd ed.
 
 
 ### Presentations
-Schwabish, J. 2017. Better Presentations. A guide for scholars, researchers, and wonks. Columbia University Press. 
+Schwabish, J. 2017. *Better Presentations. A guide for scholars, researchers, and wonks*. Columbia University Press. 
 
 Evergreen, S.D.H. 2018. *Presenting Data Effectively: Communicating your findings for maximum impact*. https://stephanieevergreen.com/ 
 
