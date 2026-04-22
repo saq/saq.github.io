@@ -47,6 +47,8 @@ Harford, T. 2021. *The Data Detective: Ten easy rules to make sense of statistic
 
 https://www.practicalreporting.com/featured-blog-posts
 
+https://www.datawrapper.de/blog
+
 https://www.junkcharts.com/
 
 https://filwd.substack.com/ 
