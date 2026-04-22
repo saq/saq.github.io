@@ -16,6 +16,8 @@ In this course, you will learn how to effectively explore, identify, and communi
 
 Co-taught with [Dr. Jenn Marlon](https://environment.yale.edu/profile/jennifer-marlon/)
 
+Further details here: [data-viz](../data-viz)
+
 <hr>
 
 ### ENV 626 Writing for Publication in the Natural Sciences
