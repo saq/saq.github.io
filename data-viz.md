@@ -2,6 +2,8 @@
 # ENV603 / EVST3303 Environmental Data Visualization for Communication
 In this course, you will learn how to effectively explore, identify, and communicate key insights from environmental data to diverse audiences through visualization and presentation. Classes consist of lectures on key principles of effective communication, data management, and visual design, coupled with discussions, peer critiques, and hands-on visualization activities. Throughout the semester, we will introduce a variety of tools (including R, Tableau, Excel) and use these tools to develop and experimentally test alternative visualizations.
 
+Next offered: Fall 2027
+
 ## Objectives
 By the end of the course, students will:
  - Evaluate the purpose of a chart,
