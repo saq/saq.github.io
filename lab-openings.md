@@ -79,7 +79,7 @@ I encourage sincere, hardworking and motivated undergraduate students to activel
 
 If you are interested in gaining practical experience in ecology and evolution and you are interested in the research described on this website, please contact me to discuss possibilities. Please include details of the courses you have taken/are taking, current GPA, etc.
 
-For more details, please see the Yale Undergraduate [Research Database](https://rdb.yale.edu/lab/queenborough-lab-177/).
+For more details, please see the Yale Undergraduate [Research Database](https://rdb.yale.edu/lab/queenborough-lab-177/). Also check out this [guide to undergraduate research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005484).
 
 The EEB department has [great resources](https://eeb.yale.edu/academics/undergraduate-major) on undergraduate research, as well as a [description of the lab](https://eeb.yale.edu/academics/undergraduate-program/guide-research) by a previous undergraduate.
 
