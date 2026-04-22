@@ -21,7 +21,7 @@ Williams, R. 2015. *The Non-Designers Design Book*, 4th ed. Peachpit Press.
 
 ### Articles
 
-Rougier, N.P., Droettboom, M., Bourne, P.E. 2014. Ten Simple Rules for Better Figures. *PLOS Computational Biology* 10(9): e1003833. https://doi.org/10.1371/journal.pcbi.1003833
+Rougier, N.P., Droettboom, M., Bourne, P.E. 2014. Ten simple rules for better figures. *PLOS Computational Biology* 10(9): e1003833. https://doi.org/10.1371/journal.pcbi.1003833
 
 Hattab, G., Rhyne, T.M., Heider, D. 2020. Ten simple rules to colorize biological data visualization. *PLOS Computational Biology* 16(10): e1008259. https://doi.org/10.1371/journal.pcbi.1008259
 
