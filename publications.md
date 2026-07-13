@@ -43,9 +43,9 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 #### in review
 
-Herrera-Cueva, J.C.\*\*, **Queenborough, S.A.**, Zambrano, M., & Valencia, R. 0000. Diversity of seeds dispersed by understory birds of the Amazon rain forest of Yasuní. *Biotropica*.
+Wu, G., Che, D., Liu S, Akite, P., Arroyo Padilla, L., Cristo de Almeida, E., Bastin, J.-F., Burslem, D.F.R.P., Chapman, C.A., Dexter, K.G., Gonmadje, C., Hamilton, A., Jucker,T., Laurance, W.F., Lindsell, J., Lovett, J., Marshall, A., Marimon Junior, B.H., Marimon, B.S., Munishi, P., Peh, K.S.-H., Pipoly III, J.J., Primack, R.B., **Queenborough, S.A.,** Segovia, R.A., Sheil, D., Silveira, M., Taylor, D., ter Steege, H., Pennington, R.T., Phillips, O.L., Baker, T.R. 0000. Variation in life history strategies drives increased niche width and range expansion in tropical trees. *PNAS*. 
 
-Montalvo Yanez, S.G.\*, Piotto, D., Montagnini, F., & **Queenborough, S.A.** 0000. Shade-tree biomass and ecosystem services remain stable over 8 years in cocoa agroforestry systems in Bahia, Brazil. *Agroforestry Systems*. 
+Herrera-Cueva, J.C.\*\*, **Queenborough, S.A.**, Zambrano, M., & Valencia, R. 0000. Diversity of seeds dispersed by understory birds of the Amazon rain forest of Yasuní. *Biotropica*.
 
 Radhamoni, H.V.N.\*, Spicer, M.E., Duguid, M., Comita, L.S., Bruna, E., Andrade, A., Beck, J., Burton, J., Chuquillanqui, H., Cicuzza, D., Dovciak, M., Gilliam, F,. Greig, K., Hale, C., Hulshof, C., Izlar, N., Johnson, S., LaManna, J., Matlaga, D., Melly, D., Menzmer, A., Miller, K., Moulatlet, G., Myers, J., Sah, J., Vaz, M., Wassel, A., Wessel, S., Yin, J., Zuluaga, A., & **Queenborough, S.A.** 0000. Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. *Journal of Vegetation Science*.
 
@@ -61,6 +61,8 @@ Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li,
 <!--- #### Accepted--->
 
 #### 2026
+Montalvo Yanez, S.G.\*, Piotto, D., Montagnini, F., & **Queenborough, S.A.** 2026. Shade-tree biomass and ecosystem services remain stable over 8 years in cocoa agroforestry systems in Bahia, Brazil. *Agroforestry Systems*, 100, 172. [doi](https://doi.org/10.1007/s10457-026-01542-3): 10.1007/s10457-026-01542-3
+
 Hanwen Z.\*, Yan Z., Xingyu W., & **Queenborough, S.A.** 2026. Soil mediates the impact of functional traits and trait dissimilarity on tree growth and survival across life stages in a temperate forest. *Functional Ecology*, e11964. [doi](http://doi.org/10.1002/oik.11964): 10.1002/oik.11964
 
 Sullivan, M.K.\*, Browne, L. Bissiemou, P.A.M., Niangadouma, R. Abernethy, K., **Queenborough, S.A.**, & Comita, L.S. 2026. Timber and trails: low-intensity selective logging and elephant trails shape seedling dynamics in an Afrotropical forest. *Ecological Applications*, 36, e70180. [doi](https://doi.org/10.1002/eap.70180): 10.1002/eap.70180
