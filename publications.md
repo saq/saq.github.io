@@ -29,8 +29,7 @@ Hudson, A.J.\*, Alvia, L.P., Valencia, R., Baez, S., & **Queenborough, S.A.** 00
 .
 Almonte, H.N.\*\* & **Queenborough, S.A.** 0000. Climate drives tree leaf traits across a precipitation gradient in Panama.
 .
-**Queenborough, S.A.** & Sullivan, M.K.\* Climate drives tree leaf traits across a precipitation gradient in the Cerrado.
-.
+
 Anderson, L.\*\*, Liu, J.\*\*, Metz, R.M., Garwood, N.C., Wright, S.J., Alvia, P., Valencia, R., & **Queenborough, S.A.**. 0000. Extrafloral nectaries have little effect on growth and survival of tropical rain forest seedlings. 
 .
 Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao agroforests similar in structure to tropical secondary forest in the Mata Atlântica of southern Bahia, Brazil.
@@ -42,6 +41,8 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 
 #### in review
+
+Sullivan, M.K.\* & **Queenborough, S.A.** 0000. Testing leaf trait-climate relationships in the Brazilian Cerrado. *Ecology*
 
 Wu, G., Che, D., Liu S, Akite, P., Arroyo Padilla, L., Cristo de Almeida, E., Bastin, J.-F., Burslem, D.F.R.P., Chapman, C.A., Dexter, K.G., Gonmadje, C., Hamilton, A., Jucker,T., Laurance, W.F., Lindsell, J., Lovett, J., Marshall, A., Marimon Junior, B.H., Marimon, B.S., Munishi, P., Peh, K.S.-H., Pipoly III, J.J., Primack, R.B., **Queenborough, S.A.,** Segovia, R.A., Sheil, D., Silveira, M., Taylor, D., ter Steege, H., Pennington, R.T., Phillips, O.L., Baker, T.R. 0000. Variation in life history strategies drives increased niche width and range expansion in tropical trees. *PNAS*. 
 
