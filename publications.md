@@ -60,7 +60,7 @@ Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li,
 <!--- #### Accepted--->
 
 #### 2026
-Radhamoni, H.V.N.\*, Spicer, M.E., Duguid, M., Comita, L.S., Bruna, E., Andrade, A., Beck, J., Burton, J., Chuquillanqui, H., Cicuzza, D., Dovciak, M., Gilliam, F,. Greig, K., Hale, C., Hulshof, C., Izlar, N., Johnson, S., LaManna, J., Matlaga, D., Melly, D., Menzmer, A., Miller, K., Moulatlet, G., Myers, J., Sah, J., Vaz, M., Wassel, A., Wessel, S., Yin, J., Zuluaga, A., & **Queenborough, S.A.** 0000. Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. *Journal of Vegetation Science*. [dio](https://doi.org/10.1111/jvs.70168): 10.1111/jvs.70168
+Radhamoni, H.V.N.\*, Spicer, M.E., Duguid, M., Comita, L.S., Bruna, E., Andrade, A., Beck, J., Burton, J., Chuquillanqui, H., Cicuzza, D., Dovciak, M., Gilliam, F,. Greig, K., Hale, C., Hulshof, C., Izlar, N., Johnson, S., LaManna, J., Matlaga, D., Melly, D., Menzmer, A., Miller, K., Moulatlet, G., Myers, J., Sah, J., Vaz, M., Wassel, A., Wessel, S., Yin, J., Zuluaga, A., & **Queenborough, S.A.** 2026. Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. *Journal of Vegetation Science*. 37, e70168. [dio](https://doi.org/10.1111/jvs.70168): 10.1111/jvs.70168
 
 Montalvo Yanez, S.G.\*, Piotto, D., Montagnini, F., & **Queenborough, S.A.** 2026. Shade-tree biomass and ecosystem services remain stable over 8 years in cocoa agroforestry systems in Bahia, Brazil. *Agroforestry Systems*, 100, 172. [doi](https://doi.org/10.1007/s10457-026-01542-3): 10.1007/s10457-026-01542-3
 
