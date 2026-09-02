@@ -42,7 +42,7 @@ Young, K.J.\*, Piotto, D., **Queenborough, S.A.**, & Ashton, M.S. 0000. Cacao ag
 
 #### in review
 
-Serwaa, A.\*, Masozera, A., Vedder,A., Mulindahabi,F., Bachmann, G., Flores, M., **Queenborough, S.A.**, Ashton, M.S., Comita. L.S. 0000. From fernland to forest: evaluating recovery under assisted natural regeneration in a post-fire montane forest. 
+Serwaa, A.\*, Masozera, A., Vedder,A., Mulindahabi,F., Bachmann, G., Flores, M., **Queenborough, S.A.**, Ashton, M.S., Comita. L.S. 0000. From fernland to forest: evaluating recovery under assisted natural regeneration in a post-fire montane forest. *Restoration Ecology*.
 
 Spicer, M.E., ... **Queenborough, S.A.** 0000. Standardized methods for incorporating herbaceous plant surveys into existing global tree plot networks. *Methods in Ecology & Evolution*. 
 
