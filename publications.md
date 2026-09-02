@@ -46,7 +46,7 @@ Serwaa, A.\*, Masozera, A., Vedder,A., Mulindahabi,F., Bachmann, G., Flores, M.,
 
 Spicer, M.E., ... **Queenborough, S.A.** 0000. Standardized methods for incorporating herbaceous plant surveys into existing global tree plot networks. *Methods in Ecology & Evolution*. 
 
-Sullivan, M.K.\* & **Queenborough, S.A.** 0000. Testing leaf trait-climate relationships in the Brazilian Cerrado. *Biotropica*
+Sullivan, M.K. & **Queenborough, S.A.** 0000. Testing leaf trait-climate relationships in the Brazilian Cerrado. *Biotropica*
 
 Wu, G., Che, D., Liu S, Akite, P., Arroyo Padilla, L., Cristo de Almeida, E., Bastin, J.-F., Burslem, D.F.R.P., Chapman, C.A., Dexter, K.G., Gonmadje, C., Hamilton, A., Jucker,T., Laurance, W.F., Lindsell, J., Lovett, J., Marshall, A., Marimon Junior, B.H., Marimon, B.S., Munishi, P., Peh, K.S.-H., Pipoly III, J.J., Primack, R.B., **Queenborough, S.A.,** Segovia, R.A., Sheil, D., Silveira, M., Taylor, D., ter Steege, H., Pennington, R.T., Phillips, O.L., Baker, T.R. 0000. Variation in life history strategies drives increased niche width and range expansion in tropical trees. *Nature Ecology & Evolution*. 
 
