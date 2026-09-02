@@ -48,6 +48,8 @@ Sullivan, M.K.\* & **Queenborough, S.A.** 0000. Testing leaf trait-climate relat
 
 Wu, G., Che, D., Liu S, Akite, P., Arroyo Padilla, L., Cristo de Almeida, E., Bastin, J.-F., Burslem, D.F.R.P., Chapman, C.A., Dexter, K.G., Gonmadje, C., Hamilton, A., Jucker,T., Laurance, W.F., Lindsell, J., Lovett, J., Marshall, A., Marimon Junior, B.H., Marimon, B.S., Munishi, P., Peh, K.S.-H., Pipoly III, J.J., Primack, R.B., **Queenborough, S.A.,** Segovia, R.A., Sheil, D., Silveira, M., Taylor, D., ter Steege, H., Pennington, R.T., Phillips, O.L., Baker, T.R. 0000. Variation in life history strategies drives increased niche width and range expansion in tropical trees. *Nature Ecology & Evolution*. 
 
+Sullivan, M.K. Mulindahabi, F., Bana, M., Dugger, P.J., **Queenborough, S.A.**, Kaplin, B.A. 0000. Shifts in fruit availability for chimpanzees (*Pan troglodytes*) over 25 years in an Afromontane forest. 
+
 Herrera-Cueva, J.C.\*\*, **Queenborough, S.A.**, Zambrano, M., & Valencia, R. 0000. Diversity of seeds dispersed by understory birds of the Amazon rain forest of Yasuní. *Biotropica*.
 
 Roberts, S.C.\*, Jammeh, K., **Queenborough, S.A.**, Weissflog, A., Estrada-Villegas, S., Huanca-Nuñez, N., Browne, L., Dent, D., DeWalt, S., Lopez, O., & Comita, L.S. 0000. Tree community drought sensitivity declines with forest age across a tropical moist forest chronosequence. *Journal of Applied Ecology*.
