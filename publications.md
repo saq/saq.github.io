@@ -58,8 +58,6 @@ Dhananjaya, T., Lakkana, T., Udagedara, T., Perera, A., **Queenborough, S.A.**, 
 
 Herrera-Cueva, J.C.\*\*, **Queenborough, S.A.**, Zambrano, M., & Valencia, R. 0000. Diversity of seeds dispersed by understory birds of the Amazon rain forest of Yasuní. *Biotropica*.
 
-Roberts, S.C.\*, Jammeh, K., **Queenborough, S.A.**, Weissflog, A., Estrada-Villegas, S., Huanca-Nuñez, N., Browne, L., Dent, D., DeWalt, S., Lopez, O., & Comita, L.S. 0000. Tree community drought sensitivity declines with forest age across a tropical moist forest chronosequence. *Journal of Applied Ecology*.
-
 Woodbury, D.J.\*, Martin. M.P., Comita, L.S., Ediriweera, S., Jayawickrama,H., **Queenborough, S.A.**, Armstrong, K.E., & Ashton, M.S. 0000. Land tenure and human use influence tree species composition in Sri Lankan rainforest fragments. *Ecological Applications*.
 
 Garcia de la Chica, A., van der Heide, G., Lois, N., Wood, D.B., **Queenborough, S.A.**, & Fernandez-Duque, E. 0000.  Disentangling the dynamics among climate, food availability, and reproduction in a pair-living, monogamous primate. *Proceedings of the Royal Society B.*.
@@ -69,7 +67,10 @@ Wei Lin\*, Yonghua Zhang, & **Queenborough, S.A.**, Ming Ni, Qing He, Buhang Li,
 
 <!--- #### Accepted--->
 
+Roberts, S.C.\*, Jammeh, K., **Queenborough, S.A.**, Weissflog, A., Estrada-Villegas, S., Huanca-Nuñez, N., Browne, L., Dent, D., DeWalt, S., Lopez, O., & Comita, L.S. 0000. Tree community drought sensitivity declines with forest age across a tropical moist forest chronosequence. *Journal of Applied Ecology*. [doi](https://doi.org/10.1111/1365-2664.70662): 10.1111/1365-2664.70662
+
 #### 2026
+
 Radhamoni, H.V.N.\*, Spicer, M.E., Duguid, M., Comita, L.S., Bruna, E., Andrade, A., Beck, J., Burton, J., Chuquillanqui, H., Cicuzza, D., Dovciak, M., Gilliam, F,. Greig, K., Hale, C., Hulshof, C., Izlar, N., Johnson, S., LaManna, J., Matlaga, D., Melly, D., Menzmer, A., Miller, K., Moulatlet, G., Myers, J., Sah, J., Vaz, M., Wassel, A., Wessel, S., Yin, J., Zuluaga, A., & **Queenborough, S.A.** 2026. Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. *Journal of Vegetation Science*. 37, e70168. [doi](https://doi.org/10.1111/jvs.70168): 10.1111/jvs.70168
 
 Montalvo Yanez, S.G.\*, Piotto, D., Montagnini, F., & **Queenborough, S.A.** 2026. Shade-tree biomass and ecosystem services remain stable over 8 years in cocoa agroforestry systems in Bahia, Brazil. *Agroforestry Systems*, 100, 172. [doi](https://doi.org/10.1007/s10457-026-01542-3): 10.1007/s10457-026-01542-3
