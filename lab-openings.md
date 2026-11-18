@@ -6,7 +6,7 @@ title: Lab Openings
 
 # Lab Openings
 
-**Updated: Fall 2025** 
+**Updated: Fall 2026** 
 
 This page gives a great overview of the process of applying to graduate school: [https://career-advice.jobs.ac.uk/before-your-phd/how-to-choose-a-phd-research-topic/] 
 
@@ -50,7 +50,7 @@ In my current non-ladder faculty position, I am **not able** to directly supervi
 
 #### Masters: yes!
 
-I **am able** to directly advise Masters students in the MESc and MFS programs, as well as advise MEM and MF students.
+I **am able** to directly advise Masters students in the MESc and MFS programs, as well as advise MEM and MF students. See here for [YSE Master's admissions](https://environment.yale.edu/admissions/masters).
 
 The qualities I look for in graduate students include: highly motivated to pursue answers to outstanding questions in ecology and evolution, an integrative research approach, ability to learn and train themselves, good quantitative, analytical, reasoning, writing and editing skills.
 
@@ -64,6 +64,7 @@ If you are interested in pursuing graduate work in my lab, please email a statem
 
 YSE has a new program to support students from the global south: [https://environment.yale.edu/three-cairns](https://environment.yale.edu/three-cairns)
 
+General [YSE funding](https://environment.yale.edu/admissions/masters/funding-your-degree) pages.
 
 #### NSF Graduate Research Fellowships
 
